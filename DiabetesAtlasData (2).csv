@@ -1,0 +1,3144 @@
+FIPS,Urban_Rural,County,State,Obesity-2014-Percentage,Overall SVI-2014-Percentile
+56039,Urban,Teton County,Wyoming,10.5,0.0793
+08117,Urban,Summit County,Colorado,13.8,0.0656
+08013,Urban,Boulder County,Colorado,13.9,0.1875
+08037,Urban,Eagle County,Colorado,14.2,0.163
+08107,Urban,Routt County,Colorado,14.2,0.0385
+49043,Urban,Summit County,Utah,14.4,0.0704
+08051,Rural,Gunnison County,Colorado,14.5,0.2525
+35049,Urban,Santa Fe County,New Mexico,15.1,0.5934
+30031,Urban,Gallatin County,Montana,15.2,0.0669
+36061,Urban,New York County,New York,15.7,0.5205
+51013,Urban,Arlington County,Virginia,15.7,0.1044
+08097,Urban,Pitkin County,Colorado,15.9,0.0357
+08067,Urban,La Plata County,Colorado,16.1,0.121
+06075,Urban,San Francisco County,California,16.6,0.419
+41063,Rural,Wallowa County,Oregon,16.9,0.3887
+08035,Urban,Douglas County,Colorado,17,0.0188
+16013,Urban,Blaine County,Idaho,17,0.2528
+08007,Rural,Archuleta County,Colorado,17.1,0.2318
+53055,Rural,San Juan County,Washington,17.1,0.1232
+35003,Rural,Catron County,New Mexico,17.2,0.4922
+08014,Urban,Broomfield County,Colorado,17.5,0.0777
+51133,Rural,Northumberland County,Virginia,17.5,0.2493
+46107,Rural,Potter County,South Dakota,17.6,0.1353
+48363,Urban,Palo Pinto County,Texas,17.6,0.8067
+48243,Rural,Jeff Davis County,Texas,17.7,0.4317
+06041,Urban,Marin County,California,17.8,0.2833
+08031,Urban,Denver County,Colorado,17.8,0.5342
+08113,Rural,San Miguel County,Colorado,17.8,0.0637
+48071,Urban,Chambers County,Texas,17.8,0.2604
+48263,Rural,Kent County,Texas,17.9,0.4164
+48425,Urban,Somervell County,Texas,17.9,0.5632
+51510,Urban,Alexandria City,Virginia,17.9,0.1573
+51735,Urban,Poquoson City,Virginia,17.9,0.0121
+48065,Urban,Carson County,Texas,18,0.0984
+48151,Rural,Fisher County,Texas,18,0.4244
+48191,Rural,Hall County,Texas,18,0.9032
+48319,Rural,Mason County,Texas,18,0.1964
+48337,Rural,Montague County,Texas,18,0.4862
+51101,Urban,King William County,Virginia,18,0.057
+35028,Urban,Los Alamos County,New Mexico,18.1,0.0427
+48075,Rural,Childress County,Texas,18.1,0.4712
+48333,Rural,Mills County,Texas,18.1,0.5294
+16015,Urban,Boise County,Idaho,18.2,0.1372
+37177,Urban,Tyrrell County,North Carolina,18.2,0.8949
+48079,Rural,Cochran County,Texas,18.2,0.9296
+48125,Rural,Dickens County,Texas,18.2,0.7208
+51091,Rural,Highland County,Virginia,18.2,0.0965
+08049,Rural,Grand County,Colorado,18.3,0.0774
+48049,Urban,Brown County,Texas,18.3,0.7061
+48087,Rural,Collingsworth County,Texas,18.3,0.7459
+48115,Urban,Dawson County,Texas,18.3,0.8691
+48153,Rural,Floyd County,Texas,18.3,0.8548
+48175,Urban,Goliad County,Texas,18.3,0.5629
+48269,Rural,King County,Texas,18.3,0.1859
+48275,Rural,Knox County,Texas,18.3,0.8758
+48293,Rural,Limestone County,Texas,18.3,0.8739
+48313,Rural,Madison County,Texas,18.3,0.915
+48317,Urban,Martin County,Texas,18.3,0.5024
+48327,Rural,Menard County,Texas,18.3,0.8418
+48335,Rural,Mitchell County,Texas,18.3,0.6202
+48359,Urban,Oldham County,Texas,18.3,0.6886
+48377,Rural,Presidio County,Texas,18.3,0.9678
+48417,Rural,Shackelford County,Texas,18.3,0.4238
+51181,Rural,Surry County,Virginia,18.3,0.4276
+51595,Rural,Emporia City,Virginia,18.3,0.9787
+51640,Rural,Galax City,Virginia,18.3,0.9799
+46073,Rural,Jerauld County,South Dakota,18.4,0.2439
+48101,Rural,Cottle County,Texas,18.4,0.5973
+48155,Rural,Foard County,Texas,18.4,0.4925
+48159,Rural,Franklin County,Texas,18.4,0.447
+48169,Rural,Garza County,Texas,18.4,0.4881
+48207,Rural,Haskell County,Texas,18.4,0.8507
+48229,Urban,Hudspeth County,Texas,18.4,0.9796
+48393,Rural,Roberts County,Texas,18.4,0.0019
+48429,Rural,Stephens County,Texas,18.4,0.7682
+48431,Rural,Sterling County,Texas,18.4,0.5696
+48507,Rural,Zavala County,Texas,18.4,0.9962
+51530,Rural,Buena Vista City,Virginia,18.4,0.702
+08059,Urban,Jefferson County,Colorado,18.5,0.0914
+08079,Rural,Mineral County,Colorado,18.5,0.0175
+48011,Urban,Armstrong County,Texas,18.5,0.2209
+48043,Rural,Brewster County,Texas,18.5,0.4756
+48047,Rural,Brooks County,Texas,18.5,0.9997
+48069,Rural,Castro County,Texas,18.5,0.6699
+48093,Rural,Comanche County,Texas,18.5,0.8039
+48095,Rural,Concho County,Texas,18.5,0.4744
+48109,Rural,Culberson County,Texas,18.5,0.9685
+48129,Rural,Donley County,Texas,18.5,0.5775
+48137,Rural,Edwards County,Texas,18.5,0.7345
+48163,Rural,Frio County,Texas,18.5,0.9784
+48211,Rural,Hemphill County,Texas,18.5,0.4734
+48237,Rural,Jack County,Texas,18.5,0.5463
+48239,Rural,Jackson County,Texas,18.5,0.674
+48257,Urban,Kaufman County,Texas,18.5,0.5883
+48283,Rural,La Salle County,Texas,18.5,0.9608
+48383,Rural,Reagan County,Texas,18.5,0.5575
+48391,Rural,Refugio County,Texas,18.5,0.8933
+48413,Rural,Schleicher County,Texas,18.5,0.7657
+48475,Rural,Ward County,Texas,18.5,0.8707
+48495,Rural,Winkler County,Texas,18.5,0.6625
+48501,Rural,Yoakum County,Texas,18.5,0.6256
+51600,Urban,Fairfax City,Virginia,18.5,0.2031
+32009,Rural,Esmeralda County,Nevada,18.6,0.9054
+36095,Urban,Schoharie County,New York,18.6,0.3419
+37095,Rural,Hyde County,North Carolina,18.6,0.7428
+48033,Rural,Borden County,Texas,18.6,0.0471
+48105,Rural,Crockett County,Texas,18.6,0.7383
+48119,Rural,Delta County,Texas,18.6,0.6055
+48193,Rural,Hamilton County,Texas,18.6,0.4702
+48295,Rural,Lipscomb County,Texas,18.6,0.2184
+48385,Rural,Real County,Texas,18.6,0.8386
+48421,Rural,Sherman County,Texas,18.6,0.625
+48433,Rural,Stonewall County,Texas,18.6,0.7431
+51580,Rural,Covington City,Virginia,18.6,0.2977
+51720,Urban,Norton City,Virginia,18.6,0.5091
+08027,Rural,Custer County,Colorado,18.7,0.177
+30095,Rural,Stillwater County,Montana,18.7,0.0567
+48267,Rural,Kimble County,Texas,18.7,0.5138
+48279,Rural,Lamb County,Texas,18.7,0.8876
+48301,Rural,Loving County,Texas,18.7,0.2732
+48315,Rural,Marion County,Texas,18.7,0.4776
+48443,Rural,Terrell County,Texas,18.7,0.4196
+48461,Rural,Upton County,Texas,18.7,0.6358
+51678,Rural,Lexington City,Virginia,18.7,0.3559
+56019,Rural,Johnson County,Wyoming,18.7,0.0433
+08069,Urban,Larimer County,Colorado,18.8,0.1388
+16081,Urban,Teton County,Idaho,18.8,0.3709
+36041,Rural,Hamilton County,New York,18.8,0.0544
+37175,Urban,Transylvania County,North Carolina,18.8,0.3219
+48025,Urban,Bee County,Texas,18.8,0.9331
+48127,Rural,Dimmit County,Texas,18.8,0.9583
+48161,Rural,Freestone County,Texas,18.8,0.7896
+48247,Rural,Jim Hogg County,Texas,18.8,0.9217
+48261,Urban,Kenedy County,Texas,18.8,0.6628
+48299,Rural,Llano County,Texas,18.8,0.3289
+48435,Rural,Sutton County,Texas,18.8,0.453
+48455,Urban,Trinity County,Texas,18.8,0.6609
+48489,Urban,Willacy County,Texas,18.8,0.9933
+48503,Rural,Young County,Texas,18.8,0.5858
+08065,Rural,Lake County,Colorado,18.9,0.362
+46021,Rural,Campbell County,South Dakota,18.9,0.0532
+47137,Rural,Pickett County,Tennessee,18.9,0.3722
+48103,Rural,Crane County,Texas,18.9,0.7119
+48173,Urban,Glasscock County,Texas,18.9,0.0981
+48197,Rural,Hardeman County,Texas,18.9,0.879
+48235,Urban,Irion County,Texas,18.9,0.0933
+48271,Rural,Kinney County,Texas,18.9,0.9535
+48345,Rural,Motley County,Texas,18.9,0.5712
+12021,Urban,Collier County,Florida,19,0.5174
+46055,Rural,Haakon County,South Dakota,19,0.2127
+46085,Rural,Lyman County,South Dakota,19,0.581
+47121,Rural,Meigs County,Tennessee,19,0.7479
+48023,Rural,Baylor County,Texas,19,0.2948
+48415,Urban,Scurry County,Texas,19,0.6527
+51685,Urban,Manassas Park City,Virginia,19,0.3588
+08019,Urban,Clear Creek County,Colorado,19.1,0.0108
+31135,Rural,Perkins County,Nebraska,19.1,0.0083
+36079,Urban,Putnam County,New York,19.1,0.1213
+37187,Rural,Washington County,North Carolina,19.1,0.9491
+41055,Rural,Sherman County,Oregon,19.1,0.2958
+46119,Urban,Sully County,South Dakota,19.1,0.0302
+48017,Rural,Bailey County,Texas,19.1,0.7157
+48045,Rural,Briscoe County,Texas,19.1,0.4737
+48291,Urban,Liberty County,Texas,19.1,0.9389
+48505,Urban,Zapata County,Texas,19.1,0.9376
+51017,Rural,Bath County,Virginia,19.1,0.1124
+51830,Urban,Williamsburg City,Virginia,19.1,0.376
+08033,Rural,Dolores County,Colorado,19.2,0.3107
+16025,Urban,Camas County,Idaho,19.2,0.5279
+17145,Rural,Perry County,Illinois,19.2,0.6189
+37075,Rural,Graham County,North Carolina,19.2,0.5759
+46089,Rural,Mcpherson County,South Dakota,19.2,0.3177
+48081,Rural,Coke County,Texas,19.2,0.3467
+48083,Rural,Coleman County,Texas,19.2,0.595
+48089,Rural,Colorado County,Texas,19.2,0.5839
+48349,Urban,Navarro County,Texas,19.2,0.9748
+48371,Rural,Pecos County,Texas,19.2,0.8265
+48387,Rural,Red River County,Texas,19.2,0.7947
+51119,Rural,Middlesex County,Virginia,19.2,0.1544
+06017,Urban,El Dorado County,California,19.3,0.178
+08053,Rural,Hinsdale County,Colorado,19.3,0.0038
+25015,Urban,Hampshire County,Massachusetts,19.3,0.1948
+37043,Rural,Clay County,North Carolina,19.3,0.3642
+48031,Rural,Blanco County,Texas,19.3,0.2843
+48273,Urban,Kleberg County,Texas,19.3,0.9834
+48297,Rural,Live Oak County,Texas,19.3,0.7217
+48311,Rural,Mcmullen County,Texas,19.3,0.5361
+48389,Urban,Reeves County,Texas,19.3,0.8825
+48447,Rural,Throckmorton County,Texas,19.3,0.2541
+12115,Urban,Sarasota County,Florida,19.4,0.3212
+13211,Urban,Morgan County,Georgia,19.4,0.3375
+19189,Rural,Winnebago County,Iowa,19.4,0.1321
+20063,Rural,Gove County,Kansas,19.4,0.0124
+30057,Rural,Madison County,Montana,19.4,0.0283
+48009,Urban,Archer County,Texas,19.4,0.0888
+48131,Rural,Duval County,Texas,19.4,0.9959
+48195,Rural,Hansford County,Texas,19.4,0.524
+48227,Urban,Howard County,Texas,19.4,0.8602
+50007,Urban,Chittenden County,Vermont,19.4,0.1229
+06057,Urban,Nevada County,California,19.5,0.1939
+06059,Urban,Orange County,California,19.5,0.4578
+06085,Urban,Santa Clara County,California,19.5,0.4005
+08093,Urban,Park County,Colorado,19.5,0
+29185,Rural,St. Clair County,Missouri,19.5,0.7087
+40057,Rural,Harmon County,Oklahoma,19.5,0.7765
+47067,Rural,Hancock County,Tennessee,19.5,0.7752
+47127,Urban,Moore County,Tennessee,19.5,0.276
+48055,Urban,Caldwell County,Texas,19.5,0.9338
+48147,Rural,Fannin County,Texas,19.5,0.7354
+48171,Urban,Gillespie County,Texas,19.5,0.4632
+48411,Rural,San Saba County,Texas,19.5,0.5966
+48449,Urban,Titus County,Texas,19.5,0.9214
+05013,Urban,Calhoun County,Arkansas,19.6,0.5018
+06001,Urban,Alameda County,California,19.6,0.5565
+06109,Urban,Tuolumne County,California,19.6,0.5642
+08039,Urban,Elbert County,Colorado,19.6,0.0064
+17065,Rural,Hamilton County,Illinois,19.6,0.2983
+29197,Urban,Schuyler County,Missouri,19.6,0.5412
+32021,Rural,Mineral County,Nevada,19.6,0.9023
+37029,Urban,Camden County,North Carolina,19.6,0.3569
+37115,Urban,Madison County,North Carolina,19.6,0.6154
+37149,Rural,Polk County,North Carolina,19.6,0.4435
+38039,Rural,Griggs County,North Dakota,19.6,0.0334
+40107,Rural,Okfuskee County,Oklahoma,19.6,0.9271
+41021,Rural,Gilliam County,Oregon,19.6,0.1474
+47033,Urban,Crockett County,Tennessee,19.6,0.7412
+48107,Urban,Crosby County,Texas,19.6,0.9029
+48133,Rural,Eastland County,Texas,19.6,0.7437
+48353,Urban,Nolan County,Texas,19.6,0.9086
+48357,Rural,Ochiltree County,Texas,19.6,0.6651
+51175,Rural,Southampton County,Virginia,19.6,0.4314
+51790,Urban,Staunton City,Virginia,19.6,0.5447
+06091,Rural,Sierra County,California,19.7,0.1385
+08009,Rural,Baca County,Colorado,19.7,0.3824
+08091,Rural,Ouray County,Colorado,19.7,0.0194
+13201,Rural,Miller County,Georgia,19.7,0.8962
+17003,Urban,Alexander County,Illinois,19.7,0.9965
+24031,Urban,Montgomery County,Maryland,19.7,0.277
+27045,Urban,Fillmore County,Minnesota,19.7,0.2012
+35021,Rural,Harding County,New Mexico,19.7,0.4597
+35027,Rural,Lincoln County,New Mexico,19.7,0.6269
+46075,Rural,Jones County,South Dakota,19.7,0.0146
+48241,Rural,Jasper County,Texas,19.7,0.8867
+48307,Rural,Mcculloch County,Texas,19.7,0.7068
+48437,Rural,Swisher County,Texas,19.7,0.9083
+51163,Rural,Rockbridge County,Virginia,19.7,0.1156
+06027,Rural,Inyo County,California,19.8,0.7033
+06087,Urban,Santa Cruz County,California,19.8,0.4944
+13231,Urban,Pike County,Georgia,19.8,0.3378
+13249,Urban,Schley County,Georgia,19.8,0.8889
+15007,Urban,Kauai County,Hawaii,19.8,0.3145
+32011,Urban,Eureka County,Nevada,19.8,0.0213
+48063,Rural,Camp County,Texas,19.8,0.9325
+48077,Urban,Clay County,Texas,19.8,0.2111
+49029,Urban,Morgan County,Utah,19.8,0.0016
+51049,Rural,Cumberland County,Virginia,19.8,0.6186
+51660,Urban,Harrisonburg City,Virginia,19.8,0.7243
+06063,Rural,Plumas County,California,19.9,0.467
+06083,Urban,Santa Barbara County,California,19.9,0.7364
+08085,Urban,Montrose County,Colorado,19.9,0.688
+13239,Rural,Quitman County,Georgia,19.9,0.8383
+15005,Urban,Kalawao County,Hawaii,19.9,0.4514
+17017,Rural,Cass County,Illinois,19.9,0.6673
+36121,Rural,Wyoming County,New York,19.9,0.2509
+48407,Rural,San Jacinto County,Texas,19.9,0.7771
+48487,Urban,Wilbarger County,Texas,19.9,0.9319
+51540,Urban,Charlottesville City,Virginia,19.9,0.3738
+51570,Urban,Colonial Heights City,Virginia,19.9,0.4177
+12085,Urban,Martin County,Florida,20,0.4183
+17151,Rural,Pope County,Illinois,20,0.3741
+46069,Rural,Hyde County,South Dakota,20,0.1426
+47095,Rural,Lake County,Tennessee,20,0.9663
+47153,Urban,Sequatchie County,Tennessee,20,0.7424
+48185,Rural,Grimes County,Texas,20,0.8551
+48255,Rural,Karnes County,Texas,20,0.8956
+48397,Urban,Rockwall County,Texas,20,0.1289
+48403,Rural,Sabine County,Texas,20,0.7182
+51059,Urban,Fairfax County,Virginia,20,0.1439
+51107,Urban,Loudoun County,Virginia,20,0.0876
+51775,Urban,Salem City,Virginia,20,0.3699
+08111,Rural,San Juan County,Colorado,20.1,0.192
+13101,Urban,Echols County,Georgia,20.1,0.8946
+13125,Rural,Glascock County,Georgia,20.1,0.5304
+13301,Rural,Warren County,Georgia,20.1,0.9382
+17047,Rural,Edwards County,Illinois,20.1,0.2174
+17079,Rural,Jasper County,Illinois,20.1,0.0376
+17139,Rural,Moultrie County,Illinois,20.1,0.4018
+17153,Rural,Pulaski County,Illinois,20.1,0.8364
+25007,Urban,Dukes County,Massachusetts,20.1,0.028
+28055,Rural,Issaquena County,Mississippi,20.1,0.9239
+36119,Urban,Westchester County,New York,20.1,0.5559
+48149,Rural,Fayette County,Texas,20.1,0.2897
+48205,Rural,Hartley County,Texas,20.1,0.354
+48305,Urban,Lynn County,Texas,20.1,0.7692
+48395,Urban,Robertson County,Texas,20.1,0.9335
+49009,Rural,Daggett County,Utah,20.1,0.2614
+49019,Rural,Grand County,Utah,20.1,0.446
+51097,Rural,King And Queen County,Virginia,20.1,0.2222
+51610,Urban,Falls Church City,Virginia,20.1,0.1633
+51683,Urban,Manassas City,Virginia,20.1,0.5333
+51690,Urban,Martinsville City,Virginia,20.1,0.9507
+02230,Rural,Skagway Municipality,Alaska,20.2,0.1137
+06049,Rural,Modoc County,California,20.2,0.6972
+12087,Urban,Monroe County,Florida,20.2,0.5116
+13061,Rural,Clay County,Georgia,20.2,0.9863
+13199,Urban,Meriwether County,Georgia,20.2,0.943
+13265,Rural,Taliaferro County,Georgia,20.2,0.8863
+13307,Rural,Webster County,Georgia,20.2,0.766
+16085,Rural,Valley County,Idaho,20.2,0.1108
+17059,Rural,Gallatin County,Illinois,20.2,0.3247
+17175,Urban,Stark County,Illinois,20.2,0.0885
+19117,Rural,Lucas County,Iowa,20.2,0.4938
+25001,Urban,Barnstable County,Massachusetts,20.2,0.084
+29179,Rural,Reynolds County,Missouri,20.2,0.7259
+36033,Urban,Franklin County,New York,20.2,0.6718
+37135,Urban,Orange County,North Carolina,20.2,0.3499
+39135,Rural,Preble County,Ohio,20.2,0.1531
+41013,Urban,Crook County,Oregon,20.2,0.6966
+41037,Rural,Lake County,Oregon,20.2,0.5622
+46053,Rural,Gregory County,South Dakota,20.2,0.412
+48059,Urban,Callahan County,Texas,20.2,0.4304
+48177,Rural,Gonzales County,Texas,20.2,0.9713
+48217,Rural,Hill County,Texas,20.2,0.8851
+48343,Rural,Morris County,Texas,20.2,0.8392
+06051,Rural,Mono County,California,20.3,0.3594
+12109,Urban,St. Johns County,Florida,20.3,0.0977
+13065,Rural,Clinch County,Georgia,20.3,0.9395
+13273,Urban,Terrell County,Georgia,20.3,0.978
+17009,Rural,Brown County,Illinois,20.3,0.2808
+17087,Rural,Johnson County,Illinois,20.3,0.5002
+17107,Urban,Logan County,Illinois,20.3,0.3878
+17169,Rural,Schuyler County,Illinois,20.3,0.2713
+17193,Rural,White County,Illinois,20.3,0.3337
+32005,Urban,Douglas County,Nevada,20.3,0.1557
+38087,Rural,Slope County,North Dakota,20.3,0.0013
+40035,Rural,Craig County,Oklahoma,20.3,0.7564
+47169,Urban,Trousdale County,Tennessee,20.3,0.6218
+48121,Urban,Denton County,Texas,20.3,0.2534
+06003,Rural,Alpine County,California,20.4,0.4508
+08047,Urban,Gilpin County,Colorado,20.4,0.0086
+08061,Rural,Kiowa County,Colorado,20.4,0.398
+13007,Urban,Baker County,Georgia,20.4,0.631
+13159,Urban,Jasper County,Georgia,20.4,0.6842
+13253,Rural,Seminole County,Georgia,20.4,0.7358
+13281,Rural,Towns County,Georgia,20.4,0.5263
+19173,Rural,Taylor County,Iowa,20.4,0.2954
+21239,Urban,Woodford County,Kentucky,20.4,0.1016
+25021,Urban,Norfolk County,Massachusetts,20.4,0.2053
+30055,Rural,Mccone County,Montana,20.4,0.0032
+35055,Urban,Taos County,New Mexico,20.4,0.8341
+37041,Rural,Chowan County,North Carolina,20.4,0.9287
+46111,Rural,Sanborn County,South Dakota,20.4,0.0509
+47129,Urban,Morgan County,Tennessee,20.4,0.7039
+47175,Rural,Van Buren County,Tennessee,20.4,0.4569
+48399,Rural,Runnels County,Texas,20.4,0.582
+48457,Rural,Tyler County,Texas,20.4,0.765
+51099,Rural,King George County,Virginia,20.4,0.0713
+51111,Rural,Lunenburg County,Virginia,20.4,0.8367
+51820,Urban,Waynesboro City,Virginia,20.4,0.6956
+13035,Urban,Butts County,Georgia,20.5,0.6778
+13165,Rural,Jenkins County,Georgia,20.5,0.9564
+17129,Urban,Menard County,Illinois,20.5,0.0554
+17155,Urban,Putnam County,Illinois,20.5,0.022
+17185,Rural,Wabash County,Illinois,20.5,0.2324
+17189,Rural,Washington County,Illinois,20.5,0.0614
+25019,Rural,Nantucket County,Massachusetts,20.5,0.0834
+30069,Rural,Petroleum County,Montana,20.5,0.0054
+31009,Rural,Blaine County,Nebraska,20.5,0.0353
+34027,Urban,Morris County,New Jersey,20.5,0.1165
+46123,Rural,Tripp County,South Dakota,20.5,0.4282
+47173,Urban,Union County,Tennessee,20.5,0.6765
+48035,Rural,Bosque County,Texas,20.5,0.6004
+48253,Urban,Jones County,Texas,20.5,0.6406
+48331,Rural,Milam County,Texas,20.5,0.928
+48351,Urban,Newton County,Texas,20.5,0.5734
+51021,Rural,Bland County,Virginia,20.5,0.4059
+51045,Urban,Craig County,Virginia,20.5,0.219
+06073,Urban,San Diego County,California,20.6,0.588
+13043,Rural,Candler County,Georgia,20.6,0.9815
+17033,Rural,Crawford County,Illinois,20.6,0.2891
+17035,Urban,Cumberland County,Illinois,20.6,0.361
+17039,Urban,De Witt County,Illinois,20.6,0.0856
+17053,Urban,Ford County,Illinois,20.6,0.2639
+17061,Rural,Greene County,Illinois,20.6,0.2273
+17071,Urban,Henderson County,Illinois,20.6,0.086
+17181,Rural,Union County,Illinois,20.6,0.6138
+20017,Rural,Chase County,Kansas,20.6,0.1493
+28125,Rural,Sharkey County,Mississippi,20.6,0.9809
+30103,Rural,Treasure County,Montana,20.6,0.2677
+35019,Rural,Guadalupe County,New Mexico,20.6,0.8577
+48003,Urban,Andrews County,Texas,20.6,0.4346
+48007,Urban,Aransas County,Texas,20.6,0.7112
+48123,Rural,Dewitt County,Texas,20.6,0.7803
+48231,Urban,Hunt County,Texas,20.6,0.8832
+51127,Urban,New Kent County,Virginia,20.6,0.0296
+51750,Urban,Radford City,Virginia,20.6,0.4916
+06081,Urban,San Mateo County,California,20.7,0.284
+06097,Urban,Sonoma County,California,20.7,0.46
+08015,Rural,Chaffee County,Colorado,20.7,0.2264
+13315,Rural,Wilcox County,Georgia,20.7,0.8943
+17165,Rural,Saline County,Illinois,20.7,0.7679
+17191,Rural,Wayne County,Illinois,20.7,0.2773
+26119,Rural,Montmorency County,Michigan,20.7,0.3894
+30037,Urban,Golden Valley County,Montana,20.7,0.3044
+31183,Rural,Wheeler County,Nebraska,20.7,0.0076
+36057,Urban,Montgomery County,New York,20.7,0.795
+47151,Rural,Scott County,Tennessee,20.7,0.5893
+48051,Urban,Burleson County,Texas,20.7,0.6905
+48405,Rural,San Augustine County,Texas,20.7,0.7787
+48477,Urban,Washington County,Texas,20.7,0.6326
+51003,Urban,Albemarle County,Virginia,20.7,0.1468
+12099,Urban,Palm Beach County,Florida,20.8,0.5801
+13079,Urban,Crawford County,Georgia,20.8,0.6523
+13141,Urban,Hancock County,Georgia,20.8,0.9172
+13191,Urban,Mcintosh County,Georgia,20.8,0.5826
+13259,Rural,Stewart County,Georgia,20.8,0.9873
+13303,Rural,Washington County,Georgia,20.8,0.9373
+17025,Rural,Clay County,Illinois,20.8,0.4072
+17069,Rural,Hardin County,Illinois,20.8,0.6482
+21187,Rural,Owen County,Kentucky,20.8,0.3811
+26083,Urban,Keweenaw County,Michigan,20.8,0.1223
+27019,Urban,Carver County,Minnesota,20.8,0.0274
+27069,Rural,Kittson County,Minnesota,20.8,0.1296
+28009,Urban,Benton County,Mississippi,20.8,0.7526
+29035,Rural,Carter County,Missouri,20.8,0.681
+29161,Urban,Phelps County,Missouri,20.8,0.518
+35011,Rural,De Baca County,New Mexico,20.8,0.5425
+36087,Urban,Rockland County,New York,20.8,0.5918
+37005,Rural,Alleghany County,North Carolina,20.8,0.7109
+37015,Rural,Bertie County,North Carolina,20.8,0.9421
+47105,Urban,Loudon County,Tennessee,20.8,0.4222
+48287,Rural,Lee County,Texas,20.8,0.5492
+51057,Rural,Essex County,Virginia,20.8,0.4674
+51840,Urban,Winchester City,Virginia,20.8,0.7017
+13093,Rural,Dooly County,Georgia,20.9,0.9099
+13181,Urban,Lincoln County,Georgia,20.9,0.6355
+16033,Rural,Clark County,Idaho,20.9,0.9379
+18007,Urban,Benton County,Indiana,20.9,0.2865
+21139,Urban,Livingston County,Kentucky,20.9,0.405
+35051,Rural,Sierra County,New Mexico,20.9,0.7434
+36031,Rural,Essex County,New York,20.9,0.4543
+40025,Rural,Cimarron County,Oklahoma,20.9,0.4795
+47083,Rural,Houston County,Tennessee,20.9,0.6864
+48019,Urban,Bandera County,Texas,20.9,0.3158
+48373,Rural,Polk County,Texas,20.9,0.9198
+06043,Rural,Mariposa County,California,21,0.4521
+08025,Rural,Crowley County,Colorado,21,0.8797
+13149,Urban,Heard County,Georgia,21,0.7011
+17005,Urban,Bond County,Illinois,21,0.4607
+17023,Rural,Clark County,Illinois,21,0.1761
+22125,Urban,West Feliciana Parish,Louisiana,21,0.7106
+26085,Rural,Lake County,Michigan,21,0.8421
+32029,Urban,Storey County,Nevada,21,0.0726
+41069,Rural,Wheeler County,Oregon,21,0.3703
+42029,Urban,Chester County,Pennsylvania,21,0.1261
+47047,Urban,Fayette County,Tennessee,21,0.3091
+47135,Rural,Perry County,Tennessee,21,0.7256
+48281,Urban,Lampasas County,Texas,21,0.5244
+48289,Rural,Leon County,Texas,21,0.546
+48379,Rural,Rains County,Texas,21,0.4537
+48499,Rural,Wood County,Texas,21,0.5651
+49001,Rural,Beaver County,Utah,21,0.3324
+51520,Urban,Bristol City,Virginia,21,0.7717
+06105,Rural,Trinity County,California,21.1,0.5486
+13269,Rural,Taylor County,Georgia,21.1,0.887
+17013,Urban,Calhoun County,Illinois,21.1,0.1092
+17029,Urban,Coles County,Illinois,21.1,0.4454
+17149,Rural,Pike County,Illinois,21.1,0.3394
+20199,Rural,Wallace County,Kansas,21.1,0.1512
+27057,Rural,Hubbard County,Minnesota,21.1,0.0974
+29039,Rural,Cedar County,Missouri,21.1,0.6686
+29043,Urban,Christian County,Missouri,21.1,0.134
+29203,Rural,Shannon County,Missouri,21.1,0.5495
+30107,Rural,Wheatland County,Montana,21.1,0.4123
+32017,Rural,Lincoln County,Nevada,21.1,0.5154
+34003,Urban,Bergen County,New Jersey,21.1,0.2512
+34019,Urban,Hunterdon County,New Jersey,21.1,0.0468
+37137,Urban,Pamlico County,North Carolina,21.1,0.5145
+40075,Rural,Kiowa County,Oklahoma,21.1,0.5928
+41049,Urban,Morrow County,Oregon,21.1,0.8959
+41051,Urban,Multnomah County,Oregon,21.1,0.5307
+46025,Rural,Clark County,South Dakota,21.1,0.2684
+46047,Rural,Fall River County,South Dakota,21.1,0.3747
+46063,Rural,Harding County,South Dakota,21.1,0.0216
+46129,Rural,Walworth County,South Dakota,21.1,0.3518
+47027,Rural,Clay County,Tennessee,21.1,0.5868
+48117,Urban,Deaf Smith County,Texas,21.1,0.8246
+49031,Rural,Piute County,Utah,21.1,0.547
+05147,Rural,Woodruff County,Arkansas,21.2,0.9265
+06061,Urban,Placer County,California,21.2,0.2066
+06111,Urban,Ventura County,California,21.2,0.5126
+13155,Rural,Irwin County,Georgia,21.2,0.7593
+17011,Urban,Bureau County,Illinois,21.2,0.2337
+17159,Rural,Richland County,Illinois,21.2,0.3827
+23013,Rural,Knox County,Maine,21.2,0.1356
+29141,Rural,Morgan County,Missouri,21.2,0.7533
+30011,Rural,Carter County,Montana,21.2,0.0621
+32031,Urban,Washoe County,Nevada,21.2,0.6374
+37121,Rural,Mitchell County,North Carolina,21.2,0.6727
+46049,Rural,Faulk County,South Dakota,21.2,0.2206
+47025,Rural,Claiborne County,Tennessee,21.2,0.6578
+48483,Rural,Wheeler County,Texas,21.2,0.3843
+51063,Urban,Floyd County,Virginia,21.2,0.1668
+02100,Rural,Haines Borough,Alaska,21.3,0.1455
+05039,Rural,Dallas County,Arkansas,21.3,0.7931
+06011,Rural,Colusa County,California,21.3,0.8504
+06093,Rural,Siskiyou County,California,21.3,0.8227
+08045,Urban,Garfield County,Colorado,21.3,0.475
+08119,Urban,Teller County,Colorado,21.3,0.0379
+13011,Rural,Banks County,Georgia,21.3,0.6049
+13053,Urban,Chattahoochee County,Georgia,21.3,0.6046
+16057,Urban,Latah County,Idaho,21.3,0.2827
+21223,Urban,Trimble County,Kentucky,21.3,0.568
+24027,Urban,Howard County,Maryland,21.3,0.0961
+29005,Rural,Atchison County,Missouri,21.3,0.127
+29075,Rural,Gentry County,Missouri,21.3,0.4562
+30059,Rural,Meagher County,Montana,21.3,0.113
+36021,Urban,Columbia County,New York,21.3,0.3327
+37053,Urban,Currituck County,North Carolina,21.3,0.071
+40045,Rural,Ellis County,Oklahoma,21.3,0.1414
+42023,Rural,Cameron County,Pennsylvania,21.3,0.2999
+46003,Rural,Aurora County,South Dakota,21.3,0.1987
+46087,Urban,Mccook County,South Dakota,21.3,0.0802
+48341,Urban,Moore County,Texas,21.3,0.788
+48453,Urban,Travis County,Texas,21.3,0.497
+51023,Urban,Botetourt County,Virginia,21.3,0.0115
+01011,Rural,Bullock County,Alabama,21.4,0.9914
+04005,Urban,Coconino County,Arizona,21.4,0.8169
+08029,Rural,Delta County,Colorado,21.4,0.6024
+13319,Rural,Wilkinson County,Georgia,21.4,0.6606
+17171,Urban,Scott County,Illinois,21.4,0.2003
+22023,Urban,Cameron Parish,Louisiana,21.4,0.1519
+27039,Urban,Dodge County,Minnesota,21.4,0.0462
+29219,Urban,Warren County,Missouri,21.4,0.4425
+29227,Rural,Worth County,Missouri,21.4,0.0751
+30109,Rural,Wibaux County,Montana,21.4,0.1401
+39005,Urban,Ashland County,Ohio,21.4,0.4932
+40055,Rural,Greer County,Oklahoma,21.4,0.5976
+48321,Urban,Matagorda County,Texas,21.4,0.872
+49055,Rural,Wayne County,Utah,21.4,0.2557
+55127,Urban,Walworth County,Wisconsin,21.4,0.298
+06015,Urban,Del Norte County,California,21.5,0.9771
+09001,Urban,Fairfield County,Connecticut,21.5,0.4273
+13171,Urban,Lamar County,Georgia,21.5,0.6307
+17101,Rural,Lawrence County,Illinois,21.5,0.6832
+17123,Urban,Marshall County,Illinois,21.5,0.0583
+20179,Rural,Sheridan County,Kansas,21.5,0.0818
+27073,Rural,Lac Qui Parle County,Minnesota,21.5,0.0564
+36037,Urban,Genesee County,New York,21.5,0.1882
+37011,Rural,Avery County,North Carolina,21.5,0.7561
+38091,Rural,Steele County,North Dakota,21.5,0.0022
+40029,Rural,Coal County,Oklahoma,21.5,0.7647
+41003,Urban,Benton County,Oregon,21.5,0.3591
+46045,Urban,Edmunds County,South Dakota,21.5,0.0318
+47187,Urban,Williamson County,Tennessee,21.5,0.0137
+48199,Urban,Hardin County,Texas,21.5,0.3136
+48401,Urban,Rusk County,Texas,21.5,0.7138
+51115,Urban,Mathews County,Virginia,21.5,0.0347
+06045,Urban,Mendocino County,California,21.6,0.8752
+17015,Rural,Carroll County,Illinois,21.6,0.1958
+18115,Urban,Ohio County,Indiana,21.6,0.1601
+26135,Rural,Oscoda County,Michigan,21.6,0.6463
+27011,Rural,Big Stone County,Minnesota,21.6,0.1907
+29057,Rural,Dade County,Missouri,21.6,0.4741
+34035,Urban,Somerset County,New Jersey,21.6,0.1238
+37031,Urban,Carteret County,North Carolina,21.6,0.5833
+37073,Urban,Gates County,North Carolina,21.6,0.4823
+48143,Urban,Erath County,Texas,21.6,0.6275
+48471,Urban,Walker County,Texas,21.6,0.6979
+51043,Urban,Clarke County,Virginia,21.6,0.0439
+06009,Rural,Calaveras County,California,21.7,0.226
+13243,Rural,Randolph County,Georgia,21.7,0.9561
+13289,Urban,Twiggs County,Georgia,21.7,0.7482
+15001,Urban,Hawaii County,Hawaii,21.7,0.5922
+20023,Rural,Cheyenne County,Kansas,21.7,0.0573
+21215,Urban,Spencer County,Kentucky,21.7,0.1076
+25011,Urban,Franklin County,Massachusetts,21.7,0.1952
+25017,Urban,Middlesex County,Massachusetts,21.7,0.2276
+30079,Rural,Prairie County,Montana,21.7,0.1703
+31091,Rural,Hooker County,Nebraska,21.7,0.0831
+31117,Urban,Mcpherson County,Nebraska,21.7,0.0223
+35023,Rural,Hidalgo County,New Mexico,21.7,0.9924
+37193,Urban,Wilkes County,North Carolina,21.7,0.8669
+38095,Rural,Towner County,North Dakota,21.7,0.0248
+42057,Rural,Fulton County,Pennsylvania,21.7,0.2356
+48165,Rural,Gaines County,Texas,21.7,0.5272
+53033,Urban,King County,Washington,21.7,0.291
+56035,Rural,Sublette County,Wyoming,21.7,0.0331
+08005,Urban,Arapahoe County,Colorado,21.8,0.3317
+13129,Urban,Gordon County,Georgia,21.8,0.7759
+17041,Rural,Douglas County,Illinois,21.8,0.3505
+17067,Urban,Hancock County,Illinois,21.8,0.0917
+20025,Rural,Clark County,Kansas,21.8,0.3241
+20089,Rural,Jewell County,Kansas,21.8,0.021
+20093,Urban,Kearny County,Kansas,21.8,0.3362
+21181,Rural,Nicholas County,Kentucky,21.8,0.3582
+21185,Urban,Oldham County,Kentucky,21.8,0.0484
+28155,Rural,Webster County,Mississippi,21.8,0.8122
+29119,Urban,Mcdonald County,Missouri,21.8,0.8138
+29183,Urban,St. Charles County,Missouri,21.8,0.0522
+30063,Urban,Missoula County,Montana,21.8,0.2426
+36123,Urban,Yates County,New York,21.8,0.5352
+37103,Urban,Jones County,North Carolina,21.8,0.8252
+37173,Rural,Swain County,North Carolina,21.8,0.6998
+38007,Rural,Billings County,North Dakota,21.8,0.0073
+39083,Urban,Knox County,Ohio,21.8,0.3763
+45013,Urban,Beaufort County,South Carolina,21.8,0.4868
+47101,Rural,Lewis County,Tennessee,21.8,0.6708
+49033,Rural,Rich County,Utah,21.8,0.1114
+51033,Urban,Caroline County,Virginia,21.8,0.4556
+51157,Urban,Rappahannock County,Virginia,21.8,0.0369
+08055,Rural,Huerfano County,Colorado,21.9,0.7268
+08057,Rural,Jackson County,Colorado,21.9,0.2299
+08109,Rural,Saguache County,Colorado,21.9,0.7281
+13317,Rural,Wilkes County,Georgia,21.9,0.9042
+17051,Rural,Fayette County,Illinois,21.9,0.5215
+17109,Urban,Mcdonough County,Illinois,21.9,0.4534
+17127,Urban,Massac County,Illinois,21.9,0.6676
+17137,Urban,Morgan County,Illinois,21.9,0.4285
+17147,Urban,Piatt County,Illinois,21.9,0.0003
+18015,Urban,Carroll County,Indiana,21.9,0.1897
+19003,Rural,Adams County,Iowa,21.9,0.036
+20033,Rural,Comanche County,Kansas,21.9,0.1477
+21057,Rural,Cumberland County,Kentucky,21.9,0.6587
+28019,Rural,Choctaw County,Mississippi,21.9,0.8918
+29129,Rural,Mercer County,Missouri,21.9,0.5845
+29217,Rural,Vernon County,Missouri,21.9,0.6253
+30097,Rural,Sweet Grass County,Montana,21.9,0.0605
+44001,Urban,Bristol County,Rhode Island,21.9,0.1608
+46097,Rural,Miner County,South Dakota,21.9,0.0455
+47161,Rural,Stewart County,Tennessee,21.9,0.3435
+51121,Urban,Montgomery County,Virginia,21.9,0.2818
+53075,Urban,Whitman County,Washington,21.9,0.341
+55029,Rural,Door County,Wisconsin,21.9,0.0678
+56027,Rural,Niobrara County,Wyoming,21.9,0.2034
+02275,Rural,Wrangell City and Borough,Alaska,22,0.5097
+02282,Rural,Yakutat City and Borough,Alaska,22,0.4919
+13059,Urban,Clarke County,Georgia,22,0.7408
+13085,Urban,Dawson County,Georgia,22,0.1748
+13133,Rural,Greene County,Georgia,22,0.6597
+13157,Urban,Jackson County,Georgia,22,0.4588
+13227,Urban,Pickens County,Georgia,22,0.2582
+15009,Urban,Maui County,Hawaii,22,0.4492
+18105,Urban,Monroe County,Indiana,22,0.3607
+19069,Rural,Franklin County,Iowa,22,0.2878
+20071,Rural,Greeley County,Kansas,22,0.1824
+20187,Rural,Stanton County,Kansas,22,0.5511
+26071,Rural,Iron County,Michigan,22,0.3171
+26089,Urban,Leelanau County,Michigan,22,0.0675
+27165,Rural,Watonwan County,Minnesota,22,0.3072
+51007,Urban,Amelia County,Virginia,22,0.1968
+51075,Urban,Goochland County,Virginia,22,0.0172
+51670,Urban,Hopewell City,Virginia,22,0.8701
+05127,Rural,Scott County,Arkansas,22.1,0.8599
+08115,Rural,Sedgwick County,Colorado,22.1,0.3489
+12035,Urban,Flagler County,Florida,22.1,0.389
+13003,Rural,Atkinson County,Georgia,22.1,0.9433
+13075,Rural,Cook County,Georgia,22.1,0.8096
+13105,Rural,Elbert County,Georgia,22.1,0.886
+13109,Rural,Evans County,Georgia,22.1,0.9866
+13143,Urban,Haralson County,Georgia,22.1,0.7571
+13147,Rural,Hart County,Georgia,22.1,0.6858
+13225,Urban,Peach County,Georgia,22.1,0.8093
+13235,Urban,Pulaski County,Georgia,22.1,0.7886
+13291,Rural,Union County,Georgia,22.1,0.4986
+17187,Rural,Warren County,Illinois,22.1,0.6272
+19135,Rural,Monroe County,Iowa,22.1,0.3305
+27053,Urban,Hennepin County,Minnesota,22.1,0.3321
+30051,Rural,Liberty County,Montana,22.1,0.5887
+36073,Urban,Orleans County,New York,22.1,0.6507
+36097,Rural,Schuyler County,New York,22.1,0.2706
+41025,Rural,Harney County,Oregon,22.1,0.8185
+50001,Rural,Addison County,Vermont,22.1,0.1834
+50023,Urban,Washington County,Vermont,22.1,0.099
+51113,Rural,Madison County,Virginia,22.1,0.1267
+53073,Urban,Whatcom County,Washington,22.1,0.4365
+56011,Rural,Crook County,Wyoming,22.1,0.0067
+05061,Rural,Howard County,Arkansas,22.2,0.9233
+06035,Urban,Lassen County,California,22.2,0.8316
+06069,Urban,San Benito County,California,22.2,0.5804
+13241,Rural,Rabun County,Georgia,22.2,0.4467
+17063,Urban,Grundy County,Illinois,22.2,0.1786
+18161,Urban,Union County,Indiana,22.2,0.1309
+19191,Rural,Winneshiek County,Iowa,22.2,0.0131
+22059,Rural,Lasalle Parish,Louisiana,22.2,0.609
+29107,Urban,Lafayette County,Missouri,22.2,0.3954
+29135,Urban,Moniteau County,Missouri,22.2,0.5782
+29186,Rural,Ste. Genevieve County,Missouri,22.2,0.1585
+30001,Rural,Beaverhead County,Montana,22.2,0.1945
+34025,Urban,Monmouth County,New Jersey,22.2,0.1913
+36039,Rural,Greene County,New York,22.2,0.3881
+37055,Urban,Dare County,North Carolina,22.2,0.1057
+38013,Rural,Burke County,North Dakota,22.2,0.1022
+48221,Urban,Hood County,Texas,22.2,0.3725
+55109,Urban,St. Croix County,Wisconsin,22.2,0.0653
+13111,Rural,Fannin County,Georgia,22.3,0.5199
+13207,Urban,Monroe County,Georgia,22.3,0.5998
+13263,Rural,Talbot County,Georgia,22.3,0.8892
+21075,Urban,Fulton County,Kentucky,22.3,0.8042
+26003,Rural,Alger County,Michigan,22.3,0.4336
+30009,Urban,Carbon County,Montana,22.3,0.015
+30033,Rural,Garfield County,Montana,22.3,0.0252
+36023,Urban,Cortland County,New York,22.3,0.3626
+36077,Urban,Otsego County,New York,22.3,0.4378
+41023,Rural,Grant County,Oregon,22.3,0.4279
+42113,Rural,Sullivan County,Pennsylvania,22.3,0.3028
+48085,Urban,Collin County,Texas,22.3,0.1465
+49037,Rural,San Juan County,Utah,22.3,0.9048
+56001,Urban,Albany County,Wyoming,22.3,0.1999
+13099,Rural,Early County,Georgia,22.4,0.8812
+13183,Urban,Long County,Georgia,22.4,0.8389
+17045,Rural,Edgar County,Illinois,22.4,0.3674
+17125,Rural,Mason County,Illinois,22.4,0.3403
+18179,Urban,Wells County,Indiana,22.4,0.1936
+19159,Rural,Ringgold County,Iowa,22.4,0.4228
+21039,Rural,Carlisle County,Kentucky,22.4,0.4473
+25025,Urban,Suffolk County,Massachusetts,22.4,0.7456
+27077,Rural,Lake Of The Woods County,Minnesota,22.4,0.0805
+29085,Rural,Hickory County,Missouri,22.4,0.4855
+30067,Rural,Park County,Montana,22.4,0.0481
+35059,Rural,Union County,New Mexico,22.4,0.6422
+37143,Urban,Perquimans County,North Carolina,22.4,0.6804
+46009,Rural,Bon Homme County,South Dakota,22.4,0.227
+46059,Rural,Hand County,South Dakota,22.4,0.0608
+47013,Urban,Campbell County,Tennessee,22.4,0.6781
+47091,Rural,Johnson County,Tennessee,22.4,0.7606
+48419,Rural,Shelby County,Texas,22.4,0.837
+51081,Rural,Greensville County,Virginia,22.4,0.8781
+51139,Rural,Page County,Virginia,22.4,0.4097
+54095,Rural,Tyler County,West Virginia,22.4,0.3655
+06037,Urban,Los Angeles County,California,22.5,0.7997
+13029,Urban,Bryan County,Georgia,22.5,0.1996
+13119,Rural,Franklin County,Georgia,22.5,0.8663
+13311,Rural,White County,Georgia,22.5,0.3957
+15003,Urban,Honolulu County,Hawaii,22.5,0.4527
+20101,Rural,Lane County,Kansas,22.5,0.0576
+21079,Rural,Garrard County,Kentucky,22.5,0.4511
+21105,Rural,Hickman County,Kentucky,22.5,0.6285
+27081,Rural,Lincoln County,Minnesota,22.5,0.042
+29083,Rural,Henry County,Missouri,22.5,0.3779
+37021,Urban,Buncombe County,North Carolina,22.5,0.5237
+37123,Rural,Montgomery County,North Carolina,22.5,0.9739
+38023,Rural,Divide County,North Dakota,22.5,0.0051
+41065,Urban,Wasco County,Oregon,22.5,0.8777
+44005,Urban,Newport County,Rhode Island,22.5,0.1735
+47023,Urban,Chester County,Tennessee,22.5,0.7065
+47081,Urban,Hickman County,Tennessee,22.5,0.7619
+47085,Rural,Humphreys County,Tennessee,22.5,0.4651
+47143,Urban,Rhea County,Tennessee,22.5,0.8322
+56033,Urban,Sheridan County,Wyoming,22.5,0.1283
+11001,Urban,District Of Columbia,District of Columbia,22.6,0.5874
+13005,Rural,Bacon County,Georgia,22.6,0.8007
+13037,Rural,Calhoun County,Georgia,22.6,0.8902
+13205,Rural,Mitchell County,Georgia,22.6,0.9854
+13221,Urban,Oglethorpe County,Georgia,22.6,0.3448
+17157,Rural,Randolph County,Illinois,22.6,0.3473
+18013,Urban,Brown County,Indiana,22.6,0.0487
+19133,Rural,Monona County,Iowa,22.6,0.1436
+19165,Rural,Shelby County,Iowa,22.6,0.1032
+23005,Urban,Cumberland County,Maine,22.6,0.2028
+31149,Rural,Rock County,Nebraska,22.6,0.0127
+35001,Urban,Bernalillo County,New Mexico,22.6,0.6622
+37037,Urban,Chatham County,North Carolina,22.6,0.4308
+48225,Rural,Houston County,Texas,22.6,0.9166
+49021,Urban,Iron County,Utah,22.6,0.6539
+51011,Urban,Appomattox County,Virginia,22.6,0.4355
+51630,Urban,Fredericksburg City,Virginia,22.6,0.4935
+06005,Rural,Amador County,California,22.7,0.4406
+08073,Rural,Lincoln County,Colorado,22.7,0.6969
+13067,Urban,Cobb County,Georgia,22.7,0.3286
+16017,Urban,Bonner County,Idaho,22.7,0.2802
+16037,Rural,Custer County,Idaho,22.7,0.3196
+17043,Urban,Dupage County,Illinois,22.7,0.1678
+17095,Urban,Knox County,Illinois,22.7,0.6323
+17173,Rural,Shelby County,Illinois,22.7,0.0996
+25003,Urban,Berkshire County,Massachusetts,22.7,0.3859
+29149,Rural,Oregon County,Missouri,22.7,0.5384
+29169,Urban,Pulaski County,Missouri,22.7,0.6874
+32001,Urban,Churchill County,Nevada,22.7,0.7472
+36059,Urban,Nassau County,New York,22.7,0.269
+36093,Urban,Schenectady County,New York,22.7,0.3728
+47015,Urban,Cannon County,Tennessee,22.7,0.5699
+47103,Rural,Lincoln County,Tennessee,22.7,0.504
+49005,Urban,Cache County,Utah,22.7,0.3521
+49051,Urban,Wasatch County,Utah,22.7,0.1344
+08043,Urban,Fremont County,Colorado,22.8,0.6714
+13127,Urban,Glynn County,Georgia,22.8,0.8071
+13161,Rural,Jeff Davis County,Georgia,22.8,0.8462
+13237,Rural,Putnam County,Georgia,22.8,0.4909
+17199,Urban,Williamson County,Illinois,22.8,0.3951
+20065,Rural,Graham County,Kansas,22.8,0.0474
+20147,Rural,Phillips County,Kansas,22.8,0.1442
+21041,Rural,Carroll County,Kentucky,22.8,0.9694
+21189,Rural,Owsley County,Kentucky,22.8,0.8688
+27139,Urban,Scott County,Minnesota,22.8,0.0513
+35007,Rural,Colfax County,New Mexico,22.8,0.8516
+36047,Urban,Kings County,New York,22.8,0.8376
+40129,Rural,Roger Mills County,Oklahoma,22.8,0.2286
+48157,Urban,Fort Bend County,Texas,22.8,0.262
+48459,Urban,Upshur County,Texas,22.8,0.618
+48481,Urban,Wharton County,Texas,22.8,0.8768
+50025,Rural,Windham County,Vermont,22.8,0.2537
+51077,Rural,Grayson County,Virginia,22.8,0.5142
+01029,Rural,Cleburne County,Alabama,22.9,0.6008
+05019,Urban,Clark County,Arkansas,22.9,0.8061
+05073,Rural,Lafayette County,Arkansas,22.9,0.8446
+05081,Urban,Little River County,Arkansas,22.9,0.5224
+08041,Urban,El Paso County,Colorado,22.9,0.3941
+13197,Urban,Marion County,Georgia,22.9,0.9261
+17131,Urban,Mercer County,Illinois,22.9,0.1012
+19009,Rural,Audubon County,Iowa,22.9,0.0045
+19093,Rural,Ida County,Iowa,22.9,0.1293
+19167,Rural,Sioux County,Iowa,22.9,0.235
+30029,Urban,Flathead County,Montana,22.9,0.128
+41027,Urban,Hood River County,Oregon,22.9,0.5692
+44009,Urban,Washington County,Rhode Island,22.9,0.0465
+46033,Urban,Custer County,South Dakota,22.9,0.0879
+48111,Rural,Dallam County,Texas,22.9,0.7463
+48259,Urban,Kendall County,Texas,22.9,0.2728
+48339,Urban,Montgomery County,Texas,22.9,0.4139
+48409,Urban,San Patricio County,Texas,22.9,0.8118
+51036,Urban,Charles City County,Virginia,22.9,0.2824
+51037,Rural,Charlotte County,Virginia,22.9,0.7549
+55013,Rural,Burnett County,Wisconsin,22.9,0.2951
+05129,Rural,Searcy County,Arkansas,23,0.5444
+13287,Rural,Turner County,Georgia,23,0.9987
+16023,Urban,Butte County,Idaho,23,0.3515
+16029,Rural,Caribou County,Idaho,23,0.1901
+16059,Rural,Lemhi County,Idaho,23,0.3598
+17115,Urban,Macon County,Illinois,23,0.6205
+21061,Urban,Edmonson County,Kentucky,23,0.5543
+21171,Rural,Monroe County,Kentucky,23,0.8325
+26029,Rural,Charlevoix County,Michigan,23,0.1961
+27133,Rural,Rock County,Minnesota,23,0.3308
+29103,Rural,Knox County,Missouri,23,0.4027
+30049,Urban,Lewis And Clark County,Montana,23,0.1624
+32013,Urban,Humboldt County,Nevada,23,0.5113
+32510,Urban,Carson City,Nevada,23,0.8526
+36099,Urban,Seneca County,New York,23,0.3661
+37199,Rural,Yancey County,North Carolina,23,0.6571
+39097,Urban,Madison County,Ohio,23,0.3575
+42045,Urban,Delaware County,Pennsylvania,23,0.3776
+42053,Rural,Forest County,Pennsylvania,23,0.5705
+46043,Rural,Douglas County,South Dakota,23,0.1159
+46061,Urban,Hanson County,South Dakota,23,0.0497
+54013,Rural,Calhoun County,West Virginia,23,0.745
+54015,Urban,Clay County,West Virginia,23,0.6558
+05099,Rural,Nevada County,Arkansas,23.1,0.8736
+12061,Urban,Indian River County,Florida,23.1,0.4798
+13173,Urban,Lanier County,Georgia,23.1,0.9729
+13229,Urban,Pierce County,Georgia,23.1,0.767
+19103,Urban,Johnson County,Iowa,23.1,0.2388
+20119,Rural,Meade County,Kansas,23.1,0.4091
+20161,Urban,Riley County,Kansas,23.1,0.3537
+21155,Rural,Marion County,Kentucky,23.1,0.6749
+21225,Rural,Union County,Kentucky,23.1,0.7806
+26013,Rural,Baraga County,Michigan,23.1,0.4846
+26113,Urban,Missaukee County,Michigan,23.1,0.5094
+27107,Rural,Norman County,Minnesota,23.1,0.2474
+27167,Urban,Wilkin County,Minnesota,23.1,0.1324
+28069,Urban,Kemper County,Mississippi,23.1,0.9347
+29089,Rural,Howard County,Missouri,23.1,0.4384
+29139,Rural,Montgomery County,Missouri,23.1,0.5616
+32015,Rural,Lander County,Nevada,23.1,0.5075
+47007,Rural,Bledsoe County,Tennessee,23.1,0.8141
+47057,Urban,Grainger County,Tennessee,23.1,0.5626
+48057,Urban,Calhoun County,Texas,23.1,0.8567
+48097,Urban,Cooke County,Texas,23.1,0.6705
+48189,Urban,Hale County,Texas,23.1,0.9156
+48249,Urban,Jim Wells County,Texas,23.1,0.9417
+54093,Rural,Tucker County,West Virginia,23.1,0.2365
+05075,Rural,Lawrence County,Arkansas,23.2,0.6017
+06021,Rural,Glenn County,California,23.2,0.9309
+06113,Urban,Yolo County,California,23.2,0.6813
+13139,Urban,Hall County,Georgia,23.2,0.7972
+17117,Urban,Macoupin County,Illinois,23.2,0.2334
+18129,Urban,Posey County,Indiana,23.2,0.0446
+20097,Rural,Kiowa County,Kansas,23.2,0.3677
+23023,Urban,Sagadahoc County,Maine,23.2,0.0786
+26019,Urban,Benzie County,Michigan,23.2,0.2423
+31075,Rural,Grant County,Nebraska,23.2,0.05
+39149,Urban,Shelby County,Ohio,23.2,0.1675
+41067,Urban,Washington County,Oregon,23.2,0.3617
+48223,Urban,Hopkins County,Texas,23.2,0.8157
+48445,Rural,Terry County,Texas,23.2,0.8182
+51135,Rural,Nottoway County,Virginia,23.2,0.9341
+51145,Urban,Powhatan County,Virginia,23.2,0.0111
+02068,Rural,Denali Borough,Alaska,23.3,0.1197
+08077,Urban,Mesa County,Colorado,23.3,0.4928
+08103,Rural,Rio Blanco County,Colorado,23.3,0.3973
+12119,Urban,Sumter County,Florida,23.3,0.3808
+20083,Rural,Hodgeman County,Kansas,23.3,0.0891
+20145,Rural,Pawnee County,Kansas,23.3,0.2719
+23015,Rural,Lincoln County,Maine,23.3,0.0649
+28089,Urban,Madison County,Mississippi,23.3,0.3397
+37039,Rural,Cherokee County,North Carolina,23.3,0.4811
+38047,Rural,Logan County,North Dakota,23.3,0.0901
+40141,Rural,Tillman County,Oklahoma,23.3,0.8848
+48369,Rural,Parmer County,Texas,23.3,0.7233
+51079,Urban,Greene County,Virginia,23.3,0.2194
+51095,Urban,James City County,Virginia,23.3,0.092
+13283,Rural,Treutlen County,Georgia,23.4,0.7854
+16003,Rural,Adams County,Idaho,23.4,0.2572
+17099,Urban,Lasalle County,Illinois,23.4,0.3773
+20153,Rural,Rawlins County,Kansas,23.4,0.0452
+21031,Urban,Butler County,Kentucky,23.4,0.8742
+21063,Rural,Elliott County,Kentucky,23.4,0.8558
+27129,Rural,Renville County,Minnesota,23.4,0.2133
+27173,Rural,Yellow Medicine County,Minnesota,23.4,0.1777
+29109,Rural,Lawrence County,Missouri,23.4,0.6985
+29137,Rural,Monroe County,Missouri,23.4,0.3123
+29229,Rural,Wright County,Missouri,23.4,0.6648
+30061,Rural,Mineral County,Montana,23.4,0.2789
+30081,Rural,Ravalli County,Montana,23.4,0.3235
+32027,Rural,Pershing County,Nevada,23.4,0.9344
+36009,Urban,Cattaraugus County,New York,23.4,0.6434
+36053,Urban,Madison County,New York,23.4,0.1461
+36081,Urban,Queens County,New York,23.4,0.6393
+36107,Urban,Tioga County,New York,23.4,0.1366
+38027,Rural,Eddy County,North Dakota,23.4,0.1538
+39125,Rural,Paulding County,Ohio,23.4,0.2649
+41017,Urban,Deschutes County,Oregon,23.4,0.2531
+47063,Urban,Hamblen County,Tennessee,23.4,0.7899
+48365,Rural,Panola County,Texas,23.4,0.5259
+51165,Urban,Rockingham County,Virginia,23.4,0.3126
+53009,Urban,Clallam County,Washington,23.4,0.5514
+55025,Urban,Dane County,Wisconsin,23.4,0.2073
+05101,Urban,Newton County,Arkansas,23.5,0.3372
+13255,Urban,Spalding County,Georgia,23.5,0.8921
+13267,Rural,Tattnall County,Georgia,23.5,0.9592
+13309,Rural,Wheeler County,Georgia,23.5,0.6619
+16065,Urban,Madison County,Idaho,23.5,0.4887
+17085,Rural,Jo Daviess County,Illinois,23.5,0.0245
+17105,Urban,Livingston County,Illinois,23.5,0.27
+19089,Rural,Howard County,Iowa,23.5,0.1764
+22077,Urban,Pointe Coupee Parish,Louisiana,23.5,0.6383
+26047,Rural,Emmet County,Michigan,23.5,0.1152
+29013,Urban,Bates County,Missouri,23.5,0.5648
+29041,Rural,Chariton County,Missouri,23.5,0.3833
+35033,Rural,Mora County,New Mexico,23.5,0.7861
+39069,Rural,Henry County,Ohio,23.5,0.1799
+40063,Rural,Hughes County,Oklahoma,23.5,0.7832
+47069,Rural,Hardeman County,Tennessee,23.5,0.8762
+48145,Urban,Falls County,Texas,23.5,0.9179
+48381,Urban,Randall County,Texas,23.5,0.2079
+56017,Rural,Hot Springs County,Wyoming,23.5,0.2391
+02013,Rural,Aleutians East Borough,Alaska,23.6,0.6078
+08003,Rural,Alamosa County,Colorado,23.6,0.9405
+12011,Urban,Broward County,Florida,23.6,0.6074
+12117,Urban,Seminole County,Florida,23.6,0.1691
+13145,Urban,Harris County,Georgia,23.6,0.0926
+13189,Urban,Mcduffie County,Georgia,23.6,0.9249
+13257,Urban,Stephens County,Georgia,23.6,0.7816
+13293,Urban,Upson County,Georgia,23.6,0.8988
+16055,Urban,Kootenai County,Idaho,23.6,0.3251
+17027,Urban,Clinton County,Illinois,23.6,0.1162
+18047,Rural,Franklin County,Indiana,23.6,0.1862
+26131,Rural,Ontonagon County,Michigan,23.6,0.2674
+26153,Rural,Schoolcraft County,Michigan,23.6,0.5374
+27043,Rural,Faribault County,Minnesota,23.6,0.2092
+29061,Rural,Daviess County,Missouri,23.6,0.5431
+30023,Rural,Deer Lodge County,Montana,23.6,0.4546
+46091,Rural,Marshall County,South Dakota,23.6,0.283
+48285,Rural,Lavaca County,Texas,23.6,0.6453
+50027,Urban,Windsor County,Vermont,23.6,0.1318
+54075,Rural,Pocahontas County,West Virginia,23.6,0.4483
+55089,Urban,Ozaukee County,Wisconsin,23.6,0.0048
+02105,Rural,Hoonah-Angoon Census Area,Alaska,23.7,0.4495
+02164,Rural,Lake and Peninsula Borough,Alaska,23.7,0.7778
+05089,Rural,Marion County,Arkansas,23.7,0.4613
+13219,Urban,Oconee County,Georgia,23.7,0.0162
+19131,Rural,Mitchell County,Iowa,23.7,0.0882
+20109,Rural,Logan County,Kansas,23.7,0.2413
+20135,Rural,Ness County,Kansas,23.7,0.2025
+22075,Urban,Plaquemines Parish,Louisiana,23.7,0.4594
+26039,Rural,Crawford County,Michigan,23.7,0.4464
+27055,Urban,Houston County,Minnesota,23.7,0.0716
+30015,Rural,Chouteau County,Montana,23.7,0.3986
+30101,Rural,Toole County,Montana,23.7,0.432
+31007,Urban,Banner County,Nebraska,23.7,0.0825
+31071,Rural,Garfield County,Nebraska,23.7,0.0993
+33009,Urban,Grafton County,New Hampshire,23.7,0.1869
+36109,Urban,Tompkins County,New York,23.7,0.333
+47055,Rural,Giles County,Tennessee,23.7,0.7485
+48099,Urban,Coryell County,Texas,23.7,0.6829
+51061,Urban,Fauquier County,Virginia,23.7,0.0325
+55003,Rural,Ashland County,Wisconsin,23.7,0.6501
+05137,Rural,Stone County,Arkansas,23.8,0.5613
+06053,Urban,Monterey County,California,23.8,0.8338
+12009,Urban,Brevard County,Florida,23.8,0.4202
+12071,Urban,Lee County,Florida,23.8,0.6638
+12086,Urban,Miami-Dade County,Florida,23.8,0.8497
+13193,Rural,Macon County,Georgia,23.8,0.9879
+17019,Urban,Champaign County,Illinois,23.8,0.3805
+17055,Rural,Franklin County,Illinois,23.8,0.6151
+17075,Rural,Iroquois County,Illinois,23.8,0.3671
+17081,Urban,Jefferson County,Illinois,23.8,0.73
+19067,Rural,Floyd County,Iowa,23.8,0.3181
+22027,Rural,Claiborne Parish,Louisiana,23.8,0.9182
+27101,Rural,Murray County,Minnesota,23.8,0.0796
+29163,Rural,Pike County,Missouri,23.8,0.6883
+29173,Urban,Ralls County,Missouri,23.8,0.1681
+30019,Rural,Daniels County,Montana,23.8,0.0025
+37007,Rural,Anson County,North Carolina,23.8,0.9551
+37119,Urban,Mecklenburg County,North Carolina,23.8,0.5508
+37189,Urban,Watauga County,North Carolina,23.8,0.382
+40105,Rural,Nowata County,Oklahoma,23.8,0.7151
+42091,Urban,Montgomery County,Pennsylvania,23.8,0.1452
+48463,Urban,Uvalde County,Texas,23.8,0.9621
+50003,Urban,Bennington County,Vermont,23.8,0.3301
+51183,Urban,Sussex County,Virginia,23.8,0.893
+51199,Urban,York County,Virginia,23.8,0.0761
+55083,Urban,Oconto County,Wisconsin,23.8,0.0372
+08125,Rural,Yuma County,Colorado,23.9,0.2359
+12001,Urban,Alachua County,Florida,23.9,0.4954
+13087,Urban,Decatur County,Georgia,23.9,0.9643
+17021,Urban,Christian County,Illinois,23.9,0.3391
+19195,Urban,Worth County,Iowa,23.9,0.1525
+22049,Rural,Jackson Parish,Louisiana,23.9,0.8886
+26055,Urban,Grand Traverse County,Michigan,23.9,0.1974
+26151,Rural,Sanilac County,Michigan,23.9,0.3855
+28163,Urban,Yazoo County,Mississippi,23.9,0.9946
+29059,Urban,Dallas County,Missouri,23.9,0.815
+29131,Rural,Miller County,Missouri,23.9,0.6635
+29133,Rural,Mississippi County,Missouri,23.9,0.9573
+31103,Rural,Keya Paha County,Nebraska,23.9,0.0057
+36103,Urban,Suffolk County,New York,23.9,0.2241
+36113,Urban,Warren County,New York,23.9,0.1617
+37109,Urban,Lincoln County,North Carolina,23.9,0.4199
+42119,Urban,Union County,Pennsylvania,23.9,0.3693
+47111,Urban,Macon County,Tennessee,23.9,0.8297
+48001,Urban,Anderson County,Texas,23.9,0.7959
+48015,Urban,Austin County,Texas,23.9,0.2974
+48323,Urban,Maverick County,Texas,23.9,0.9764
+56029,Rural,Park County,Wyoming,23.9,0.0748
+02158,Rural,Kusilvak Census Area,Alaska,24,No Data
+06115,Urban,Yuba County,California,24,0.9666
+09005,Urban,Litchfield County,Connecticut,24,0.063
+13131,Rural,Grady County,Georgia,24,0.965
+16049,Rural,Idaho County,Idaho,24,0.3935
+21055,Rural,Crittenden County,Kentucky,24,0.5944
+21137,Urban,Lincoln County,Kentucky,24,0.7335
+22111,Urban,Union Parish,Louisiana,24,0.801
+27083,Urban,Lyon County,Minnesota,24,0.3442
+28013,Rural,Calhoun County,Mississippi,24,0.9456
+28021,Urban,Claiborne County,Mississippi,24,0.9847
+29171,Rural,Putnam County,Missouri,24,0.4043
+35017,Urban,Grant County,New Mexico,24,0.7755
+36001,Urban,Albany County,New York,24,0.2697
+37131,Urban,Northampton County,North Carolina,24,0.9675
+37183,Urban,Wake County,North Carolina,24,0.3451
+39001,Rural,Adams County,Ohio,24,0.809
+39055,Urban,Geauga County,Ohio,24,0.0821
+40077,Rural,Latimer County,Oklahoma,24,0.7705
+40085,Rural,Love County,Oklahoma,24,0.4992
+40103,Rural,Noble County,Oklahoma,24,0.2611
+46015,Rural,Brule County,South Dakota,24,0.6237
+46109,Rural,Roberts County,South Dakota,24,0.6775
+51065,Urban,Fluvanna County,Virginia,24,0.0828
+51125,Urban,Nelson County,Virginia,24,0.3585
+55125,Rural,Vilas County,Wisconsin,24,0.1614
+05049,Rural,Fulton County,Arkansas,24.1,0.511
+05095,Rural,Monroe County,Arkansas,24.1,0.8857
+08023,Rural,Costilla County,Colorado,24.1,0.8491
+13023,Rural,Bleckley County,Georgia,24.1,0.7272
+13091,Rural,Dodge County,Georgia,24.1,0.8822
+13321,Urban,Worth County,Georgia,24.1,0.8201
+16021,Rural,Boundary County,Idaho,24.1,0.4457
+17083,Urban,Jersey County,Illinois,24.1,0.1219
+18143,Urban,Scott County,Indiana,24.1,0.5989
+18159,Rural,Tipton County,Indiana,24.1,0.1783
+20129,Rural,Morton County,Kansas,24.1,0.4062
+20165,Rural,Rush County,Kansas,24.1,0.0952
+20181,Rural,Sherman County,Kansas,24.1,0.5129
+21229,Rural,Washington County,Kentucky,24.1,0.6447
+29153,Rural,Ozark County,Missouri,24.1,0.6845
+29157,Rural,Perry County,Missouri,24.1,0.2763
+29167,Urban,Polk County,Missouri,24.1,0.5772
+31115,Rural,Loup County,Nebraska,24.1,0.0382
+37125,Urban,Moore County,North Carolina,24.1,0.411
+40005,Rural,Atoka County,Oklahoma,24.1,0.8373
+46037,Rural,Day County,South Dakota,24.1,0.4728
+46051,Rural,Grant County,South Dakota,24.1,0.1394
+49053,Urban,Washington County,Utah,24.1,0.4836
+51167,Rural,Russell County,Virginia,24.1,0.4658
+51680,Urban,Lynchburg City,Virginia,24.1,0.71
+02220,Rural,Sitka City and Borough,Alaska,24.2,0.3865
+12015,Urban,Charlotte County,Florida,24.2,0.4486
+13047,Urban,Catoosa County,Georgia,24.2,0.3203
+19197,Rural,Wright County,Iowa,24.2,0.2595
+20045,Urban,Douglas County,Kansas,24.2,0.2165
+26079,Urban,Kalkaska County,Michigan,24.2,0.4766
+27029,Rural,Clearwater County,Minnesota,24.2,0.7074
+27113,Rural,Pennington County,Minnesota,24.2,0.2859
+27151,Rural,Swift County,Minnesota,24.2,0.2136
+29155,Rural,Pemiscot County,Missouri,24.2,0.9109
+29213,Urban,Taney County,Missouri,24.2,0.7596
+30039,Rural,Granite County,Montana,24.2,0.1837
+31031,Rural,Cherry County,Nebraska,24.2,0.228
+36027,Urban,Dutchess County,New York,24.2,0.3785
+38083,Rural,Sheridan County,North Dakota,24.2,0.0258
+39107,Urban,Mercer County,Ohio,24.2,0.0595
+40067,Rural,Jefferson County,Oklahoma,24.2,0.6995
+51067,Urban,Franklin County,Virginia,24.2,0.4524
+53031,Rural,Jefferson County,Washington,24.2,0.2566
+54063,Rural,Monroe County,West Virginia,24.2,0.304
+55035,Urban,Eau Claire County,Wisconsin,24.2,0.1566
+05043,Rural,Drew County,Arkansas,24.3,0.9449
+08083,Rural,Montezuma County,Colorado,24.3,0.5298
+13033,Urban,Burke County,Georgia,24.3,0.9169
+13187,Rural,Lumpkin County,Georgia,24.3,0.5103
+17195,Urban,Whiteside County,Illinois,24.3,0.3989
+17203,Urban,Woodford County,Illinois,24.3,0.0392
+19039,Rural,Clarke County,Iowa,24.3,0.553
+20201,Rural,Washington County,Kansas,24.3,0.1589
+21097,Rural,Harrison County,Kentucky,24.3,0.6663
+21209,Urban,Scott County,Kentucky,24.3,0.4218
+23009,Rural,Hancock County,Maine,24.3,0.1993
+26097,Rural,Mackinac County,Michigan,24.3,0.6562
+27155,Rural,Traverse County,Minnesota,24.3,0.1028
+29003,Urban,Andrew County,Missouri,24.3,0.0923
+29055,Rural,Crawford County,Missouri,24.3,0.7176
+29065,Rural,Dent County,Missouri,24.3,0.716
+29067,Rural,Douglas County,Missouri,24.3,0.4565
+29125,Rural,Maries County,Missouri,24.3,0.4715
+33003,Rural,Carroll County,New Hampshire,24.3,0.0337
+34017,Urban,Hudson County,New Jersey,24.3,0.6517
+36091,Urban,Saratoga County,New York,24.3,0.0643
+38075,Urban,Renville County,North Dakota,24.3,0.0035
+48219,Urban,Hockley County,Texas,24.3,0.8055
+05021,Rural,Clay County,Arkansas,24.4,0.6848
+13163,Rural,Jefferson County,Georgia,24.4,0.9828
+17049,Urban,Effingham County,Illinois,24.4,0.0958
+18155,Rural,Switzerland County,Indiana,24.4,0.6498
+19001,Rural,Adair County,Iowa,24.4,0.0366
+19051,Urban,Davis County,Iowa,24.4,0.5253
+20105,Rural,Lincoln County,Kansas,24.4,0.1719
+20167,Rural,Russell County,Kansas,24.4,0.2187
+20171,Rural,Scott County,Kansas,24.4,0.2108
+29113,Urban,Lincoln County,Missouri,24.4,0.439
+29199,Rural,Scotland County,Missouri,24.4,0.4107
+31097,Rural,Johnson County,Nebraska,24.4,0.3913
+31165,Urban,Sioux County,Nebraska,24.4,0.0029
+37059,Urban,Davie County,North Carolina,24.4,0.3461
+37091,Rural,Hertford County,North Carolina,24.4,0.9904
+37129,Urban,New Hanover County,North Carolina,24.4,0.4451
+46067,Rural,Hutchinson County,South Dakota,24.4,0.2041
+47041,Rural,Dekalb County,Tennessee,24.4,0.5912
+49015,Rural,Emery County,Utah,24.4,0.2464
+55121,Rural,Trempealeau County,Wisconsin,24.4,0.2993
+55135,Rural,Waupaca County,Wisconsin,24.4,0.191
+04025,Urban,Yavapai County,Arizona,24.5,0.5985
+08121,Rural,Washington County,Colorado,24.5,0.1926
+12113,Urban,Santa Rosa County,Florida,24.5,0.3244
+13121,Urban,Fulton County,Georgia,24.5,0.6141
+13251,Rural,Screven County,Georgia,24.5,0.8532
+13271,Rural,Telfair County,Georgia,24.5,0.923
+19073,Rural,Greene County,Iowa,24.5,0.1757
+19101,Urban,Jefferson County,Iowa,24.5,0.1878
+20043,Urban,Doniphan County,Kansas,24.5,0.2942
+20185,Rural,Stafford County,Kansas,24.5,0.2607
+21103,Urban,Henry County,Kentucky,24.5,0.5406
+22107,Rural,Tensas Parish,Louisiana,24.5,0.9465
+29087,Rural,Holt County,Missouri,24.5,0.1646
+31125,Rural,Nance County,Nebraska,24.5,0.1286
+35043,Urban,Sandoval County,New Mexico,24.5,0.3932
+38043,Rural,Kidder County,North Dakota,24.5,0.0229
+38065,Urban,Oliver County,North Dakota,24.5,0.0853
+39085,Urban,Lake County,Ohio,24.5,0.1191
+42017,Urban,Bucks County,Pennsylvania,24.5,0.0755
+47001,Urban,Anderson County,Tennessee,24.5,0.5193
+47005,Rural,Benton County,Tennessee,24.5,0.7867
+47181,Rural,Wayne County,Tennessee,24.5,0.652
+48465,Urban,Val Verde County,Texas,24.5,0.9386
+48497,Urban,Wise County,Texas,24.5,0.4034
+55017,Urban,Chippewa County,Wisconsin,24.5,0.2305
+05065,Rural,Izard County,Arkansas,24.6,0.6052
+12017,Urban,Citrus County,Florida,24.6,0.5081
+12127,Urban,Volusia County,Florida,24.6,0.639
+20031,Rural,Coffey County,Kansas,24.6,0.114
+20195,Rural,Trego County,Kansas,24.6,0.0443
+22003,Rural,Allen Parish,Louisiana,24.6,0.8586
+26141,Rural,Presque Isle County,Michigan,24.6,0.2668
+29093,Rural,Iron County,Missouri,24.6,0.8494
+30025,Rural,Fallon County,Montana,24.6,0.0207
+30077,Rural,Powell County,Montana,24.6,0.2397
+39047,Urban,Fayette County,Ohio,24.6,0.5673
+40059,Rural,Harper County,Oklahoma,24.6,0.3225
+47117,Urban,Marshall County,Tennessee,24.6,0.6234
+53051,Urban,Pend Oreille County,Washington,24.6,0.5591
+02195,Rural,Petersburg Borough,Alaska,24.7,0.2047
+09013,Urban,Tolland County,Connecticut,24.7,0.0672
+12095,Urban,Orange County,Florida,24.7,0.6772
+26063,Rural,Huron County,Michigan,24.7,0.3553
+26161,Urban,Washtenaw County,Michigan,24.7,0.2471
+27031,Rural,Cook County,Minnesota,24.7,0.0939
+31049,Rural,Deuel County,Nebraska,24.7,0.1305
+34039,Urban,Union County,New Jersey,24.7,0.6336
+37089,Urban,Henderson County,North Carolina,24.7,0.4725
+37113,Rural,Macon County,North Carolina,24.7,0.5778
+38085,Urban,Sioux County,North Dakota,24.7,0.8682
+39075,Rural,Holmes County,Ohio,24.7,0.5037
+46117,Urban,Stanley County,South Dakota,24.7,0.0866
+51193,Rural,Westmoreland County,Virginia,24.7,0.3798
+53019,Rural,Ferry County,Washington,24.7,0.829
+05023,Rural,Cleburne County,Arkansas,24.8,0.4037
+13019,Rural,Berrien County,Georgia,24.8,0.8803
+13285,Urban,Troup County,Georgia,24.8,0.9277
+20081,Rural,Haskell County,Kansas,24.8,0.2795
+21143,Rural,Lyon County,Kentucky,24.8,0.3079
+26001,Rural,Alcona County,Michigan,24.8,0.2518
+27021,Urban,Cass County,Minnesota,24.8,0.3652
+27135,Rural,Roseau County,Minnesota,24.8,0.3018
+27163,Urban,Washington County,Minnesota,24.8,0.079
+29049,Urban,Clinton County,Missouri,24.8,0.1595
+37079,Rural,Greene County,North Carolina,24.8,0.9691
+47185,Rural,White County,Tennessee,24.8,0.724
+49025,Rural,Kane County,Utah,24.8,0.1312
+49039,Rural,Sanpete County,Utah,24.8,0.5056
+50013,Urban,Grand Isle County,Vermont,24.8,0.0166
+50015,Rural,Lamoille County,Vermont,24.8,0.1025
+51173,Rural,Smyth County,Virginia,24.8,0.6616
+53057,Urban,Skagit County,Washington,24.8,0.6062
+54105,Urban,Wirt County,West Virginia,24.8,0.2779
+55131,Urban,Washington County,Wisconsin,24.8,0.0181
+08071,Rural,Las Animas County,Colorado,24.9,0.7189
+09007,Urban,Middlesex County,Connecticut,24.9,0.0869
+13027,Urban,Brooks County,Georgia,24.9,0.8953
+13137,Urban,Habersham County,Georgia,24.9,0.8013
+13217,Urban,Newton County,Georgia,24.9,0.6574
+16007,Rural,Bear Lake County,Idaho,24.9,0.1334
+20091,Urban,Johnson County,Kansas,24.9,0.0579
+21113,Urban,Jessamine County,Kentucky,24.9,0.4763
+27059,Urban,Isanti County,Minnesota,24.9,0.1006
+28023,Urban,Clarke County,Mississippi,24.9,0.8513
+28143,Urban,Tunica County,Mississippi,24.9,0.9806
+28145,Rural,Union County,Mississippi,24.9,0.8485
+29017,Urban,Bollinger County,Missouri,24.9,0.4371
+30075,Rural,Powder River County,Montana,24.9,0.0739
+34021,Urban,Mercer County,New Jersey,24.9,0.5533
+36043,Urban,Herkimer County,New York,24.9,0.4874
+37161,Urban,Rutherford County,North Carolina,24.9,0.7994
+38005,Rural,Benson County,North Dakota,24.9,0.6982
+45019,Urban,Charleston County,South Carolina,24.9,0.454
+48181,Urban,Grayson County,Texas,24.9,0.7275
+48233,Urban,Hutchinson County,Texas,24.9,0.6425
+51071,Urban,Giles County,Virginia,24.9,0.3556
+51161,Urban,Roanoke County,Virginia,24.9,0.1054
+56023,Rural,Lincoln County,Wyoming,24.9,0.0197
+01111,Rural,Randolph County,Alabama,25,0.8698
+05011,Rural,Bradley County,Arkansas,25,0.9669
+05037,Rural,Cross County,Arkansas,25,0.7294
+06055,Urban,Napa County,California,25,0.5527
+06103,Urban,Tehama County,California,25,0.9077
+08105,Rural,Rio Grande County,Colorado,25,0.8895
+13279,Urban,Toombs County,Georgia,25,0.95
+16001,Urban,Ada County,Idaho,25,0.2104
+18125,Urban,Pike County,Indiana,25,0.1359
+20075,Rural,Hamilton County,Kansas,25,0.3645
+21021,Urban,Boyle County,Kentucky,25,0.5275
+21091,Urban,Hancock County,Kentucky,25,0.4247
+21147,Rural,Mccreary County,Kentucky,25,0.865
+21161,Urban,Mason County,Kentucky,25,0.5536
+26043,Urban,Dickinson County,Michigan,25,0.1515
+26095,Rural,Luce County,Michigan,25,0.7584
+26137,Rural,Otsego County,Michigan,25,0.2515
+29029,Rural,Camden County,Missouri,25,0.4113
+29105,Urban,Laclede County,Missouri,25,0.7224
+29151,Urban,Osage County,Missouri,25,0.0809
+30099,Rural,Teton County,Montana,25,0.3098
+37111,Urban,Mcdowell County,North Carolina,25,0.8529
+40003,Rural,Alfalfa County,Oklahoma,25,0.2302
+40127,Rural,Pushmataha County,Oklahoma,25,0.8198
+42061,Urban,Huntingdon County,Pennsylvania,25,0.4066
+46027,Urban,Clay County,South Dakota,25,0.2502
+47115,Urban,Marion County,Tennessee,25,0.7179
+47177,Urban,Warren County,Tennessee,25,0.8271
+48073,Urban,Cherokee County,Texas,25,0.9163
+48213,Urban,Henderson County,Texas,25,0.7625
+49011,Urban,Davis County,Utah,25,0.0936
+51137,Rural,Orange County,Virginia,25,0.4257
+53071,Urban,Walla Walla County,Washington,25,0.7135
+54073,Rural,Pleasants County,West Virginia,25,0.3082
+04003,Urban,Cochise County,Arizona,25.1,0.9058
+05055,Urban,Greene County,Arkansas,25.1,0.4231
+08095,Rural,Phillips County,Colorado,25.1,0.759
+08099,Rural,Prowers County,Colorado,25.1,0.9478
+13055,Urban,Chattooga County,Georgia,25.1,0.9414
+13077,Urban,Coweta County,Georgia,25.1,0.2486
+13117,Urban,Forsyth County,Georgia,25.1,0.0478
+17103,Urban,Lee County,Illinois,25.1,0.2381
+19107,Rural,Keokuk County,Iowa,25.1,0.0942
+20049,Rural,Elk County,Kansas,25.1,0.3117
+20189,Rural,Stevens County,Kansas,25.1,0.2884
+26105,Urban,Mason County,Michigan,25.1,0.5482
+27117,Rural,Pipestone County,Minnesota,25.1,0.4394
+28157,Rural,Wilkinson County,Mississippi,25.1,0.9822
+29009,Rural,Barry County,Missouri,25.1,0.6963
+29071,Urban,Franklin County,Missouri,25.1,0.2038
+30111,Urban,Yellowstone County,Montana,25.1,0.2445
+41001,Rural,Baker County,Oregon,25.1,0.6683
+41005,Urban,Clackamas County,Oregon,25.1,0.2658
+46081,Urban,Lawrence County,South Dakota,25.1,0.3075
+47003,Urban,Bedford County,Tennessee,25.1,0.851
+47183,Urban,Weakley County,Tennessee,25.1,0.6106
+47189,Urban,Wilson County,Tennessee,25.1,0.1716
+48467,Rural,Van Zandt County,Texas,25.1,0.5877
+51009,Urban,Amherst County,Virginia,25.1,0.4413
+51103,Rural,Lancaster County,Virginia,25.1,0.2499
+04019,Urban,Pima County,Arizona,25.2,0.8402
+05079,Urban,Lincoln County,Arkansas,25.2,0.936
+05117,Rural,Prairie County,Arkansas,25.2,0.632
+06079,Urban,San Luis Obispo County,California,25.2,0.3926
+08081,Urban,Moffat County,Colorado,25.2,0.32
+12073,Urban,Leon County,Florida,25.2,0.538
+12103,Urban,Pinellas County,Florida,25.2,0.5323
+12131,Urban,Walton County,Florida,25.2,0.6657
+13195,Urban,Madison County,Georgia,25.2,0.5517
+16061,Rural,Lewis County,Idaho,25.2,0.4951
+17057,Urban,Fulton County,Illinois,25.2,0.4174
+17133,Urban,Monroe County,Illinois,25.2,0.0006
+18025,Rural,Crawford County,Indiana,25.2,0.4206
+19091,Rural,Humboldt County,Iowa,25.2,0.1299
+27109,Urban,Olmsted County,Minnesota,25.2,0.2114
+36105,Rural,Sullivan County,New York,25.2,0.7953
+40033,Urban,Cotton County,Oklahoma,25.2,0.703
+41015,Urban,Curry County,Oregon,25.2,0.496
+48209,Urban,Hays County,Texas,25.2,0.4833
+55133,Urban,Waukesha County,Wisconsin,25.2,0.0271
+01103,Urban,Morgan County,Alabama,25.3,0.6915
+13025,Urban,Brantley County,Georgia,25.3,0.6332
+13083,Urban,Dade County,Georgia,25.3,0.3792
+13107,Rural,Emanuel County,Georgia,25.3,0.9895
+16073,Urban,Owyhee County,Idaho,25.3,0.9354
+18005,Urban,Bartholomew County,Indiana,25.3,0.3047
+18043,Urban,Floyd County,Indiana,25.3,0.3161
+18057,Urban,Hamilton County,Indiana,25.3,0.0201
+18131,Rural,Pulaski County,Indiana,25.3,0.2856
+20047,Rural,Edwards County,Kansas,25.3,0.4263
+20157,Rural,Republic County,Kansas,25.3,0.0694
+27047,Urban,Freeborn County,Minnesota,25.3,0.3945
+29001,Urban,Adair County,Missouri,25.3,0.4117
+29177,Urban,Ray County,Missouri,25.3,0.2926
+30007,Rural,Broadwater County,Montana,25.3,0.0602
+30027,Rural,Fergus County,Montana,25.3,0.1404
+31113,Urban,Logan County,Nebraska,25.3,0.0363
+35039,Urban,Rio Arriba County,New Mexico,25.3,0.9472
+36111,Urban,Ulster County,New York,25.3,0.4101
+38041,Rural,Hettinger County,North Dakota,25.3,0.1207
+46115,Rural,Spink County,South Dakota,25.3,0.2353
+47035,Urban,Cumberland County,Tennessee,25.3,0.4145
+47051,Urban,Franklin County,Tennessee,25.3,0.5721
+48053,Rural,Burnet County,Texas,25.3,0.5855
+48367,Urban,Parker County,Texas,25.3,0.2989
+51041,Urban,Chesterfield County,Virginia,25.3,0.1652
+53059,Urban,Skamania County,Washington,25.3,0.2748
+55051,Rural,Iron County,Wisconsin,25.3,0.2327
+12091,Urban,Okaloosa County,Florida,25.4,0.3938
+13169,Urban,Jones County,Georgia,25.4,0.3021
+16043,Urban,Fremont County,Idaho,25.4,0.4104
+18113,Urban,Noble County,Indiana,25.4,0.6125
+19075,Urban,Grundy County,Iowa,25.4,0.006
+20029,Rural,Cloud County,Kansas,25.4,0.3384
+20203,Rural,Wichita County,Kansas,25.4,0.5256
+21191,Urban,Pendleton County,Kentucky,25.4,0.2057
+23027,Rural,Waldo County,Maine,25.4,0.2744
+25009,Urban,Essex County,Massachusetts,25.4,0.4575
+26053,Rural,Gogebic County,Michigan,25.4,0.4661
+27089,Rural,Marshall County,Minnesota,25.4,0.1102
+28017,Rural,Chickasaw County,Mississippi,25.4,0.9545
+29221,Rural,Washington County,Missouri,25.4,0.8606
+30093,Urban,Silver Bow County,Montana,25.4,0.4709
+31003,Rural,Antelope County,Nebraska,25.4,0.0898
+31005,Rural,Arthur County,Nebraska,25.4,0.0099
+32033,Rural,White Pine County,Nevada,25.4,0.3929
+38031,Rural,Foster County,North Dakota,25.4,0.0557
+47043,Urban,Dickson County,Tennessee,25.4,0.4419
+48265,Urban,Kerr County,Texas,25.4,0.6784
+49049,Urban,Utah County,Utah,25.4,0.3104
+51035,Rural,Carroll County,Virginia,25.4,0.4941
+08021,Rural,Conejos County,Colorado,25.5,0.8621
+13089,Urban,Dekalb County,Georgia,25.5,0.7167
+13209,Urban,Montgomery County,Georgia,25.5,0.7819
+17077,Urban,Jackson County,Illinois,25.5,0.6543
+19053,Rural,Decatur County,Iowa,25.5,0.7211
+19079,Rural,Hamilton County,Iowa,25.5,0.148
+19151,Rural,Pocahontas County,Iowa,25.5,0.0764
+26031,Rural,Cheboygan County,Michigan,25.5,0.3757
+28015,Urban,Carroll County,Mississippi,25.5,0.5753
+28135,Rural,Tallahatchie County,Mississippi,25.5,0.9901
+29117,Rural,Livingston County,Missouri,25.5,0.3101
+36035,Urban,Fulton County,New York,25.5,0.5603
+40093,Rural,Major County,Oklahoma,25.5,0.3543
+41057,Rural,Tillamook County,Oregon,25.5,0.5068
+45073,Urban,Oconee County,South Carolina,25.5,0.7237
+46105,Rural,Perkins County,South Dakota,25.5,0.234
+51620,Rural,Franklin City,Virginia,25.5,0.8045
+01067,Urban,Henry County,Alabama,25.6,0.6377
+08017,Rural,Cheyenne County,Colorado,25.6,0.1636
+12081,Urban,Manatee County,Florida,25.6,0.5817
+13177,Urban,Lee County,Georgia,25.6,0.3002
+13223,Urban,Paulding County,Georgia,25.6,0.2162
+13277,Urban,Tift County,Georgia,25.6,0.9462
+16009,Rural,Benewah County,Idaho,25.6,0.6367
+16063,Urban,Lincoln County,Idaho,25.6,0.6011
+17073,Urban,Henry County,Illinois,25.6,0.1563
+17135,Rural,Montgomery County,Illinois,25.6,0.4187
+18011,Urban,Boone County,Indiana,25.6,0.0315
+19049,Urban,Dallas County,Iowa,25.6,0.0589
+19071,Rural,Fremont County,Iowa,25.6,0.0528
+19147,Rural,Palo Alto County,Iowa,25.6,0.1273
+19183,Urban,Washington County,Iowa,25.6,0.1611
+20013,Rural,Brown County,Kansas,25.6,0.4476
+27123,Urban,Ramsey County,Minnesota,25.6,0.6224
+27159,Rural,Wadena County,Minnesota,25.6,0.5435
+28037,Rural,Franklin County,Mississippi,25.6,0.7116
+29037,Urban,Cass County,Missouri,25.6,0.1337
+29145,Urban,Newton County,Missouri,25.6,0.4995
+30045,Rural,Judith Basin County,Montana,25.6,0.008
+31045,Rural,Dawes County,Nebraska,25.6,0.3149
+34023,Urban,Middlesex County,New Jersey,25.6,0.4387
+34037,Urban,Sussex County,New Jersey,25.6,0.0341
+36015,Urban,Chemung County,New York,25.6,0.426
+39009,Urban,Athens County,Ohio,25.6,0.6068
+41029,Urban,Jackson County,Oregon,25.6,0.7615
+46093,Urban,Meade County,South Dakota,25.6,0.2311
+46127,Urban,Union County,South Dakota,25.6,0.014
+49035,Urban,Salt Lake County,Utah,25.6,0.3871
+55055,Urban,Jefferson County,Wisconsin,25.6,0.171
+56043,Rural,Washakie County,Wyoming,25.6,0.5861
+05047,Rural,Franklin County,Arkansas,25.7,0.5428
+17031,Urban,Cook County,Illinois,25.7,0.7077
+18017,Urban,Cass County,Indiana,25.7,0.7603
+19095,Rural,Iowa County,Iowa,25.7,0.0309
+20183,Rural,Smith County,Kansas,25.7,0.0949
+21017,Urban,Bourbon County,Kentucky,25.7,0.5957
+21169,Urban,Metcalfe County,Kentucky,25.7,0.5864
+21211,Urban,Shelby County,Kentucky,25.7,0.4699
+27037,Urban,Dakota County,Minnesota,25.7,0.1178
+28139,Rural,Tippah County,Mississippi,25.7,0.8714
+36025,Rural,Delaware County,New York,25.7,0.5409
+37167,Urban,Stanly County,North Carolina,25.7,0.7666
+40043,Rural,Dewey County,Oklahoma,25.7,0.2869
+41045,Urban,Malheur County,Oregon,25.7,0.9952
+46103,Urban,Pennington County,South Dakota,25.7,0.3964
+49023,Urban,Juab County,Utah,25.7,0.2888
+51087,Urban,Henrico County,Virginia,25.7,0.2741
+51171,Rural,Shenandoah County,Virginia,25.7,0.297
+54065,Rural,Morgan County,West Virginia,25.7,0.2429
+01049,Rural,Dekalb County,Alabama,25.8,0.7638
+05025,Urban,Cleveland County,Arkansas,25.8,0.5234
+05097,Rural,Montgomery County,Arkansas,25.8,0.4947
+06031,Urban,Kings County,California,25.8,0.9698
+17089,Urban,Kane County,Illinois,25.8,0.4323
+18153,Urban,Sullivan County,Indiana,25.8,0.6584
+19161,Rural,Sac County,Iowa,25.8,0.029
+19185,Rural,Wayne County,Iowa,25.8,0.2964
+20087,Urban,Jefferson County,Kansas,25.8,0.0611
+21049,Urban,Clark County,Kentucky,25.8,0.5473
+26005,Urban,Allegan County,Michigan,25.8,0.2521
+27071,Rural,Koochiching County,Minnesota,25.8,0.3884
+28123,Rural,Scott County,Mississippi,25.8,0.9927
+29011,Rural,Barton County,Missouri,25.8,0.5339
+29025,Urban,Caldwell County,Missouri,25.8,0.34
+29115,Rural,Linn County,Missouri,25.8,0.4814
+30043,Urban,Jefferson County,Montana,25.8,0.0293
+31169,Rural,Thayer County,Nebraska,25.8,0.0634
+35047,Urban,San Miguel County,New Mexico,25.8,0.9121
+36069,Urban,Ontario County,New York,25.8,0.2693
+42047,Rural,Elk County,Pennsylvania,25.8,0.0837
+42075,Urban,Lebanon County,Pennsylvania,25.8,0.4448
+46077,Rural,Kingsbury County,South Dakota,25.8,0.0506
+46079,Rural,Lake County,South Dakota,25.8,0.1391
+48179,Urban,Gray County,Texas,25.8,0.6059
+05067,Rural,Jackson County,Arkansas,25.9,0.8249
+18171,Rural,Warren County,Indiana,25.9,0.056
+19123,Urban,Mahaska County,Iowa,25.9,0.2904
+20131,Rural,Nemaha County,Kansas,25.9,0.1554
+21009,Urban,Barren County,Kentucky,25.9,0.6861
+21237,Rural,Wolfe County,Kentucky,25.9,0.7826
+28115,Urban,Pontotoc County,Mississippi,25.9,0.6899
+29091,Urban,Howell County,Missouri,25.9,0.7545
+31101,Rural,Keith County,Nebraska,25.9,0.12
+35029,Urban,Luna County,New Mexico,25.9,0.9994
+42019,Urban,Butler County,Pennsylvania,25.9,0.0812
+46125,Urban,Turner County,South Dakota,25.9,0.085
+48091,Urban,Comal County,Texas,25.9,0.2929
+49007,Urban,Carbon County,Utah,25.9,0.6097
+51085,Urban,Hanover County,Virginia,25.9,0.0322
+02050,Rural,Bethel Census Area,Alaska,26,0.9357
+13261,Urban,Sumter County,Georgia,26,0.9777
+13275,Urban,Thomas County,Georgia,26,0.9064
+17167,Urban,Sangamon County,Illinois,26,0.3486
+21007,Urban,Ballard County,Kentucky,26,0.2178
+21083,Urban,Graves County,Kentucky,26,0.7058
+21123,Urban,Larue County,Kentucky,26,0.6221
+26125,Urban,Oakland County,Michigan,26,0.1726
+30065,Rural,Musselshell County,Montana,26,0.1847
+33015,Urban,Rockingham County,New Hampshire,26,0.0105
+35035,Urban,Otero County,New Mexico,26,0.9542
+37019,Urban,Brunswick County,North Carolina,26,0.483
+41041,Urban,Lincoln County,Oregon,26,0.6164
+41061,Urban,Union County,Oregon,26,0.6364
+41071,Urban,Yamhill County,Oregon,26,0.7768
+47059,Urban,Greene County,Tennessee,26,0.6839
+47073,Urban,Hawkins County,Tennessee,26,0.4683
+47155,Urban,Sevier County,Tennessee,26,0.5823
+51109,Rural,Louisa County,Virginia,26,0.1627
+51159,Rural,Richmond County,Virginia,26,0.7517
+51179,Urban,Stafford County,Virginia,26,0.142
+55031,Urban,Douglas County,Wisconsin,26,0.377
+55093,Urban,Pierce County,Wisconsin,26,0.0344
+01041,Rural,Crenshaw County,Alabama,26.1,0.6953
+01133,Rural,Winston County,Alabama,26.1,0.7128
+04023,Urban,Santa Cruz County,Arizona,26.1,0.9128
+06007,Urban,Butte County,California,26.1,0.7924
+06013,Urban,Contra Costa County,California,26.1,0.4075
+08087,Urban,Morgan County,Colorado,26.1,0.8329
+16071,Rural,Oneida County,Idaho,26.1,0.2703
+17121,Urban,Marion County,Illinois,26.1,0.7421
+18023,Urban,Clinton County,Indiana,26.1,0.5489
+18079,Urban,Jennings County,Indiana,26.1,0.5355
+18087,Rural,Lagrange County,Indiana,26.1,0.5228
+18157,Urban,Tippecanoe County,Indiana,26.1,0.4852
+18165,Urban,Vermillion County,Indiana,26.1,0.2814
+18177,Urban,Wayne County,Indiana,26.1,0.7791
+26015,Urban,Barry County,Michigan,26.1,0.1258
+29031,Urban,Cape Girardeau County,Missouri,26.1,0.4505
+29143,Rural,New Madrid County,Missouri,26.1,0.7494
+31109,Urban,Lancaster County,Nebraska,26.1,0.3368
+36045,Urban,Jefferson County,New York,26.1,0.7007
+41033,Urban,Josephine County,Oregon,26.1,0.6692
+48067,Rural,Cass County,Texas,26.1,0.7978
+48361,Urban,Orange County,Texas,26.1,0.5088
+53007,Urban,Chelan County,Washington,26.1,0.7399
+56031,Rural,Platte County,Wyoming,26.1,0.1853
+02150,Rural,Kodiak Island Borough,Alaska,26.2,0.5597
+05111,Urban,Poinsett County,Arkansas,26.2,0.8631
+18045,Rural,Fountain County,Indiana,26.2,0.2757
+20197,Urban,Wabaunsee County,Kansas,26.2,0.0592
+24029,Rural,Kent County,Maryland,26.2,0.4893
+26009,Rural,Antrim County,Michigan,26.2,0.2229
+26011,Rural,Arenac County,Michigan,26.2,0.5349
+29015,Rural,Benton County,Missouri,26.2,0.4623
+29209,Urban,Stone County,Missouri,26.2,0.3152
+35013,Urban,Doña Ana County,New Mexico,26.2,0.9526
+36003,Rural,Allegany County,New York,26.2,0.5906
+37033,Rural,Caswell County,North Carolina,26.2,0.8905
+37049,Urban,Craven County,North Carolina,26.2,0.7797
+37179,Urban,Union County,North Carolina,26.2,0.242
+40071,Urban,Kay County,Oklahoma,26.2,0.7612
+42027,Urban,Centre County,Pennsylvania,26.2,0.3012
+46057,Rural,Hamlin County,South Dakota,26.2,0.1955
+48451,Urban,Tom Green County,Texas,26.2,0.7186
+51153,Urban,Prince William County,Virginia,26.2,0.2569
+51187,Urban,Warren County,Virginia,26.2,0.2401
+01003,Urban,Baldwin County,Alabama,26.3,0.3432
+06089,Urban,Shasta County,California,26.3,0.7297
+13049,Rural,Charlton County,Georgia,26.3,0.7905
+17141,Urban,Ogle County,Illinois,26.3,0.2213
+19063,Rural,Emmet County,Iowa,26.3,0.2248
+19187,Urban,Webster County,Iowa,26.3,0.425
+20115,Rural,Marion County,Kansas,26.3,0.2232
+22043,Urban,Grant Parish,Louisiana,26.3,0.8064
+27103,Urban,Nicollet County,Minnesota,26.3,0.1773
+27125,Rural,Red Lake County,Minnesota,26.3,0.2553
+30089,Rural,Sanders County,Montana,26.3,0.3983
+40135,Urban,Sequoyah County,Oklahoma,26.3,0.8332
+42041,Urban,Cumberland County,Pennsylvania,26.3,0.1522
+47171,Urban,Unicoi County,Tennessee,26.3,0.8087
+51053,Urban,Dinwiddie County,Virginia,26.3,0.5498
+53047,Rural,Okanogan County,Washington,26.3,0.9102
+53065,Urban,Stevens County,Washington,26.3,0.5457
+54007,Rural,Braxton County,West Virginia,26.3,0.6944
+55067,Rural,Langlade County,Wisconsin,26.3,0.4212
+55129,Rural,Washburn County,Wisconsin,26.3,0.1751
+04013,Urban,Maricopa County,Arizona,26.4,0.6689
+05027,Urban,Columbia County,Arkansas,26.4,0.916
+05087,Urban,Madison County,Arkansas,26.4,0.6087
+05109,Rural,Pike County,Arkansas,26.4,0.8163
+13057,Urban,Cherokee County,Georgia,26.4,0.2022
+13233,Urban,Polk County,Georgia,26.4,0.8841
+17091,Urban,Kankakee County,Illinois,26.4,0.7323
+17097,Urban,Lake County,Illinois,26.4,0.3719
+18147,Rural,Spencer County,Indiana,26.4,0.1856
+19023,Rural,Butler County,Iowa,26.4,0.0242
+21077,Urban,Gallatin County,Kentucky,26.4,0.624
+26165,Urban,Wexford County,Michigan,26.4,0.5422
+27063,Rural,Jackson County,Minnesota,26.4,0.0968
+28091,Rural,Marion County,Mississippi,26.4,0.9637
+30091,Rural,Sheridan County,Montana,26.4,0.1363
+31123,Rural,Morrill County,Nebraska,26.4,0.4877
+35061,Urban,Valencia County,New Mexico,26.4,0.9401
+37009,Rural,Ashe County,North Carolina,26.4,0.5813
+37093,Urban,Hoke County,North Carolina,26.4,0.8975
+39041,Urban,Delaware County,Ohio,26.4,0.0156
+48251,Urban,Johnson County,Texas,26.4,0.5501
+51141,Rural,Patrick County,Virginia,26.4,0.6167
+53029,Urban,Island County,Washington,26.4,0.1738
+54017,Urban,Doddridge County,West Virginia,26.4,0.3508
+55137,Rural,Waushara County,Wisconsin,26.4,0.3906
+01061,Urban,Geneva County,Alabama,26.5,0.8074
+02198,Rural,Prince of Wales-Hyder Census Area,Alaska,26.5,0.6925
+08075,Urban,Logan County,Colorado,26.5,0.7081
+09003,Urban,Hartford County,Connecticut,26.5,0.567
+13215,Urban,Muscogee County,Georgia,26.5,0.8924
+19143,Rural,Osceola County,Iowa,26.5,0.1805
+19171,Rural,Tama County,Iowa,26.5,0.3429
+21011,Urban,Bath County,Kentucky,26.5,0.8555
+21197,Rural,Powell County,Kentucky,26.5,0.8048
+22103,Urban,St. Tammany Parish,Louisiana,26.5,0.2642
+26041,Urban,Delta County,Michigan,26.5,0.3868
+26087,Urban,Lapeer County,Michigan,26.5,0.2786
+26111,Urban,Midland County,Michigan,26.5,0.1971
+27023,Rural,Chippewa County,Minnesota,26.5,0.2872
+27087,Rural,Mahnomen County,Minnesota,26.5,0.9019
+27169,Urban,Winona County,Minnesota,26.5,0.2598
+28149,Urban,Warren County,Mississippi,26.5,0.7911
+29111,Urban,Lewis County,Missouri,26.5,0.4858
+31073,Urban,Gosper County,Nebraska,26.5,0.0423
+36017,Rural,Chenango County,New York,26.5,0.5049
+37145,Urban,Person County,North Carolina,26.5,0.8344
+42007,Urban,Beaver County,Pennsylvania,26.5,0.2378
+42115,Rural,Susquehanna County,Pennsylvania,26.5,0.1398
+45017,Urban,Calhoun County,South Carolina,26.5,0.6724
+47141,Urban,Putnam County,Tennessee,26.5,0.6339
+51117,Rural,Mecklenburg County,Virginia,26.5,0.8306
+55107,Rural,Rusk County,Wisconsin,26.5,0.4301
+56009,Rural,Converse County,Wyoming,26.5,0.1047
+06023,Urban,Humboldt County,California,26.6,0.7004
+12033,Urban,Escambia County,Florida,26.6,0.623
+13039,Urban,Camden County,Georgia,26.6,0.4266
+16039,Urban,Elmore County,Idaho,26.6,0.646
+17111,Urban,Mchenry County,Illinois,26.6,0.0955
+20019,Rural,Chautauqua County,Kansas,26.6,0.334
+20095,Urban,Kingman County,Kansas,26.6,0.2932
+21179,Urban,Nelson County,Kentucky,26.6,0.4616
+21201,Rural,Robertson County,Kentucky,26.6,0.7042
+21213,Rural,Simpson County,Kentucky,26.6,0.5011
+22093,Urban,St. James Parish,Louisiana,26.6,0.6415
+25027,Urban,Worcester County,Massachusetts,26.6,0.3916
+26093,Urban,Livingston County,Michigan,26.6,0.0092
+27137,Urban,St. Louis County,Minnesota,26.6,0.3416
+28053,Rural,Humphreys County,Mississippi,26.6,0.9427
+29207,Rural,Stoddard County,Missouri,26.6,0.4253
+31133,Rural,Pawnee County,Nebraska,26.6,0.3534
+35041,Urban,Roosevelt County,New Mexico,26.6,0.937
+36101,Urban,Steuben County,New York,26.6,0.4416
+37197,Urban,Yadkin County,North Carolina,26.6,0.6851
+47053,Rural,Gibson County,Tennessee,26.6,0.7488
+51029,Urban,Buckingham County,Virginia,26.6,0.8319
+53017,Urban,Douglas County,Washington,26.6,0.7577
+53067,Urban,Thurston County,Washington,26.6,0.306
+02020,Urban,Anchorage Municipality,Alaska,26.7,0.4129
+02261,Rural,Valdez-Cordova Census Area,Alaska,26.7,0.5387
+05001,Rural,Arkansas County,Arkansas,26.7,0.6116
+08123,Urban,Weld County,Colorado,26.7,0.5196
+09009,Urban,New Haven County,Connecticut,26.7,0.5326
+13305,Urban,Wayne County,Georgia,26.7,0.9124
+16047,Rural,Gooding County,Idaho,26.7,0.6934
+16087,Rural,Washington County,Idaho,26.7,0.9026
+19059,Urban,Dickinson County,Iowa,26.7,0.0395
+19141,Rural,O&#39;brien County,Iowa,26.7,0.1535
+20039,Rural,Decatur County,Kansas,26.7,0.1977
+21149,Urban,Mclean County,Kentucky,26.7,0.5371
+22025,Rural,Catahoula Parish,Louisiana,26.7,0.7498
+23029,Rural,Washington County,Maine,26.7,0.6819
+24013,Urban,Carroll County,Maryland,26.7,0.0287
+26023,Urban,Branch County,Michigan,26.7,0.7202
+26091,Urban,Lenawee County,Michigan,26.7,0.4403
+27051,Rural,Grant County,Minnesota,26.7,0.1203
+27105,Urban,Nobles County,Minnesota,26.7,0.7555
+28025,Rural,Clay County,Mississippi,26.7,0.8937
+29007,Urban,Audrain County,Missouri,26.7,0.6176
+29123,Rural,Madison County,Missouri,26.7,0.6762
+31085,Rural,Hayes County,Nebraska,26.7,0.0548
+36007,Urban,Broome County,New York,26.7,0.5377
+36029,Urban,Erie County,New York,26.7,0.4094
+36117,Urban,Wayne County,New York,26.7,0.3025
+37169,Urban,Stokes County,North Carolina,26.7,0.5345
+38051,Rural,Mcintosh County,North Dakota,26.7,0.1894
+39067,Rural,Harrison County,Ohio,26.7,0.2776
+39103,Urban,Medina County,Ohio,26.7,0.0191
+39123,Urban,Ottawa County,Ohio,26.7,0.1433
+40007,Rural,Beaver County,Oklahoma,26.7,0.2315
+42117,Rural,Tioga County,Pennsylvania,26.7,0.2986
+45055,Urban,Kershaw County,South Carolina,26.7,0.5785
+47087,Urban,Jackson County,Tennessee,26.7,0.6119
+48427,Urban,Starr County,Texas,26.7,0.9844
+02180,Rural,Nome Census Area,Alaska,26.8,0.9144
+05135,Rural,Sharp County,Arkansas,26.8,0.7373
+06033,Urban,Lake County,California,26.8,0.9096
+06101,Urban,Sutter County,California,26.8,0.8294
+12029,Rural,Dixie County,Florida,26.8,0.7071
+12111,Urban,St. Lucie County,Florida,26.8,0.7835
+13081,Urban,Crisp County,Georgia,26.8,0.9761
+13295,Urban,Walker County,Georgia,26.8,0.6288
+19061,Urban,Dubuque County,Iowa,26.8,0.1818
+19119,Rural,Lyon County,Iowa,26.8,0.0404
+20207,Rural,Woodson County,Kansas,26.8,0.3034
+22127,Rural,Winn Parish,Louisiana,26.8,0.8656
+26061,Urban,Houghton County,Michigan,26.8,0.4721
+26103,Urban,Marquette County,Michigan,26.8,0.2245
+27065,Rural,Kanabec County,Minnesota,26.8,0.482
+27171,Urban,Wright County,Minnesota,26.8,0.0541
+30013,Urban,Cascade County,Montana,26.8,0.4132
+31093,Urban,Howard County,Nebraska,26.8,0.0328
+37099,Urban,Jackson County,North Carolina,26.8,0.6281
+39163,Rural,Vinton County,Ohio,26.8,0.7046
+41039,Urban,Lane County,Oregon,26.8,0.6192
+42103,Urban,Pike County,Pennsylvania,26.8,0.1729
+46095,Rural,Mellette County,South Dakota,26.8,0.8965
+47071,Rural,Hardin County,Tennessee,26.8,0.6208
+47139,Urban,Polk County,Tennessee,26.8,0.532
+50017,Urban,Orange County,Vermont,26.8,0.1579
+55071,Urban,Manitowoc County,Wisconsin,26.8,0.15
+01071,Urban,Jackson County,Alabama,26.9,0.6148
+01087,Rural,Macon County,Alabama,26.9,0.9624
+02110,Urban,Juneau City and Borough,Alaska,26.9,0.3413
+02188,Rural,Northwest Arctic Borough,Alaska,26.9,0.908
+08001,Urban,Adams County,Colorado,26.9,0.6759
+13001,Rural,Appling County,Georgia,26.9,0.8625
+16083,Urban,Twin Falls County,Idaho,26.9,0.6428
+17113,Urban,Mclean County,Illinois,26.9,0.2076
+18107,Urban,Montgomery County,Indiana,26.9,0.5027
+18151,Urban,Steuben County,Indiana,26.9,0.2923
+19157,Rural,Poweshiek County,Iowa,26.9,0.1831
+20163,Rural,Rooks County,Kansas,26.9,0.1767
+21217,Urban,Taylor County,Kentucky,26.9,0.7246
+22085,Rural,Sabine Parish,Louisiana,26.9,0.8351
+22099,Urban,St. Martin Parish,Louisiana,26.9,0.7829
+26007,Urban,Alpena County,Michigan,26.9,0.3903
+27027,Urban,Clay County,Minnesota,26.9,0.2385
+28117,Rural,Prentiss County,Mississippi,26.9,0.85
+29053,Rural,Cooper County,Missouri,26.9,0.2853
+29099,Urban,Jefferson County,Missouri,26.9,0.205
+29187,Urban,St. Francois County,Missouri,26.9,0.7883
+31099,Urban,Kearney County,Nebraska,26.9,0.0586
+36067,Urban,Onondaga County,New York,26.9,0.4409
+38029,Rural,Emmons County,North Dakota,26.9,0.1458
+39093,Urban,Lorain County,Ohio,26.9,0.4897
+40119,Urban,Payne County,Oklahoma,26.9,0.4078
+42001,Urban,Adams County,Pennsylvania,26.9,0.2289
+42003,Urban,Allegheny County,Pennsylvania,26.9,0.2458
+51093,Urban,Isle Of Wight County,Virginia,26.9,0.199
+55007,Rural,Bayfield County,Wisconsin,26.9,0.1149
+55009,Urban,Brown County,Wisconsin,26.9,0.3639
+55053,Rural,Jackson County,Wisconsin,26.9,0.4912
+06071,Urban,San Bernardino County,California,27,0.9013
+08089,Rural,Otero County,Colorado,27,0.9707
+16079,Rural,Shoshone County,Idaho,27,0.666
+18073,Urban,Jasper County,Indiana,27,0.184
+18175,Urban,Washington County,Indiana,27,0.5059
+19181,Urban,Warren County,Iowa,27,0.0895
+20053,Rural,Ellsworth County,Kansas,27,0.1812
+20057,Urban,Ford County,Kansas,27,0.8405
+20137,Rural,Norton County,Kansas,27,0.4269
+21065,Rural,Estill County,Kentucky,27,0.774
+21073,Urban,Franklin County,Kentucky,27,0.5807
+22113,Urban,Vermilion Parish,Louisiana,27,0.7539
+22121,Urban,West Baton Rouge Parish,Louisiana,27,0.6702
+26037,Urban,Clinton County,Michigan,27,0.0691
+26059,Urban,Hillsdale County,Michigan,27,0.5731
+27075,Rural,Lake County,Minnesota,27,0.1168
+27099,Urban,Mower County,Minnesota,27,0.5852
+28099,Rural,Neshoba County,Mississippi,27,0.9185
+29069,Urban,Dunklin County,Missouri,27,0.9316
+30053,Rural,Lincoln County,Montana,27,0.3438
+30105,Rural,Valley County,Montana,27,0.1254
+31029,Rural,Chase County,Nebraska,27,0.2235
+34005,Urban,Burlington County,New Jersey,27,0.1792
+34031,Urban,Passaic County,New Jersey,27,0.78
+38009,Rural,Bottineau County,North Dakota,27,0.0417
+38097,Rural,Traill County,North Dakota,27,0.0735
+39091,Urban,Logan County,Ohio,27,0.4982
+40083,Urban,Logan County,Oklahoma,27,0.3056
+42079,Urban,Luzerne County,Pennsylvania,27,0.5584
+42125,Urban,Washington County,Pennsylvania,27,0.1671
+49013,Rural,Duchesne County,Utah,27,0.3095
+53045,Urban,Mason County,Washington,27,0.6495
+55103,Rural,Richland County,Wisconsin,27,0.3231
+01035,Rural,Conecuh County,Alabama,27.1,0.9147
+01037,Urban,Coosa County,Alabama,27.1,0.7962
+01117,Urban,Shelby County,Alabama,27.1,0.1248
+05115,Urban,Pope County,Arkansas,27.1,0.7147
+12045,Urban,Gulf County,Florida,27.1,0.8399
+12089,Urban,Nassau County,Florida,27.1,0.2257
+13097,Urban,Douglas County,Georgia,27.1,0.5899
+13167,Urban,Johnson County,Georgia,27.1,0.8109
+13299,Urban,Ware County,Georgia,27.1,0.9726
+19169,Urban,Story County,Iowa,27.1,0.1789
+20113,Urban,Mcpherson County,Kansas,27.1,0.0758
+24025,Urban,Harford County,Maryland,27.1,0.0767
+26127,Rural,Oceana County,Michigan,27.1,0.8112
+27147,Urban,Steele County,Minnesota,27.1,0.3314
+28129,Rural,Smith County,Mississippi,27.1,0.7192
+29211,Rural,Sullivan County,Missouri,27.1,0.7727
+30047,Rural,Lake County,Montana,27.1,0.6867
+31027,Rural,Cedar County,Nebraska,27.1,0.0398
+31155,Urban,Saunders County,Nebraska,27.1,0.0143
+40073,Rural,Kingfisher County,Oklahoma,27.1,0.4152
+51191,Urban,Washington County,Virginia,27.1,0.3063
+55069,Urban,Lincoln County,Wisconsin,27.1,0.1235
+55113,Rural,Sawyer County,Wisconsin,27.1,0.3961
+06039,Urban,Madera County,California,27.2,0.9408
+08063,Rural,Kit Carson County,Colorado,27.2,0.7141
+12019,Urban,Clay County,Florida,27.2,0.368
+18009,Rural,Blackford County,Indiana,27.2,0.5314
+19081,Rural,Hancock County,Iowa,27.2,0.035
+20149,Urban,Pottawatomie County,Kansas,27.2,0.0388
+21005,Urban,Anderson County,Kentucky,27.2,0.1133
+27015,Urban,Brown County,Minnesota,27.2,0.1741
+27145,Urban,Stearns County,Minnesota,27.2,0.2907
+28071,Urban,Lafayette County,Mississippi,27.2,0.5619
+28073,Urban,Lamar County,Mississippi,27.2,0.4441
+28109,Urban,Pearl River County,Mississippi,27.2,0.7857
+28159,Rural,Winston County,Mississippi,27.2,0.9532
+29019,Urban,Boone County,Missouri,27.2,0.2238
+31143,Rural,Polk County,Nebraska,27.2,0.0844
+38049,Urban,Mchenry County,North Dakota,27.2,0.1111
+39169,Urban,Wayne County,Ohio,27.2,0.4518
+46065,Urban,Hughes County,South Dakota,27.2,0.2767
+46099,Urban,Minnehaha County,South Dakota,27.2,0.3633
+47017,Rural,Carroll County,Tennessee,27.2,0.7023
+50019,Rural,Orleans County,Vermont,27.2,0.3483
+55039,Urban,Fond Du Lac County,Wisconsin,27.2,0.2416
+55087,Urban,Outagamie County,Wisconsin,27.2,0.1172
+55095,Rural,Polk County,Wisconsin,27.2,0.1528
+01019,Rural,Cherokee County,Alabama,27.3,0.5661
+01081,Urban,Lee County,Alabama,27.3,0.5938
+06065,Urban,Riverside County,California,27.3,0.823
+09011,Urban,New London County,Connecticut,27.3,0.3457
+16005,Urban,Bannock County,Idaho,27.3,0.5107
+18033,Urban,Dekalb County,Indiana,27.3,0.2821
+18081,Urban,Johnson County,Indiana,27.3,0.1722
+18121,Rural,Parke County,Indiana,27.3,0.3184
+19043,Rural,Clayton County,Iowa,27.3,0.141
+19097,Rural,Jackson County,Iowa,27.3,0.0987
+21029,Urban,Bullitt County,Kentucky,27.3,0.157
+21067,Urban,Fayette County,Kentucky,27.3,0.4826
+21109,Rural,Jackson County,Kentucky,27.3,0.758
+22069,Urban,Natchitoches Parish,Louisiana,27.3,0.9436
+23031,Urban,York County,Maine,27.3,0.093
+27025,Urban,Chisago County,Minnesota,27.3,0.1117
+27091,Rural,Martin County,Minnesota,27.3,0.2203
+29079,Rural,Grundy County,Missouri,27.3,0.611
+31069,Rural,Garden County,Nebraska,27.3,0.0264
+35057,Urban,Torrance County,New Mexico,27.3,0.9035
+38103,Rural,Wells County,North Dakota,27.3,0.0732
+40151,Rural,Woods County,Oklahoma,27.3,0.2506
+42021,Urban,Cambria County,Pennsylvania,27.3,0.4339
+42095,Urban,Northampton County,Pennsylvania,27.3,0.3193
+47165,Urban,Sumner County,Tennessee,27.3,0.2295
+48277,Urban,Lamar County,Texas,27.3,0.8099
+48441,Urban,Taylor County,Texas,27.3,0.7198
+51185,Urban,Tazewell County,Virginia,27.3,0.5871
+55117,Urban,Sheboygan County,Wisconsin,27.3,0.2585
+56007,Rural,Carbon County,Wyoming,27.3,0.3919
+01013,Rural,Butler County,Alabama,27.4,0.9016
+01039,Rural,Covington County,Alabama,27.4,0.7568
+02290,Rural,Yukon-Koyukuk Census Area,Alaska,27.4,0.8469
+05121,Rural,Randolph County,Arkansas,27.4,0.554
+06067,Urban,Sacramento County,California,27.4,0.7943
+12043,Rural,Glades County,Florida,27.4,0.9188
+16045,Urban,Gem County,Idaho,27.4,0.5718
+18037,Urban,Dubois County,Indiana,27.4,0.2254
+19017,Urban,Bremer County,Iowa,27.4,0.0178
+19025,Rural,Calhoun County,Iowa,27.4,0.156
+19085,Urban,Harrison County,Iowa,27.4,0.0493
+20073,Rural,Greenwood County,Kansas,27.4,0.2159
+20123,Rural,Mitchell County,Kansas,27.4,0.1019
+20141,Rural,Osborne County,Kansas,27.4,0.1328
+26139,Urban,Ottawa County,Michigan,27.4,0.2722
+27035,Urban,Crow Wing County,Minnesota,27.4,0.1942
+28119,Rural,Quitman County,Mississippi,27.4,0.9615
+28121,Urban,Rankin County,Mississippi,27.4,0.355
+34001,Urban,Atlantic County,New Jersey,27.4,0.7892
+35053,Rural,Socorro County,New Mexico,27.4,0.9723
+36019,Urban,Clinton County,New York,27.4,0.5062
+36083,Urban,Rensselaer County,New York,27.4,0.3142
+37003,Urban,Alexander County,North Carolina,27.4,0.5896
+38011,Rural,Bowman County,North Dakota,27.4,0.0551
+39015,Urban,Brown County,Ohio,27.4,0.4349
+40087,Urban,Mcclain County,Oklahoma,27.4,0.2197
+41007,Urban,Clatsop County,Oregon,27.4,0.6211
+45065,Rural,Mccormick County,South Carolina,27.4,0.8647
+46023,Rural,Charles Mix County,South Dakota,27.4,0.7845
+46039,Rural,Deuel County,South Dakota,27.4,0.0723
+48013,Urban,Atascosa County,Texas,27.4,0.7453
+48309,Urban,Mclennan County,Texas,27.4,0.8204
+55011,Rural,Buffalo County,Wisconsin,27.4,0.1605
+55073,Urban,Marathon County,Wisconsin,27.4,0.1697
+56041,Urban,Uinta County,Wyoming,27.4,0.4167
+02122,Rural,Kenai Peninsula Borough,Alaska,27.5,0.2646
+13017,Urban,Ben Hill County,Georgia,27.5,0.9634
+13123,Rural,Gilmer County,Georgia,27.5,0.7096
+16035,Rural,Clearwater County,Idaho,27.5,0.4677
+19037,Rural,Chickasaw County,Iowa,27.5,0.1484
+19125,Rural,Marion County,Iowa,27.5,0.0946
+20159,Rural,Rice County,Kansas,27.5,0.44
+21129,Rural,Lee County,Kentucky,27.5,0.8287
+21141,Rural,Logan County,Kentucky,27.5,0.5747
+21153,Rural,Magoffin County,Kentucky,27.5,0.7529
+25013,Urban,Hampden County,Massachusetts,27.5,0.8274
+27111,Urban,Otter Tail County,Minnesota,27.5,0.2143
+28101,Rural,Newton County,Mississippi,27.5,0.8641
+31083,Rural,Harlan County,Nebraska,27.5,0.1194
+31105,Rural,Kimball County,Nebraska,27.5,0.4635
+36089,Urban,St. Lawrence County,New York,27.5,0.6877
+37047,Rural,Columbus County,North Carolina,27.5,0.9258
+42071,Urban,Lancaster County,Pennsylvania,27.5,0.4209
+47049,Rural,Fentress County,Tennessee,27.5,0.6488
+47061,Rural,Grundy County,Tennessee,27.5,0.8672
+47077,Rural,Henderson County,Tennessee,27.5,0.6893
+47089,Urban,Jefferson County,Tennessee,27.5,0.6794
+47125,Urban,Montgomery County,Tennessee,27.5,0.561
+47145,Urban,Roane County,Tennessee,27.5,0.4581
+48167,Urban,Galveston County,Texas,27.5,0.5119
+49047,Urban,Uintah County,Utah,27.5,0.2687
+50011,Urban,Franklin County,Vermont,27.5,0.1277
+51810,Urban,Virginia Beach City,Virginia,27.5,0.1684
+54101,Rural,Webster County,West Virginia,27.5,0.6807
+55005,Rural,Barron County,Wisconsin,27.5,0.29
+55063,Urban,La Crosse County,Wisconsin,27.5,0.1815
+01057,Rural,Fayette County,Alabama,27.6,0.8083
+05091,Urban,Miller County,Arkansas,27.6,0.8217
+13115,Urban,Floyd County,Georgia,27.6,0.8879
+16031,Urban,Cassia County,Idaho,27.6,0.7319
+18001,Urban,Adams County,Indiana,27.6,0.6195
+18021,Urban,Clay County,Indiana,27.6,0.3222
+18133,Urban,Putnam County,Indiana,27.6,0.3356
+19027,Rural,Carroll County,Iowa,27.6,0.0907
+19099,Urban,Jasper County,Iowa,27.6,0.2346
+19149,Urban,Plymouth County,Iowa,27.6,0.0684
+28103,Rural,Noxubee County,Mississippi,27.6,0.9717
+29215,Rural,Texas County,Missouri,27.6,0.61
+31039,Rural,Cuming County,Nebraska,27.6,0.2455
+33005,Urban,Cheshire County,New Hampshire,27.6,0.1429
+33011,Urban,Hillsborough County,New Hampshire,27.6,0.1923
+36075,Urban,Oswego County,New York,27.6,0.5769
+37023,Urban,Burke County,North Carolina,27.6,0.9039
+38033,Rural,Golden Valley County,North Dakota,27.6,0.1143
+38057,Rural,Mercer County,North Dakota,27.6,0.049
+39175,Rural,Wyandot County,Ohio,27.6,0.2044
+42131,Urban,Wyoming County,Pennsylvania,27.6,0.1242
+45057,Urban,Lancaster County,South Carolina,27.6,0.7036
+46135,Urban,Yankton County,South Dakota,27.6,0.2362
+48201,Urban,Harris County,Texas,27.6,0.7122
+54011,Urban,Cabell County,West Virginia,27.6,0.6418
+54071,Rural,Pendleton County,West Virginia,27.6,0.2623
+01059,Rural,Franklin County,Alabama,27.7,0.922
+01075,Rural,Lamar County,Alabama,27.7,0.8223
+01079,Urban,Lawrence County,Alabama,27.7,0.4785
+05051,Urban,Garland County,Arkansas,27.7,0.822
+13103,Urban,Effingham County,Georgia,27.7,0.2967
+13135,Urban,Gwinnett County,Georgia,27.7,0.4655
+18083,Urban,Knox County,Indiana,27.7,0.469
+19077,Urban,Guthrie County,Iowa,27.7,0.0799
+19177,Rural,Van Buren County,Iowa,27.7,0.2168
+20107,Urban,Linn County,Kansas,27.7,0.3779
+24035,Urban,Queen Anne&#39;s County,Maryland,27.7,0.0204
+28063,Rural,Jefferson County,Mississippi,27.7,0.9557
+29205,Rural,Shelby County,Missouri,27.7,0.4171
+29225,Urban,Webster County,Missouri,27.7,0.659
+30017,Rural,Custer County,Montana,27.7,0.3155
+31055,Urban,Douglas County,Nebraska,27.7,0.4989
+37063,Urban,Durham County,North Carolina,27.7,0.6371
+37171,Urban,Surry County,North Carolina,27.7,0.8153
+39019,Urban,Carroll County,Ohio,27.7,0.3066
+39039,Urban,Defiance County,Ohio,27.7,0.3817
+39121,Rural,Noble County,Ohio,27.7,0.5441
+40065,Urban,Jackson County,Oklahoma,27.7,0.6769
+40095,Rural,Marshall County,Oklahoma,27.7,0.8176
+45045,Urban,Greenville County,South Carolina,27.7,0.5683
+45077,Urban,Pickens County,South Carolina,27.7,0.6262
+46101,Rural,Moody County,South Dakota,27.7,0.3547
+47019,Urban,Carter County,Tennessee,27.7,0.6132
+55075,Urban,Marinette County,Wisconsin,27.7,0.3114
+02090,Urban,Fairbanks North Star Borough,Alaska,27.8,0.3477
+05149,Urban,Yell County,Arkansas,27.8,0.8755
+13031,Urban,Bulloch County,Georgia,27.8,0.8029
+17037,Urban,Dekalb County,Illinois,27.8,0.5135
+18069,Urban,Huntington County,Indiana,27.8,0.2171
+20117,Rural,Marshall County,Kansas,27.8,0.1445
+25023,Urban,Plymouth County,Massachusetts,27.8,0.2451
+26051,Rural,Gladwin County,Michigan,27.8,0.589
+26101,Rural,Manistee County,Michigan,27.8,0.5148
+26133,Rural,Osceola County,Michigan,27.8,0.744
+28029,Urban,Copiah County,Mississippi,27.8,0.9513
+29121,Rural,Macon County,Missouri,27.8,0.4865
+31021,Rural,Burt County,Nebraska,27.8,0.0783
+31077,Rural,Greeley County,Nebraska,27.8,0.0449
+31159,Urban,Seward County,Nebraska,27.8,0.0436
+37013,Urban,Beaufort County,North Carolina,27.8,0.7501
+37025,Urban,Cabarrus County,North Carolina,27.8,0.4979
+37069,Urban,Franklin County,North Carolina,27.8,0.7523
+38045,Rural,Lamoure County,North Dakota,27.8,0.0159
+40117,Urban,Pawnee County,Oklahoma,27.8,0.5546
+46011,Urban,Brookings County,South Dakota,27.8,0.1665
+47039,Rural,Decatur County,Tennessee,27.8,0.653
+47079,Urban,Henry County,Tennessee,27.8,0.6472
+51083,Rural,Halifax County,Virginia,27.8,0.8036
+51147,Rural,Prince Edward County,Virginia,27.8,0.8523
+55049,Urban,Iowa County,Wisconsin,27.8,0.0414
+55123,Rural,Vernon County,Wisconsin,27.8,0.4215
+56003,Rural,Big Horn County,Wyoming,27.8,0.3037
+04017,Urban,Navajo County,Arizona,27.9,0.9955
+12065,Urban,Jefferson County,Florida,27.9,0.787
+17143,Urban,Peoria County,Illinois,27.9,0.5556
+18075,Rural,Jay County,Indiana,27.9,0.5393
+18117,Rural,Orange County,Indiana,27.9,0.689
+19057,Urban,Des Moines County,Iowa,27.9,0.4015
+21027,Rural,Breckinridge County,Kentucky,27.9,0.7673
+21053,Rural,Clinton County,Kentucky,27.9,0.6291
+21219,Rural,Todd County,Kentucky,27.9,0.7389
+24009,Urban,Calvert County,Maryland,27.9,0.0519
+25005,Urban,Bristol County,Massachusetts,27.9,0.5562
+27009,Urban,Benton County,Minnesota,27.9,0.4155
+27153,Rural,Todd County,Minnesota,27.9,0.503
+29051,Urban,Cole County,Missouri,27.9,0.3381
+29073,Rural,Gasconade County,Missouri,27.9,0.3734
+30021,Rural,Dawson County,Montana,27.9,0.206
+30071,Rural,Phillips County,Montana,27.9,0.2283
+31089,Rural,Holt County,Nebraska,27.9,0.1079
+34009,Urban,Cape May County,New Jersey,27.9,0.3712
+36055,Urban,Monroe County,New York,27.9,0.455
+37045,Urban,Cleveland County,North Carolina,27.9,0.7915
+39053,Urban,Gallia County,Ohio,27.9,0.7252
+40013,Urban,Bryan County,Oklahoma,27.9,0.8233
+42065,Rural,Jefferson County,Pennsylvania,27.9,0.3292
+44007,Urban,Providence County,Rhode Island,27.9,0.7701
+50005,Rural,Caledonia County,Vermont,27.9,0.4715
+51710,Urban,Norfolk City,Virginia,27.9,0.7711
+53013,Urban,Columbia County,Washington,27.9,0.6084
+53037,Urban,Kittitas County,Washington,27.9,0.4779
+53039,Rural,Klickitat County,Washington,27.9,0.4973
+53069,Rural,Wahkiakum County,Washington,27.9,0.4906
+55019,Rural,Clark County,Wisconsin,27.9,0.5657
+55045,Urban,Green County,Wisconsin,27.9,0.0688
+55065,Rural,Lafayette County,Wisconsin,27.9,0.1188
+56015,Rural,Goshen County,Wyoming,27.9,0.2407
+01083,Urban,Limestone County,Alabama,28,0.4604
+05141,Rural,Van Buren County,Arkansas,28,0.8166
+18139,Rural,Rush County,Indiana,28,0.2483
+18183,Urban,Whitley County,Indiana,28,0.0707
+20193,Rural,Thomas County,Kansas,28,0.0618
+27067,Urban,Kandiyohi County,Minnesota,28,0.4069
+29223,Rural,Wayne County,Missouri,28,0.6641
+32003,Urban,Clark County,Nevada,28,0.752
+34041,Urban,Warren County,New Jersey,28,0.2101
+37027,Urban,Caldwell County,North Carolina,28,0.6632
+37105,Urban,Lee County,North Carolina,28,0.8809
+38099,Rural,Walsh County,North Dakota,28,0.3053
+39029,Urban,Columbiana County,Ohio,28,0.4998
+39071,Rural,Highland County,Ohio,28,0.7418
+42035,Urban,Clinton County,Pennsylvania,28,0.4397
+42087,Urban,Mifflin County,Pennsylvania,28,0.6001
+48027,Urban,Bell County,Texas,28,0.6921
+51760,Urban,Richmond City,Virginia,28,0.8026
+54069,Urban,Ohio County,West Virginia,28,0.3359
+54085,Rural,Ritchie County,West Virginia,28,0.4056
+01043,Urban,Cullman County,Alabama,28.1,0.5842
+05059,Urban,Hot Spring County,Arkansas,28.1,0.6071
+08101,Urban,Pueblo County,Colorado,28.1,0.8453
+10003,Urban,New Castle County,Delaware,28.1,0.3976
+12037,Rural,Franklin County,Florida,28.1,0.8717
+12097,Urban,Osceola County,Florida,28.1,0.8634
+16077,Rural,Power County,Idaho,28.1,0.7587
+18067,Urban,Howard County,Indiana,28.1,0.5282
+20127,Rural,Morris County,Kansas,28.1,0.1487
+20191,Urban,Sumner County,Kansas,28.1,0.1933
+26057,Urban,Gratiot County,Michigan,28.1,0.6402
+27001,Rural,Aitkin County,Minnesota,28.1,0.2837
+27017,Urban,Carlton County,Minnesota,28.1,0.3387
+27121,Rural,Pope County,Minnesota,28.1,0.0535
+27127,Rural,Redwood County,Minnesota,28.1,0.3187
+28147,Rural,Walthall County,Mississippi,28.1,0.8023
+37097,Urban,Iredell County,North Carolina,28.1,0.4432
+37163,Rural,Sampson County,North Carolina,28.1,0.972
+38021,Rural,Dickey County,North Dakota,28.1,0.1051
+39025,Urban,Clermont County,Ohio,28.1,0.106
+39033,Urban,Crawford County,Ohio,28.1,0.248
+47029,Urban,Cocke County,Tennessee,28.1,0.773
+51105,Rural,Lee County,Virginia,28.1,0.7775
+55043,Urban,Grant County,Wisconsin,28.1,0.2576
+56045,Rural,Weston County,Wyoming,28.1,0.3696
+12047,Rural,Hamilton County,Florida,28.2,0.9596
+12069,Urban,Lake County,Florida,28.2,0.638
+13073,Urban,Columbia County,Georgia,28.2,0.1315
+20151,Rural,Pratt County,Kansas,28.2,0.2394
+21001,Rural,Adair County,Kentucky,28.2,0.6514
+21037,Urban,Campbell County,Kentucky,28.2,0.2862
+28131,Rural,Stone County,Mississippi,28.2,0.7307
+30073,Rural,Pondera County,Montana,28.2,0.6613
+33017,Urban,Strafford County,New Hampshire,28.2,0.2372
+36013,Urban,Chautauqua County,New York,28.2,0.66
+36051,Urban,Livingston County,New York,28.2,0.3295
+36085,Urban,Richmond County,New York,28.2,0.4629
+37087,Urban,Haywood County,North Carolina,28.2,0.334
+37133,Urban,Onslow County,North Carolina,28.2,0.6918
+37165,Urban,Scotland County,North Carolina,28.2,0.9949
+37185,Rural,Warren County,North Carolina,28.2,0.9589
+38015,Urban,Burleigh County,North Dakota,28.2,0.1038
+38019,Rural,Cavalier County,North Dakota,28.2,0.007
+39129,Urban,Pickaway County,Ohio,28.2,0.2751
+42083,Urban,Mckean County,Pennsylvania,28.2,0.5454
+47133,Urban,Overton County,Tennessee,28.2,0.5724
+47159,Urban,Smith County,Tennessee,28.2,0.3744
+47179,Urban,Washington County,Tennessee,28.2,0.3502
+48037,Urban,Bowie County,Texas,28.2,0.8144
+54041,Rural,Lewis County,West Virginia,28.2,0.4801
+54103,Rural,Wetzel County,West Virginia,28.2,0.4021
+01027,Rural,Clay County,Alabama,28.3,0.8596
+05105,Urban,Perry County,Arkansas,28.3,0.3875
+12079,Rural,Madison County,Florida,28.3,0.9841
+13153,Urban,Houston County,Georgia,28.3,0.4976
+13213,Urban,Murray County,Georgia,28.3,0.8472
+21117,Urban,Kenton County,Kentucky,28.3,0.4158
+21203,Urban,Rockcastle County,Kentucky,28.3,0.7205
+21207,Rural,Russell County,Kentucky,28.3,0.858
+24023,Rural,Garrett County,Maryland,28.3,0.2152
+26109,Urban,Menominee County,Michigan,28.3,0.4298
+26159,Urban,Van Buren County,Michigan,28.3,0.6734
+27141,Urban,Sherburne County,Minnesota,28.3,0.1082
+28105,Urban,Oktibbeha County,Mississippi,28.3,0.7329
+31141,Urban,Platte County,Nebraska,28.3,0.3238
+31161,Rural,Sheridan County,Nebraska,28.3,0.3493
+33019,Urban,Sullivan County,New Hampshire,28.3,0.1245
+37035,Urban,Catawba County,North Carolina,28.3,0.6555
+39027,Urban,Clinton County,Ohio,28.3,0.5266
+40019,Urban,Carter County,Oklahoma,28.3,0.5941
+42089,Urban,Monroe County,Pennsylvania,28.3,0.3563
+47009,Urban,Blount County,Tennessee,28.3,0.3266
+47097,Rural,Lauderdale County,Tennessee,28.3,0.9554
+47163,Urban,Sullivan County,Tennessee,28.3,0.5053
+48303,Urban,Lubbock County,Texas,28.3,0.7221
+02060,Rural,Bristol Bay Borough,Alaska,28.4,0.2544
+04012,Rural,La Paz County,Arizona,28.4,0.8561
+12093,Urban,Okeechobee County,Florida,28.4,0.985
+21165,Urban,Menifee County,Kentucky,28.4,0.7698
+28077,Rural,Lawrence County,Mississippi,28.4,0.6103
+28127,Urban,Simpson County,Mississippi,28.4,0.9223
+29047,Urban,Clay County,Missouri,28.4,0.1582
+31171,Rural,Thomas County,Nebraska,28.4,0.001
+31181,Rural,Webster County,Nebraska,28.4,0.1754
+36115,Urban,Washington County,New York,28.4,0.3528
+38067,Rural,Pembina County,North Dakota,28.4,0.0538
+38073,Rural,Ransom County,North Dakota,28.4,0.1662
+39077,Urban,Huron County,Ohio,28.4,0.5014
+39141,Urban,Ross County,Ohio,28.4,0.7676
+40023,Rural,Choctaw County,Oklahoma,28.4,0.8774
+40039,Urban,Custer County,Oklahoma,28.4,0.6485
+45023,Urban,Chester County,South Carolina,28.4,0.8415
+45091,Urban,York County,South Carolina,28.4,0.4639
+49057,Urban,Weber County,Utah,28.4,0.4292
+51025,Rural,Brunswick County,Virginia,28.4,0.8828
+55033,Urban,Dunn County,Wisconsin,28.4,0.2216
+55037,Urban,Florence County,Wisconsin,28.4,0.1009
+56013,Urban,Fremont County,Wyoming,28.4,0.5368
+01107,Urban,Pickens County,Alabama,28.5,0.9459
+05015,Rural,Carroll County,Arkansas,28.5,0.5954
+06019,Urban,Fresno County,California,28.5,0.9653
+12005,Urban,Bay County,Florida,28.5,0.5947
+12053,Urban,Hernando County,Florida,28.5,0.6351
+12083,Urban,Marion County,Florida,28.5,0.8004
+17179,Urban,Tazewell County,Illinois,28.5,0.072
+18101,Rural,Martin County,Indiana,28.5,0.2124
+19121,Urban,Madison County,Iowa,28.5,0.0599
+21035,Urban,Calloway County,Kentucky,28.5,0.5798
+21157,Rural,Marshall County,Kentucky,28.5,0.2404
+24005,Urban,Baltimore County,Maryland,28.5,0.3566
+24041,Urban,Talbot County,Maryland,28.5,0.2155
+27041,Urban,Douglas County,Minnesota,28.5,0.0627
+27085,Urban,Mcleod County,Minnesota,28.5,0.1216
+27143,Urban,Sibley County,Minnesota,28.5,0.2089
+28041,Rural,Greene County,Mississippi,28.5,0.7982
+31017,Rural,Brown County,Nebraska,28.5,0.1375
+33007,Urban,Coos County,New Hampshire,28.5,0.4648
+33013,Urban,Merrimack County,New Hampshire,28.5,0.1496
+36049,Rural,Lewis County,New York,28.5,0.2811
+38069,Rural,Pierce County,North Dakota,28.5,0.2149
+39061,Urban,Hamilton County,Ohio,28.5,0.5594
+42127,Rural,Wayne County,Pennsylvania,28.5,0.2547
+47021,Urban,Cheatham County,Tennessee,28.5,0.2939
+48029,Urban,Bexar County,Texas,28.5,0.8125
+48325,Urban,Medina County,Texas,28.5,0.7313
+53011,Urban,Clark County,Washington,28.5,0.391
+53035,Urban,Kitsap County,Washington,28.5,0.3216
+54035,Rural,Jackson County,West Virginia,28.5,0.468
+04007,Urban,Gila County,Arizona,28.6,0.8816
+05077,Rural,Lee County,Arkansas,28.6,0.9268
+05103,Urban,Ouachita County,Arkansas,28.6,0.8571
+12041,Urban,Gilchrist County,Florida,28.6,0.8173
+16019,Urban,Bonneville County,Idaho,28.6,0.3257
+18051,Rural,Gibson County,Indiana,28.6,0.2117
+19005,Rural,Allamakee County,Iowa,28.6,0.2681
+21033,Rural,Caldwell County,Kentucky,28.6,0.489
+21101,Urban,Henderson County,Kentucky,28.6,0.6797
+21173,Urban,Montgomery County,Kentucky,28.6,0.7685
+22013,Rural,Bienville Parish,Louisiana,28.6,0.8981
+22061,Urban,Lincoln Parish,Louisiana,28.6,0.8914
+26065,Urban,Ingham County,Michigan,28.6,0.5521
+27157,Urban,Wabasha County,Minnesota,28.6,0.0226
+38063,Rural,Nelson County,North Dakota,28.6,0.0096
+39131,Rural,Pike County,Ohio,28.6,0.8211
+39133,Urban,Portage County,Ohio,28.6,0.2592
+39151,Urban,Stark County,Ohio,28.6,0.375
+39165,Urban,Warren County,Ohio,28.6,0.0662
+40097,Rural,Mayes County,Oklahoma,28.6,0.7635
+42105,Rural,Potter County,Pennsylvania,28.6,0.2563
+05007,Urban,Benton County,Arkansas,28.7,0.2754
+05033,Urban,Crawford County,Arkansas,28.7,0.6788
+12057,Urban,Hillsborough County,Florida,28.7,0.6937
+18031,Urban,Decatur County,Indiana,28.7,0.3009
+18041,Urban,Fayette County,Indiana,28.7,0.7227
+18169,Urban,Wabash County,Indiana,28.7,0.4288
+19153,Urban,Polk County,Iowa,28.7,0.3445
+20079,Urban,Harvey County,Kansas,28.7,0.313
+21003,Urban,Allen County,Kentucky,28.7,0.6823
+21233,Rural,Webster County,Kentucky,28.7,0.4839
+24003,Urban,Anne Arundel County,Maryland,28.7,0.1379
+26081,Urban,Kent County,Michigan,28.7,0.5123
+31179,Rural,Wayne County,Nebraska,28.7,0.1694
+45043,Urban,Georgetown County,South Carolina,28.7,0.7262
+45083,Urban,Spartanburg County,South Carolina,28.7,0.8465
+51169,Urban,Scott County,Virginia,28.7,0.5419
+54027,Urban,Hampshire County,West Virginia,28.7,0.6469
+12059,Rural,Holmes County,Florida,28.8,0.8243
+13051,Urban,Chatham County,Georgia,28.8,0.6466
+18145,Urban,Shelby County,Indiana,28.8,0.4362
+19047,Rural,Crawford County,Iowa,28.8,0.6667
+20067,Rural,Grant County,Kansas,28.8,0.5552
+20077,Rural,Harper County,Kansas,28.8,0.2496
+23019,Urban,Penobscot County,Maine,28.8,0.4011
+26073,Urban,Isabella County,Michigan,28.8,0.602
+27007,Urban,Beltrami County,Minnesota,28.8,0.7491
+27033,Rural,Cottonwood County,Minnesota,28.8,0.476
+28057,Urban,Itawamba County,Mississippi,28.8,0.5963
+28111,Urban,Perry County,Mississippi,28.8,0.7733
+29165,Urban,Platte County,Missouri,28.8,0.1041
+31177,Urban,Washington County,Nebraska,28.8,0.0255
+34029,Urban,Ocean County,New Jersey,28.8,0.3512
+36011,Urban,Cayuga County,New York,28.8,0.4489
+39037,Urban,Darke County,Ohio,28.8,0.233
+39119,Urban,Muskingum County,Ohio,28.8,0.6444
+41035,Urban,Klamath County,Oregon,28.8,0.8236
+42085,Urban,Mercer County,Pennsylvania,28.8,0.4967
+48439,Urban,Tarrant County,Texas,28.8,0.5549
+51031,Urban,Campbell County,Virginia,28.8,0.2881
+51069,Urban,Frederick County,Virginia,28.8,0.1821
+51195,Urban,Wise County,Virginia,28.8,0.7552
+51197,Rural,Wythe County,Virginia,28.8,0.4559
+54061,Urban,Monongalia County,West Virginia,28.8,0.263
+55015,Urban,Calumet County,Wisconsin,28.8,0.0306
+01031,Urban,Coffee County,Alabama,28.9,0.5221
+05143,Urban,Washington County,Arkansas,28.9,0.7361
+17007,Urban,Boone County,Illinois,28.9,0.3852
+18099,Urban,Marshall County,Indiana,28.9,0.574
+20007,Rural,Barber County,Kansas,28.9,0.1105
+20143,Urban,Ottawa County,Kansas,28.9,0.0624
+28045,Urban,Hancock County,Mississippi,28.9,0.616
+28097,Rural,Montgomery County,Mississippi,28.9,0.8488
+29147,Urban,Nodaway County,Missouri,28.9,0.3209
+31015,Rural,Boyd County,Nebraska,28.9,0.1035
+34013,Urban,Essex County,New Jersey,28.9,0.8456
+37141,Urban,Pender County,North Carolina,28.9,0.751
+38089,Urban,Stark County,North Dakota,28.9,0.1547
+39023,Urban,Clark County,Ohio,28.9,0.7348
+40121,Urban,Pittsburg County,Oklahoma,28.9,0.7338
+40139,Urban,Texas County,Oklahoma,28.9,0.731
+42025,Urban,Carbon County,Pennsylvania,28.9,0.2655
+46019,Rural,Butte County,South Dakota,28.9,0.2181
+46083,Urban,Lincoln County,South Dakota,28.9,0.0118
+47093,Urban,Knox County,Tennessee,28.9,0.2919
+47107,Urban,Mcminn County,Tennessee,28.9,0.5912
+48113,Urban,Dallas County,Texas,28.9,0.7641
+48423,Urban,Smith County,Texas,28.9,0.7558
+55081,Rural,Monroe County,Wisconsin,28.9,0.5291
+55111,Urban,Sauk County,Wisconsin,28.9,0.2671
+05057,Rural,Hempstead County,Arkansas,29,0.964
+06025,Urban,Imperial County,California,29,0.9968
+06077,Urban,San Joaquin County,California,29,0.9115
+12101,Urban,Pasco County,Florida,29,0.6387
+18137,Rural,Ripley County,Indiana,29,0.256
+18173,Urban,Warrick County,Indiana,29,0.0277
+19055,Rural,Delaware County,Iowa,29,0.0401
+21023,Urban,Bracken County,Kentucky,29,0.4333
+22007,Rural,Assumption Parish,Louisiana,29,0.772
+37057,Urban,Davidson County,North Carolina,29,0.6756
+39035,Urban,Cuyahoga County,Ohio,29,0.6476
+39155,Urban,Trumbull County,Ohio,29,0.4479
+40143,Urban,Tulsa County,Oklahoma,29,0.5578
+47075,Rural,Haywood County,Tennessee,29,0.8733
+47119,Urban,Maury County,Tennessee,29,0.5708
+48041,Urban,Brazos County,Texas,29,0.7402
+55141,Urban,Wood County,Wisconsin,29,0.1621
+01095,Urban,Marshall County,Alabama,29.1,0.8208
+13113,Urban,Fayette County,Georgia,29.1,0.1
+18071,Urban,Jackson County,Indiana,29.1,0.4884
+18123,Rural,Perry County,Indiana,29.1,0.305
+22001,Urban,Acadia Parish,Louisiana,29.1,0.8991
+22035,Rural,East Carroll Parish,Louisiana,29.1,0.9793
+24021,Urban,Frederick County,Maryland,29.1,0.1369
+27049,Urban,Goodhue County,Minnesota,29.1,0.1827
+29189,Urban,St. Louis County,Missouri,29.1,0.2792
+36071,Urban,Orange County,New York,29.1,0.5766
+37181,Urban,Vance County,North Carolina,29.1,0.9898
+39007,Urban,Ashtabula County,Ohio,29.1,0.667
+39063,Urban,Hancock County,Ohio,29.1,0.2935
+39065,Rural,Hardin County,Ohio,29.1,0.6113
+40027,Urban,Cleveland County,Oklahoma,29.1,0.3168
+42093,Urban,Montour County,Pennsylvania,29.1,0.2015
+51590,Urban,Danville City,Virginia,29.1,0.9628
+53043,Rural,Lincoln County,Washington,29.1,0.1576
+53049,Rural,Pacific County,Washington,29.1,0.6396
+53061,Urban,Snohomish County,Washington,29.1,0.3139
+54021,Rural,Gilmer County,West Virginia,29.1,0.8077
+56025,Urban,Natrona County,Wyoming,29.1,0.2308
+01021,Urban,Chilton County,Alabama,29.2,0.7536
+05029,Rural,Conway County,Arkansas,29.2,0.7542
+08011,Rural,Bent County,Colorado,29.2,0.7908
+17183,Urban,Vermilion County,Illinois,29.2,0.7609
+20041,Rural,Dickinson County,Kansas,29.2,0.2725
+22005,Urban,Ascension Parish,Louisiana,29.2,0.3604
+22029,Urban,Concordia Parish,Louisiana,29.2,0.9885
+22123,Rural,West Carroll Parish,Louisiana,29.2,0.843
+24047,Urban,Worcester County,Maryland,29.2,0.3279
+26027,Urban,Cass County,Michigan,29.2,0.3005
+26069,Rural,Iosco County,Michigan,29.2,0.3967
+27003,Urban,Anoka County,Minnesota,29.2,0.1598
+28075,Urban,Lauderdale County,Mississippi,29.2,0.9204
+28081,Urban,Lee County,Mississippi,29.2,0.6902
+28095,Rural,Monroe County,Mississippi,29.2,0.8195
+28153,Rural,Wayne County,Mississippi,29.2,0.8459
+29081,Rural,Harrison County,Missouri,29.2,0.4295
+29181,Rural,Ripley County,Missouri,29.2,0.7154
+31121,Urban,Merrick County,Nebraska,29.2,0.1331
+36063,Urban,Niagara County,New York,29.2,0.327
+40001,Rural,Adair County,Oklahoma,29.2,0.8784
+40009,Urban,Beckham County,Oklahoma,29.2,0.5231
+42031,Rural,Clarion County,Pennsylvania,29.2,0.4444
+44003,Urban,Kent County,Rhode Island,29.2,0.1503
+47131,Urban,Obion County,Tennessee,29.2,0.7469
+48039,Urban,Brazoria County,Texas,29.2,0.5288
+53021,Urban,Franklin County,Washington,29.2,0.9051
+53063,Urban,Spokane County,Washington,29.2,0.4686
+55085,Rural,Oneida County,Wisconsin,29.2,0.0697
+55115,Urban,Shawano County,Wisconsin,29.2,0.2098
+01099,Rural,Monroe County,Alabama,29.3,0.8239
+13009,Urban,Baldwin County,Georgia,29.3,0.8535
+17197,Urban,Will County,Illinois,29.3,0.2375
+21167,Rural,Mercer County,Kentucky,29.3,0.5524
+22083,Rural,Richland Parish,Louisiana,29.3,0.8262
+26129,Rural,Ogemaw County,Michigan,29.3,0.5358
+26155,Urban,Shiawassee County,Michigan,29.3,0.2783
+37117,Rural,Martin County,North Carolina,29.3,0.8679
+37127,Urban,Nash County,North Carolina,29.3,0.8478
+38017,Urban,Cass County,North Dakota,29.3,0.1127
+39099,Urban,Mahoning County,Ohio,29.3,0.6183
+39115,Rural,Morgan County,Ohio,29.3,0.5403
+40069,Rural,Johnston County,Oklahoma,29.3,0.8348
+41011,Urban,Coos County,Oregon,29.3,0.6122
+42059,Rural,Greene County,Pennsylvania,29.3,0.4136
+42069,Urban,Lackawanna County,Pennsylvania,29.3,0.4008
+47099,Urban,Lawrence County,Tennessee,29.3,0.7351
+47109,Rural,Mcnairy County,Tennessee,29.3,0.7628
+49041,Rural,Sevier County,Utah,29.3,0.4225
+55101,Urban,Racine County,Wisconsin,29.3,0.5008
+02130,Urban,Ketchikan Gateway Borough,Alaska,29.4,0.3948
+05113,Rural,Polk County,Arkansas,29.4,0.7784
+12055,Urban,Highlands County,Florida,29.4,0.8711
+13071,Urban,Colquitt County,Georgia,29.4,0.992
+18055,Rural,Greene County,Indiana,29.4,0.4241
+18167,Urban,Vigo County,Indiana,29.4,0.6297
+19109,Rural,Kossuth County,Iowa,29.4,0.0102
+19111,Urban,Lee County,Iowa,29.4,0.369
+20003,Rural,Anderson County,Kansas,29.4,0.5065
+20133,Rural,Neosho County,Kansas,29.4,0.5505
+21045,Rural,Casey County,Kentucky,29.4,0.7249
+21059,Urban,Daviess County,Kentucky,29.4,0.5167
+28003,Urban,Alcorn County,Mississippi,29.4,0.8188
+28039,Rural,George County,Mississippi,29.4,0.7287
+29201,Urban,Scott County,Missouri,29.4,0.7386
+31057,Rural,Dundy County,Nebraska,29.4,0.0185
+33001,Urban,Belknap County,New Hampshire,29.4,0.0971
+34007,Urban,Camden County,New Jersey,29.4,0.617
+36065,Urban,Oneida County,New York,29.4,0.6431
+51027,Rural,Buchanan County,Virginia,29.4,0.7574
+51149,Urban,Prince George County,Virginia,29.4,0.3578
+54057,Urban,Mineral County,West Virginia,29.4,0.6361
+55099,Rural,Price County,Wisconsin,29.4,0.1121
+01089,Urban,Madison County,Alabama,29.5,0.3333
+01115,Urban,St. Clair County,Alabama,29.5,0.49
+18003,Urban,Allen County,Indiana,29.5,0.5212
+18029,Urban,Dearborn County,Indiana,29.5,0.0646
+19013,Urban,Black Hawk County,Iowa,29.5,0.4082
+20051,Urban,Ellis County,Kansas,29.5,0.1509
+21183,Rural,Ohio County,Kentucky,29.5,0.794
+22031,Urban,De Soto Parish,Louisiana,29.5,0.9061
+27079,Urban,Le Sueur County,Minnesota,29.5,0.1098
+27149,Rural,Stevens County,Minnesota,29.5,0.2069
+28031,Rural,Covington County,Mississippi,29.5,0.8612
+31035,Rural,Clay County,Nebraska,29.5,0.1885
+35006,Urban,Cibola County,New Mexico,29.5,0.9978
+37061,Rural,Duplin County,North Carolina,29.5,0.9831
+39049,Urban,Franklin County,Ohio,29.5,0.5218
+39089,Urban,Licking County,Ohio,29.5,0.2018
+42067,Rural,Juniata County,Pennsylvania,29.5,0.4142
+42077,Urban,Lehigh County,Pennsylvania,29.5,0.6215
+42099,Urban,Perry County,Pennsylvania,29.5,0.1073
+47065,Urban,Hamilton County,Tennessee,29.5,0.5183
+48375,Urban,Potter County,Texas,29.5,0.9207
+50009,Urban,Essex County,Vermont,29.5,0.3801
+53005,Urban,Benton County,Washington,29.5,0.4591
+53053,Urban,Pierce County,Washington,29.5,0.5365
+53077,Urban,Yakima County,Washington,29.5,0.9255
+05071,Rural,Johnson County,Arkansas,29.6,0.7991
+06095,Urban,Solano County,California,29.6,0.6546
+09015,Urban,Windham County,Connecticut,29.6,0.4381
+12031,Urban,Duval County,Florida,29.6,0.6644
+12075,Rural,Levy County,Florida,29.6,0.8727
+18141,Urban,St. Joseph County,Indiana,29.6,0.6342
+19087,Rural,Henry County,Iowa,29.6,0.3276
+28087,Urban,Lowndes County,Mississippi,29.6,0.88
+29023,Urban,Butler County,Missouri,29.6,0.6909
+31019,Urban,Buffalo County,Nebraska,29.6,0.1687
+31063,Rural,Frontier County,Nebraska,29.6,0.043
+31175,Rural,Valley County,Nebraska,29.6,0.0847
+37077,Urban,Granville County,North Carolina,29.6,0.8284
+37139,Urban,Pasquotank County,North Carolina,29.6,0.901
+39105,Rural,Meigs County,Ohio,29.6,0.5762
+39147,Urban,Seneca County,Ohio,29.6,0.4499
+47037,Urban,Davidson County,Tennessee,29.6,0.596
+51047,Urban,Culpeper County,Virginia,29.6,0.4358
+54083,Urban,Randolph County,West Virginia,29.6,0.5033
+56021,Urban,Laramie County,Wyoming,29.6,0.1592
+05005,Urban,Baxter County,Arkansas,29.7,0.3636
+05119,Urban,Pulaski County,Arkansas,29.7,0.5209
+12121,Rural,Suwannee County,Florida,29.7,0.957
+13045,Urban,Carroll County,Georgia,29.7,0.8443
+19011,Urban,Benton County,Iowa,29.7,0.0267
+19129,Urban,Mills County,Iowa,29.7,0.077
+21081,Urban,Grant County,Kentucky,29.7,0.5992
+22119,Urban,Webster Parish,Louisiana,29.7,0.873
+26149,Urban,St. Joseph County,Michigan,29.7,0.6743
+29045,Urban,Clark County,Missouri,29.7,0.2006
+31033,Rural,Cheyenne County,Nebraska,29.7,0.0742
+38101,Urban,Ward County,North Dakota,29.7,0.1181
+40049,Rural,Garvin County,Oklahoma,29.7,0.5301
+40053,Rural,Grant County,Oklahoma,29.7,0.0815
+42013,Urban,Blair County,Pennsylvania,29.7,0.3365
+46005,Urban,Beadle County,South Dakota,29.7,0.738
+48139,Urban,Ellis County,Texas,29.7,0.5072
+55061,Urban,Kewaunee County,Wisconsin,29.7,0.0729
+01093,Rural,Marion County,Alabama,29.8,0.7214
+05139,Urban,Union County,Arkansas,29.8,0.8593
+18077,Urban,Jefferson County,Indiana,29.8,0.6316
+21163,Urban,Meade County,Kentucky,29.8,0.462
+21199,Urban,Pulaski County,Kentucky,29.8,0.7332
+28093,Urban,Marshall County,Mississippi,29.8,0.8268
+29021,Urban,Buchanan County,Missouri,29.8,0.6912
+31011,Rural,Boone County,Nebraska,29.8,0.0665
+31065,Rural,Furnas County,Nebraska,29.8,0.2477
+38037,Rural,Grant County,North Dakota,29.8,0.0411
+40041,Rural,Delaware County,Oklahoma,29.8,0.7393
+41031,Rural,Jefferson County,Oregon,29.8,0.9328
+42101,Urban,Philadelphia County,Pennsylvania,29.8,0.914
+42123,Urban,Warren County,Pennsylvania,29.8,0.2292
+51143,Urban,Pittsylvania County,Virginia,29.8,0.5794
+54089,Rural,Summers County,West Virginia,29.8,0.5909
+02170,Urban,Matanuska-Susitna Borough,Alaska,29.9,0.2251
+12063,Rural,Jackson County,Florida,29.9,0.9392
+16053,Urban,Jerome County,Idaho,29.9,0.717
+19033,Urban,Cerro Gordo County,Iowa,29.9,0.185
+21151,Urban,Madison County,Kentucky,29.9,0.5466
+22087,Urban,St. Bernard Parish,Louisiana,29.9,0.5982
+23007,Rural,Franklin County,Maine,29.9,0.3407
+26035,Rural,Clare County,Michigan,29.9,0.83
+26123,Rural,Newaygo County,Michigan,29.9,0.6991
+28079,Rural,Leake County,Mississippi,29.9,0.994
+38001,Rural,Adams County,North Dakota,29.9,0.0169
+39139,Urban,Richland County,Ohio,29.9,0.5158
+42129,Urban,Westmoreland County,Pennsylvania,29.9,0.1382
+45021,Urban,Cherokee County,South Carolina,29.9,0.907
+48187,Urban,Guadalupe County,Texas,29.9,0.4422
+51089,Urban,Henry County,Virginia,29.9,0.8427
+51800,Urban,Suffolk City,Virginia,29.9,0.3311
+53023,Rural,Garfield County,Washington,29.9,0.2267
+54029,Urban,Hancock County,West Virginia,29.9,0.2849
+54091,Urban,Taylor County,West Virginia,29.9,0.4193
+01065,Urban,Hale County,Alabama,30,0.9736
+02016,Rural,Aleutians West Census Area,Alaska,30,0.4817
+05083,Rural,Logan County,Arkansas,30,0.7415
+13013,Urban,Barrow County,Georgia,30,0.4667
+13297,Urban,Walton County,Georgia,30,0.3496
+19115,Rural,Louisa County,Iowa,30,0.3996
+22021,Rural,Caldwell Parish,Louisiana,30,0.8131
+23011,Urban,Kennebec County,Maine,30,0.3298
+29027,Urban,Callaway County,Missouri,30,0.3206
+32007,Urban,Elko County,Nevada,30,0.3789
+37147,Urban,Pitt County,North Carolina,30,0.7956
+40113,Urban,Osage County,Oklahoma,30,0.6081
+48493,Urban,Wilson County,Texas,30,0.4031
+49027,Rural,Millard County,Utah,30,0.5005
+50021,Urban,Rutland County,Vermont,30,0.2961
+51005,Rural,Alleghany County,Virginia,30,0.4085
+51155,Urban,Pulaski County,Virginia,30,0.4053
+01009,Urban,Blount County,Alabama,30.1,0.5581
+04015,Urban,Mohave County,Arizona,30.1,0.8771
+05041,Rural,Desha County,Arkansas,30.1,0.9195
+13095,Urban,Dougherty County,Georgia,30.1,0.9497
+18109,Urban,Morgan County,Indiana,30.1,0.1184
+19015,Urban,Boone County,Iowa,30.1,0.1449
+19065,Rural,Fayette County,Iowa,30.1,0.1264
+19113,Urban,Linn County,Iowa,30.1,0.155
+19163,Urban,Scott County,Iowa,30.1,0.2085
+20069,Rural,Gray County,Kansas,30.1,0.3069
+21227,Urban,Warren County,Kentucky,30.1,0.6304
+22089,Urban,St. Charles Parish,Louisiana,30.1,0.3572
+27061,Rural,Itasca County,Minnesota,30.1,0.3165
+27093,Rural,Meeker County,Minnesota,30.1,0.1713
+28047,Urban,Harrison County,Mississippi,30.1,0.7985
+29033,Rural,Carroll County,Missouri,30.1,0.348
+31041,Rural,Custer County,Nebraska,30.1,0.0745
+31051,Urban,Dixon County,Nebraska,30.1,0.319
+31081,Urban,Hamilton County,Nebraska,30.1,0.0089
+39021,Urban,Champaign County,Ohio,30.1,0.2945
+42073,Urban,Lawrence County,Pennsylvania,30.1,0.3992
+42121,Urban,Venango County,Pennsylvania,30.1,0.3629
+45051,Urban,Horry County,South Carolina,30.1,0.6746
+47123,Rural,Monroe County,Tennessee,30.1,0.7055
+51700,Urban,Newport News City,Virginia,30.1,0.7195
+01017,Urban,Chambers County,Alabama,30.2,0.9131
+02185,Rural,North Slope Borough,Alaska,30.2,0.7084
+05031,Urban,Craighead County,Arkansas,30.2,0.7405
+16069,Urban,Nez Perce County,Idaho,30.2,0.3254
+18111,Urban,Newton County,Indiana,30.2,0.213
+18119,Urban,Owen County,Indiana,30.2,0.3922
+20085,Urban,Jackson County,Kansas,30.2,0.1796
+20099,Urban,Labette County,Kansas,30.2,0.6129
+20121,Urban,Miami County,Kansas,30.2,0.078
+21069,Rural,Fleming County,Kentucky,30.2,0.645
+22047,Urban,Iberville Parish,Louisiana,30.2,0.8615
+22055,Urban,Lafayette Parish,Louisiana,30.2,0.5702
+22063,Urban,Livingston Parish,Louisiana,30.2,0.418
+26157,Rural,Tuscola County,Michigan,30.2,0.3715
+29195,Urban,Saline County,Missouri,30.2,0.7864
+31107,Rural,Knox County,Nebraska,30.2,0.2636
+31145,Rural,Red Willow County,Nebraska,30.2,0.2009
+31163,Rural,Sherman County,Nebraska,30.2,0.0863
+34015,Urban,Gloucester County,New Jersey,30.2,0.2082
+37081,Urban,Guilford County,North Carolina,30.2,0.6737
+38035,Urban,Grand Forks County,North Dakota,30.2,0.198
+39057,Urban,Greene County,Ohio,30.2,0.1917
+39159,Urban,Union County,Ohio,30.2,0.1146
+39173,Urban,Wood County,Ohio,30.2,0.1732
+41009,Urban,Columbia County,Oregon,30.2,0.3454
+41059,Urban,Umatilla County,Oregon,30.2,0.9153
+46029,Urban,Codington County,South Dakota,30.2,0.2916
+47157,Urban,Shelby County,Tennessee,30.2,0.781
+51177,Urban,Spotsylvania County,Virginia,30.2,0.1423
+51770,Urban,Roanoke City,Virginia,30.2,0.7848
+54087,Rural,Roane County,West Virginia,30.2,0.5677
+55021,Urban,Columbia County,Wisconsin,30.2,0.1063
+55023,Rural,Crawford County,Wisconsin,30.2,0.4002
+55027,Urban,Dodge County,Wisconsin,30.2,0.2063
+55119,Rural,Taylor County,Wisconsin,30.2,0.2219
+56037,Urban,Sweetwater County,Wyoming,30.2,0.3862
+12067,Rural,Lafayette County,Florida,30.3,0.8972
+17161,Urban,Rock Island County,Illinois,30.3,0.6135
+18035,Urban,Delaware County,Indiana,30.3,0.6259
+18063,Urban,Hendricks County,Indiana,30.3,0.064
+18103,Urban,Miami County,Indiana,30.3,0.5151
+21099,Rural,Hart County,Kentucky,30.3,0.8379
+21145,Urban,Mccracken County,Kentucky,30.3,0.4731
+31137,Rural,Phelps County,Nebraska,30.3,0.1003
+42009,Rural,Bedford County,Pennsylvania,30.3,0.3228
+48479,Urban,Webb County,Texas,30.3,0.9529
+48485,Urban,Wichita County,Texas,30.3,0.694
+51550,Urban,Chesapeake City,Virginia,30.3,0.2652
+01001,Urban,Autauga County,Alabama,30.4,0.4696
+01015,Urban,Calhoun County,Alabama,30.4,0.7708
+13069,Urban,Coffee County,Georgia,30.4,0.9647
+13247,Urban,Rockdale County,Georgia,30.4,0.6243
+18059,Urban,Hancock County,Indiana,30.4,0.0239
+19031,Rural,Cedar County,Iowa,30.4,0.0232
+19127,Urban,Marshall County,Iowa,30.4,0.5995
+19137,Rural,Montgomery County,Iowa,30.4,0.5638
+19175,Rural,Union County,Iowa,30.4,0.2343
+20001,Rural,Allen County,Kansas,30.4,0.5836
+26075,Urban,Jackson County,Michigan,30.4,0.6409
+28059,Urban,Jackson County,Mississippi,30.4,0.539
+28137,Urban,Tate County,Mississippi,30.4,0.8357
+31153,Urban,Sarpy County,Nebraska,30.4,0.1095
+32019,Urban,Lyon County,Nevada,30.4,0.6492
+38025,Rural,Dunn County,North Dakota,30.4,0.2442
+39143,Urban,Sandusky County,Ohio,30.4,0.384
+45071,Urban,Newberry County,South Carolina,30.4,0.8793
+54025,Rural,Greenbrier County,West Virginia,30.4,0.4585
+01007,Urban,Bibb County,Alabama,30.5,0.6278
+01069,Urban,Houston County,Alabama,30.5,0.6266
+05125,Urban,Saline County,Arkansas,30.5,0.3133
+19083,Rural,Hardin County,Iowa,30.5,0.1471
+22011,Urban,Beauregard Parish,Louisiana,30.5,0.7316
+22045,Urban,Iberia Parish,Louisiana,30.5,0.921
+26147,Urban,St. Clair County,Michigan,30.5,0.3731
+28043,Urban,Grenada County,Mississippi,30.5,0.8542
+30083,Rural,Richland County,Montana,30.5,0.0681
+31037,Rural,Colfax County,Nebraska,30.5,0.5667
+31111,Urban,Lincoln County,Nebraska,30.5,0.3263
+40145,Urban,Wagoner County,Oklahoma,30.5,0.2798
+42011,Urban,Berks County,Pennsylvania,30.5,0.6246
+42015,Urban,Bradford County,Pennsylvania,30.5,0.2996
+48203,Urban,Harrison County,Texas,30.5,0.7377
+48329,Urban,Midland County,Texas,30.5,0.4791
+16075,Urban,Payette County,Idaho,30.6,0.6345
+19041,Urban,Clay County,Iowa,30.6,0.1808
+20011,Rural,Bourbon County,Kansas,30.6,0.5715
+20037,Urban,Crawford County,Kansas,30.6,0.5791
+21093,Urban,Hardin County,Kentucky,30.6,0.5829
+26117,Urban,Montcalm County,Michigan,30.6,0.6896
+27119,Urban,Polk County,Minnesota,30.6,0.404
+28161,Rural,Yalobusha County,Mississippi,30.6,0.808
+29175,Urban,Randolph County,Missouri,30.6,0.6536
+31023,Rural,Butler County,Nebraska,30.6,0.17
+35005,Urban,Chaves County,New Mexico,30.6,0.9312
+38059,Urban,Morton County,North Dakota,30.6,0.0911
+38071,Rural,Ramsey County,North Dakota,30.6,0.4024
+40021,Urban,Cherokee County,Oklahoma,30.6,0.9105
+40131,Urban,Rogers County,Oklahoma,30.6,0.2588
+42049,Urban,Erie County,Pennsylvania,30.6,0.56
+48141,Urban,El Paso County,Texas,30.6,0.9446
+54037,Urban,Jefferson County,West Virginia,30.6,0.241
+01085,Urban,Lowndes County,Alabama,30.7,0.929
+05063,Urban,Independence County,Arkansas,30.7,0.8058
+05145,Urban,White County,Arkansas,30.7,0.6947
+12003,Urban,Baker County,Florida,30.7,0.7173
+12051,Urban,Hendry County,Florida,30.7,0.9971
+19019,Rural,Buchanan County,Iowa,30.7,0.0516
+19035,Rural,Cherokee County,Iowa,30.7,0.1067
+19045,Urban,Clinton County,Iowa,30.7,0.1983
+21015,Urban,Boone County,Kentucky,30.7,0.135
+21107,Urban,Hopkins County,Kentucky,30.7,0.531
+21159,Rural,Martin County,Kentucky,30.7,0.9293
+21231,Rural,Wayne County,Kentucky,30.7,0.8644
+21235,Urban,Whitley County,Kentucky,30.7,0.8313
+22019,Urban,Calcasieu Parish,Louisiana,30.7,0.7303
+22065,Rural,Madison Parish,Louisiana,30.7,0.9682
+23017,Rural,Oxford County,Maine,30.7,0.3664
+28035,Urban,Forrest County,Mississippi,30.7,0.9494
+28141,Rural,Tishomingo County,Mississippi,30.7,0.7014
+29101,Urban,Johnson County,Missouri,30.7,0.3282
+31059,Rural,Fillmore County,Nebraska,30.7,0.0312
+37083,Urban,Halifax County,North Carolina,30.7,0.9605
+39153,Urban,Summit County,Ohio,30.7,0.3349
+40011,Rural,Blaine County,Oklahoma,30.7,0.6033
+40109,Urban,Oklahoma County,Oklahoma,30.7,0.6753
+45081,Urban,Saluda County,South Carolina,30.7,0.8723
+47147,Urban,Robertson County,Tennessee,30.7,0.326
+53041,Urban,Lewis County,Washington,30.7,0.8134
+55001,Rural,Adams County,Wisconsin,30.7,0.4572
+02240,Rural,Southeast Fairbanks Census Area,Alaska,30.8,0.4438
+05045,Urban,Faulkner County,Arkansas,30.8,0.4352
+10005,Urban,Sussex County,Delaware,30.8,0.517
+13151,Urban,Henry County,Georgia,30.8,0.347
+16041,Urban,Franklin County,Idaho,30.8,0.1929
+17119,Urban,Madison County,Illinois,30.8,0.1866
+19139,Urban,Muscatine County,Iowa,30.8,0.4327
+20059,Urban,Franklin County,Kansas,30.8,0.2805
+21177,Rural,Muhlenberg County,Kentucky,30.8,0.7969
+22101,Urban,St. Mary Parish,Louisiana,30.8,0.9577
+26115,Urban,Monroe County,Michigan,30.8,0.2095
+31151,Rural,Saline County,Nebraska,30.8,0.5571
+37151,Urban,Randolph County,North Carolina,30.8,0.7144
+39109,Urban,Miami County,Ohio,30.8,0.1706
+40149,Rural,Washita County,Oklahoma,30.8,0.3031
+41019,Urban,Douglas County,Oregon,30.8,0.7103
+42109,Urban,Snyder County,Pennsylvania,30.8,0.2846
+45037,Urban,Edgefield County,South Carolina,30.8,0.8128
+48135,Urban,Ector County,Texas,30.8,0.7749
+05009,Urban,Boone County,Arkansas,30.9,0.5606
+13179,Urban,Liberty County,Georgia,30.9,0.7443
+16051,Urban,Jefferson County,Idaho,30.9,0.2633
+17093,Urban,Kendall County,Illinois,30.9,0.0904
+18027,Urban,Daviess County,Indiana,30.9,0.4788
+19021,Urban,Buena Vista County,Iowa,30.9,0.6504
+21205,Rural,Rowan County,Kentucky,30.9,0.5183
+24037,Urban,St. Mary&#39;s County,Maryland,30.9,0.1649
+26049,Urban,Genesee County,Michigan,30.9,0.695
+29077,Urban,Greene County,Missouri,30.9,0.3846
+35037,Rural,Quay County,New Mexico,30.9,0.7902
+38053,Rural,Mckenzie County,North Dakota,30.9,0.2579
+42055,Urban,Franklin County,Pennsylvania,30.9,0.3015
+42081,Urban,Lycoming County,Pennsylvania,30.9,0.461
+47031,Urban,Coffee County,Tennessee,30.9,0.7714
+54049,Urban,Marion County,West Virginia,30.9,0.2601
+55091,Rural,Pepin County,Wisconsin,30.9,0.1656
+18127,Urban,Porter County,Indiana,31,0.1843
+37071,Urban,Gaston County,North Carolina,31,0.7937
+37153,Urban,Richmond County,North Carolina,31,0.958
+37159,Urban,Rowan County,North Carolina,31,0.8609
+37195,Urban,Wilson County,North Carolina,31,0.951
+38077,Urban,Richland County,North Dakota,31,0.0872
+39011,Urban,Auglaize County,Ohio,31,0.0458
+40061,Rural,Haskell County,Oklahoma,31,0.7876
+47167,Urban,Tipton County,Tennessee,31,0.433
+51019,Urban,Bedford County,Virginia,31,0.1086
+55059,Urban,Kenosha County,Wisconsin,31,0.5476
+55139,Urban,Winnebago County,Wisconsin,31,0.1541
+01119,Rural,Sumter County,Alabama,31.1,0.9936
+01123,Rural,Tallapoosa County,Alabama,31.1,0.8666
+05085,Urban,Lonoke County,Arkansas,31.1,0.3897
+21013,Urban,Bell County,Kentucky,31.1,0.9411
+29063,Urban,Dekalb County,Missouri,31.1,0.383
+29095,Urban,Jackson County,Missouri,31.1,0.5743
+29097,Urban,Jasper County,Missouri,31.1,0.6437
+31047,Urban,Dawson County,Nebraska,31.1,0.7026
+31129,Rural,Nuckolls County,Nebraska,31.1,0.0525
+38081,Rural,Sargent County,North Dakota,31.1,0.0041
+39117,Urban,Morrow County,Ohio,31.1,0.2913
+45003,Urban,Aiken County,South Carolina,31.1,0.6855
+47045,Urban,Dyer County,Tennessee,31.1,0.6043
+47113,Urban,Madison County,Tennessee,31.1,0.7131
+47149,Urban,Rutherford County,Tennessee,31.1,0.3754
+48491,Urban,Williamson County,Texas,31.1,0.2225
+49017,Rural,Garfield County,Utah,31.1,0.4963
+49045,Urban,Tooele County,Utah,31.1,0.2716
+54001,Rural,Barbour County,West Virginia,31.1,0.6065
+55097,Urban,Portage County,Wisconsin,31.1,0.1745
+01127,Urban,Walker County,Alabama,31.2,0.7622
+13245,Urban,Richmond County,Georgia,31.2,0.9306
+18061,Urban,Harrison County,Indiana,31.2,0.212
+20027,Rural,Clay County,Kansas,31.2,0.0408
+22037,Urban,East Feliciana Parish,Louisiana,31.2,0.6695
+26107,Urban,Mecosta County,Michigan,31.2,0.7163
+28011,Urban,Bolivar County,Mississippi,31.2,0.971
+31167,Urban,Stanton County,Nebraska,31.2,0.0299
+35045,Urban,San Juan County,New Mexico,31.2,0.8434
+39031,Urban,Coshocton County,Ohio,31.2,0.4642
+46017,Rural,Buffalo County,South Dakota,31.2,0.9612
+53003,Urban,Asotin County,Washington,31.2,0.4807
+55077,Rural,Marquette County,Wisconsin,31.2,0.2146
+01077,Urban,Lauderdale County,Alabama,31.3,0.4957
+16067,Urban,Minidoka County,Idaho,31.3,0.6313
+18019,Urban,Clark County,Indiana,31.3,0.3346
+18039,Urban,Elkhart County,Indiana,31.3,0.802
+19179,Urban,Wapello County,Iowa,31.3,0.7631
+31119,Urban,Madison County,Nebraska,31.3,0.4343
+36005,Urban,Bronx County,New York,31.3,0.9917
+39111,Rural,Monroe County,Ohio,31.3,0.3766
+40089,Rural,Mccurtain County,Oklahoma,31.3,0.8898
+45025,Rural,Chesterfield County,South Carolina,31.3,0.9074
+45079,Urban,Richland County,South Carolina,31.3,0.6027
+48021,Urban,Bastrop County,Texas,31.3,0.7125
+54003,Urban,Berkeley County,West Virginia,31.3,0.5247
+05053,Urban,Grant County,Arkansas,31.4,0.2709
+05133,Rural,Sevier County,Arkansas,31.4,0.8911
+13185,Urban,Lowndes County,Georgia,31.4,0.8984
+16011,Urban,Bingham County,Idaho,31.4,0.5848
+20015,Urban,Butler County,Kansas,31.4,0.1904
+20205,Rural,Wilson County,Kansas,31.4,0.6988
+22041,Rural,Franklin Parish,Louisiana,31.4,0.9475
+22115,Urban,Vernon Parish,Louisiana,31.4,0.5969
+22117,Urban,Washington Parish,Louisiana,31.4,0.9838
+23021,Rural,Piscataquis County,Maine,31.4,0.4502
+31061,Rural,Franklin County,Nebraska,31.4,0.0659
+38093,Urban,Stutsman County,North Dakota,31.4,0.2875
+39045,Urban,Fairfield County,Ohio,31.4,0.2139
+40133,Rural,Seminole County,Oklahoma,31.4,0.8749
+42043,Urban,Dauphin County,Pennsylvania,31.4,0.4772
+46007,Rural,Bennett County,South Dakota,31.4,0.93
+48347,Urban,Nacogdoches County,Texas,31.4,0.9398
+48469,Urban,Victoria County,Texas,31.4,0.7781
+54033,Urban,Harrison County,West Virginia,31.4,0.3795
+54077,Urban,Preston County,West Virginia,31.4,0.3684
+01113,Urban,Russell County,Alabama,31.5,0.894
+02070,Rural,Dillingham Census Area,Alaska,31.5,0.8574
+12105,Urban,Polk County,Florida,31.5,0.9322
+19029,Rural,Cass County,Iowa,31.5,0.2461
+20061,Urban,Geary County,Kansas,31.5,0.6441
+22071,Urban,Orleans Parish,Louisiana,31.5,0.7813
+29159,Urban,Pettis County,Missouri,31.5,0.7504
+30035,Rural,Glacier County,Montana,31.5,0.9548
+39137,Rural,Putnam County,Ohio,31.5,0.0153
+40115,Urban,Ottawa County,Oklahoma,31.5,0.944
+40137,Urban,Stephens County,Oklahoma,31.5,0.5333
+47011,Urban,Bradley County,Tennessee,31.5,0.7278
+51073,Urban,Gloucester County,Virginia,31.5,0.0134
+53015,Urban,Cowlitz County,Washington,31.5,0.7921
+01073,Urban,Jefferson County,Alabama,31.6,0.6533
+18181,Rural,White County,Indiana,31.6,0.2617
+20021,Rural,Cherokee County,Kansas,31.6,0.4368
+20173,Urban,Sedgwick County,Kansas,31.6,0.5078
+22033,Urban,East Baton Rouge Parish,Louisiana,31.6,0.5903
+22091,Urban,St. Helena Parish,Louisiana,31.6,0.9191
+26033,Urban,Chippewa County,Michigan,31.6,0.7326
+26143,Rural,Roscommon County,Michigan,31.6,0.4148
+28033,Urban,Desoto County,Mississippi,31.6,0.2665
+28107,Rural,Panola County,Mississippi,31.6,0.8978
+31185,Rural,York County,Nebraska,31.6,0.1089
+38055,Rural,Mclean County,North Dakota,31.6,0.07
+40015,Rural,Caddo County,Oklahoma,31.6,0.8278
+48473,Urban,Waller County,Texas,31.6,0.8424
+53025,Urban,Grant County,Washington,31.6,0.9201
+54023,Rural,Grant County,West Virginia,31.6,0.3623
+12129,Urban,Wakulla County,Florida,31.7,0.5202
+13015,Urban,Bartow County,Georgia,31.7,0.6399
+20009,Urban,Barton County,Kansas,31.7,0.5645
+22015,Urban,Bossier Parish,Louisiana,31.7,0.5727
+26077,Urban,Kalamazoo County,Michigan,31.7,0.4693
+40125,Urban,Pottawatomie County,Oklahoma,31.7,0.7466
+45047,Urban,Greenwood County,South Carolina,31.7,0.9351
+54005,Urban,Boone County,West Virginia,31.7,0.5788
+54051,Urban,Marshall County,West Virginia,31.7,0.164
+01051,Urban,Elmore County,Alabama,31.8,0.4553
+04009,Urban,Graham County,Arizona,31.8,0.9522
+18163,Urban,Vanderburgh County,Indiana,31.8,0.5043
+19145,Rural,Page County,Iowa,31.8,0.3531
+20055,Urban,Finney County,Kansas,31.8,0.7367
+21051,Rural,Clay County,Kentucky,31.8,0.8411
+21111,Urban,Jefferson County,Kentucky,31.8,0.5756
+21221,Urban,Trigg County,Kentucky,31.8,0.5189
+27161,Rural,Waseca County,Minnesota,31.8,0.2738
+40111,Urban,Okmulgee County,Oklahoma,31.8,0.8259
+46071,Rural,Jackson County,South Dakota,31.8,0.6157
+04011,Rural,Greenlee County,Arizona,31.9,0.696
+12027,Urban,Desoto County,Florida,31.9,0.9943
+18085,Urban,Kosciusko County,Indiana,31.9,0.3687
+19007,Rural,Appanoose County,Iowa,31.9,0.312
+20035,Urban,Cowley County,Kansas,31.9,0.6457
+22053,Rural,Jefferson Davis Parish,Louisiana,31.9,0.8628
+22073,Urban,Ouachita Parish,Louisiana,31.9,0.8106
+26017,Urban,Bay County,Michigan,31.9,0.3849
+28061,Urban,Jasper County,Mississippi,31.9,0.8115
+31025,Urban,Cass County,Nebraska,31.9,0.0261
+55057,Rural,Juneau County,Wisconsin,31.9,0.5438
+21095,Rural,Harlan County,Kentucky,32,0.859
+26099,Urban,Macomb County,Michigan,32,0.3668
+31013,Rural,Box Butte County,Nebraska,32,0.3649
+37067,Urban,Forsyth County,North Carolina,32,0.7265
+39013,Urban,Belmont County,Ohio,32,0.3273
+40051,Urban,Grady County,Oklahoma,32,0.3524
+45041,Urban,Florence County,South Carolina,32,0.8787
+51001,Rural,Accomack County,Virginia,32,0.816
+01129,Rural,Washington County,Alabama,32.1,0.5021
+12039,Urban,Gadsden County,Florida,32.1,0.9882
+17177,Urban,Stephenson County,Illinois,32.1,0.4849
+18049,Rural,Fulton County,Indiana,32.1,0.4903
+20103,Urban,Leavenworth County,Kansas,32.1,0.2436
+23001,Urban,Androscoggin County,Maine,32.1,0.6329
+27131,Urban,Rice County,Minnesota,32.1,0.4234
+31053,Urban,Dodge County,Nebraska,32.1,0.4626
+32023,Urban,Nye County,Nevada,32.1,0.7396
+37085,Urban,Harnett County,North Carolina,32.1,0.7841
+38003,Rural,Barnes County,North Dakota,32.1,0.107
+39157,Urban,Tuscarawas County,Ohio,32.1,0.3464
+42107,Urban,Schuylkill County,Pennsylvania,32.1,0.4374
+54053,Urban,Mason County,West Virginia,32.1,0.6173
+06047,Urban,Merced County,California,32.2,0.9803
+13021,Urban,Bibb County,Georgia,32.2,0.8968
+22095,Urban,St. John The Baptist Parish,Louisiana,32.2,0.7822
+30041,Rural,Hill County,Montana,32.2,0.5046
+37051,Urban,Cumberland County,North Carolina,32.2,0.7927
+49003,Urban,Box Elder County,Utah,32.2,0.1802
+55047,Rural,Green Lake County,Wisconsin,32.2,0.3422
+18135,Rural,Randolph County,Indiana,32.3,0.4753
+21175,Rural,Morgan County,Kentucky,32.3,0.8192
+39017,Urban,Butler County,Ohio,32.3,0.3658
+45005,Rural,Allendale County,South Carolina,32.3,0.9981
+51131,Rural,Northampton County,Virginia,32.3,0.7447
+01033,Urban,Colbert County,Alabama,32.4,0.54
+05035,Urban,Crittenden County,Arkansas,32.4,0.9004
+06099,Urban,Stanislaus County,California,32.4,0.8908
+12049,Urban,Hardee County,Florida,32.4,0.9975
+18095,Urban,Madison County,Indiana,32.4,0.6791
+22039,Rural,Evangeline Parish,Louisiana,32.4,0.986
+31067,Urban,Gage County,Nebraska,32.4,0.1643
+31139,Urban,Pierce County,Nebraska,32.4,0.0236
+35009,Urban,Curry County,New Mexico,32.4,0.8179
+37017,Rural,Bladen County,North Carolina,32.4,0.9745
+45007,Urban,Anderson County,South Carolina,32.4,0.6975
+45011,Rural,Barnwell County,South Carolina,32.4,0.9908
+46013,Urban,Brown County,South Dakota,32.4,0.2467
+04001,Rural,Apache County,Arizona,32.5,0.9911
+04021,Urban,Pinal County,Arizona,32.5,0.8481
+21085,Rural,Grayson County,Kentucky,32.5,0.6581
+26021,Urban,Berrien County,Michigan,32.5,0.6412
+26045,Urban,Eaton County,Michigan,32.5,0.249
+27005,Rural,Becker County,Minnesota,32.5,0.3085
+39043,Urban,Erie County,Ohio,32.5,0.3088
+54039,Urban,Kanawha County,West Virginia,32.5,0.3814
+01045,Urban,Dale County,Alabama,32.6,0.7052
+12007,Rural,Bradford County,Florida,32.6,0.9284
+18149,Rural,Starke County,Indiana,32.6,0.4706
+22009,Rural,Avoyelles Parish,Louisiana,32.6,0.9443
+22017,Urban,Caddo Parish,Louisiana,32.6,0.7654
+24043,Urban,Washington County,Maryland,32.6,0.5317
+26163,Urban,Wayne County,Michigan,32.6,0.8685
+37157,Urban,Rockingham County,North Carolina,32.6,0.8147
+39059,Urban,Guernsey County,Ohio,32.6,0.575
+39127,Urban,Perry County,Ohio,32.6,0.525
+39161,Urban,Van Wert County,Ohio,32.6,0.1407
+40091,Rural,Mcintosh County,Oklahoma,32.6,0.7291
+41047,Urban,Marion County,Oregon,32.6,0.9274
+42133,Urban,York County,Pennsylvania,32.6,0.2735
+17163,Urban,St. Clair County,Illinois,32.7,0.5164
+18097,Urban,Marion County,Indiana,32.7,0.7966
+20177,Urban,Shawnee County,Kansas,32.7,0.5635
+24015,Urban,Cecil County,Maryland,32.7,0.2432
+24510,Urban,Baltimore City,Maryland,32.7,0.8539
+42039,Urban,Crawford County,Pennsylvania,32.7,0.5269
+45049,Rural,Hampton County,South Carolina,32.7,0.9602
+55041,Rural,Forest County,Wisconsin,32.7,0.6679
+06029,Urban,Kern County,California,32.8,0.9586
+20005,Urban,Atchison County,Kansas,32.8,0.533
+21193,Rural,Perry County,Kentucky,32.8,0.8704
+23003,Rural,Aroostook County,Maine,32.8,0.5415
+26025,Urban,Calhoun County,Michigan,32.8,0.687
+28049,Urban,Hinds County,Mississippi,32.8,0.852
+28065,Rural,Jefferson Davis County,Mississippi,32.8,0.9045
+28113,Urban,Pike County,Mississippi,32.8,0.9631
+31127,Rural,Nemaha County,Nebraska,32.8,0.2321
+40123,Urban,Pontotoc County,Oklahoma,32.8,0.737
+45009,Rural,Bamberg County,South Carolina,32.8,0.9519
+51051,Urban,Dickenson County,Virginia,32.8,0.7049
+54079,Urban,Putnam County,West Virginia,32.8,0.0503
+12023,Urban,Columbia County,Florida,32.9,0.8994
+19155,Urban,Pottawattamie County,Iowa,32.9,0.4126
+19193,Urban,Woodbury County,Iowa,32.9,0.673
+21087,Rural,Green County,Kentucky,32.9,0.4842
+21133,Rural,Letcher County,Kentucky,32.9,0.6711
+35031,Urban,Mckinley County,New Mexico,32.9,0.9768
+37101,Urban,Johnston County,North Carolina,32.9,0.6593
+48245,Urban,Jefferson County,Texas,32.9,0.8927
+55079,Urban,Milwaukee County,Wisconsin,32.9,0.8255
+01025,Rural,Clarke County,Alabama,33,0.866
+01063,Rural,Greene County,Alabama,33,0.9892
+04027,Urban,Yuma County,Arizona,33,0.993
+23025,Rural,Somerset County,Maine,33,0.3836
+27095,Urban,Mille Lacs County,Minnesota,33,0.5084
+40147,Urban,Washington County,Oklahoma,33,0.3601
+45035,Urban,Dorchester County,South Carolina,33,0.4645
+45063,Urban,Lexington County,South Carolina,33,0.4088
+45085,Urban,Sumter County,South Carolina,33,0.9503
+46035,Urban,Davison County,South Dakota,33,0.2662
+01101,Urban,Montgomery County,Alabama,33.1,0.7873
+13313,Urban,Whitfield County,Georgia,33.1,0.8838
+24001,Urban,Allegany County,Maryland,33.1,0.5931
+28051,Rural,Holmes County,Mississippi,33.1,0.9618
+29127,Urban,Marion County,Missouri,33.1,0.5396
+31001,Urban,Adams County,Nebraska,33.1,0.22
+31131,Rural,Otoe County,Nebraska,33.1,0.1872
+31157,Urban,Scotts Bluff County,Nebraska,33.1,0.545
+40017,Urban,Canadian County,Oklahoma,33.1,0.1891
+42005,Urban,Armstrong County,Pennsylvania,33.1,0.255
+54031,Rural,Hardy County,West Virginia,33.1,0.39
+01055,Urban,Etowah County,Alabama,33.2,0.7689
+05093,Urban,Mississippi County,Arkansas,33.2,0.9137
+12107,Urban,Putnam County,Florida,33.2,0.9487
+17001,Urban,Adams County,Illinois,33.2,0.2894
+24033,Urban,Prince George&#39;s County,Maryland,33.2,0.6145
+29510,Urban,St. Louis City,Missouri,33.2,0.8408
+31079,Urban,Hall County,Nebraska,33.2,0.6826
+35015,Urban,Eddy County,New Mexico,33.2,0.6552
+10001,Urban,Kent County,Delaware,33.3,0.6603
+21019,Urban,Boyd County,Kentucky,33.3,0.6036
+22079,Urban,Rapides Parish,Louisiana,33.3,0.8835
+27013,Urban,Blue Earth County,Minnesota,33.3,0.1506
+27097,Rural,Morrison County,Minnesota,33.3,0.2369
+28027,Urban,Coahoma County,Mississippi,33.3,0.9688
+30005,Rural,Blaine County,Montana,33.3,0.9252
+37001,Urban,Alamance County,North Carolina,33.3,0.8281
+39079,Urban,Jackson County,Ohio,33.3,0.7695
+39167,Urban,Washington County,Ohio,33.3,0.3426
+39171,Rural,Williams County,Ohio,33.3,0.3706
+41043,Urban,Linn County,Oregon,33.3,0.6835
+41053,Urban,Polk County,Oregon,33.3,0.6511
+45053,Urban,Jasper County,South Carolina,33.3,0.9656
+54009,Urban,Brooke County,West Virginia,33.3,0.3174
+56005,Urban,Campbell County,Wyoming,33.3,0.1888
+12123,Rural,Taylor County,Florida,33.4,0.7724
+12125,Rural,Union County,Florida,33.4,0.8475
+17201,Urban,Winnebago County,Illinois,33.4,0.6931
+21115,Rural,Johnson County,Kentucky,33.4,0.7644
+30087,Rural,Rosebud County,Montana,33.4,0.5664
+40081,Urban,Lincoln County,Oklahoma,33.4,0.4769
+39003,Urban,Allen County,Ohio,33.5,0.6816
+40099,Rural,Murray County,Oklahoma,33.5,0.5925
+54019,Urban,Fayette County,West Virginia,33.5,0.7743
+01125,Urban,Tuscaloosa County,Alabama,33.6,0.6199
+18089,Urban,Lake County,Indiana,33.6,0.7342
+21025,Rural,Breathitt County,Kentucky,33.6,0.8583
+21119,Rural,Knott County,Kentucky,33.6,0.7918
+22081,Rural,Red River Parish,Louisiana,33.6,0.8746
+37065,Urban,Edgecombe County,North Carolina,33.6,0.9812
+39113,Urban,Montgomery County,Ohio,33.6,0.6549
+40079,Urban,Le Flore County,Oklahoma,33.6,0.9112
+05131,Urban,Sebastian County,Arkansas,33.7,0.7514
+18093,Urban,Lawrence County,Indiana,33.7,0.3999
+21047,Urban,Christian County,Kentucky,33.7,0.8695
+22067,Urban,Morehouse Parish,Louisiana,33.7,0.9538
+26121,Urban,Muskegon County,Michigan,33.7,0.7934
+28001,Urban,Adams County,Mississippi,33.7,0.9733
+34033,Urban,Salem County,New Jersey,33.7,0.5979
+45015,Urban,Berkeley County,South Carolina,33.7,0.603
+51015,Urban,Augusta County,Virginia,33.7,0.1302
+55105,Urban,Rock County,Wisconsin,33.7,0.51
+01053,Rural,Escambia County,Alabama,33.8,0.8873
+18091,Urban,Laporte County,Indiana,33.8,0.6654
+20125,Urban,Montgomery County,Kansas,33.8,0.8001
+31087,Rural,Hitchcock County,Nebraska,33.8,0.1175
+40031,Urban,Comanche County,Oklahoma,33.8,0.7838
+13175,Urban,Laurens County,Georgia,33.9,0.7988
+20111,Urban,Lyon County,Kansas,33.9,0.7599
+28007,Rural,Attala County,Mississippi,33.9,0.9857
+31095,Rural,Jefferson County,Nebraska,33.9,0.1659
+54081,Urban,Raleigh County,West Virginia,33.9,0.6294
+54107,Urban,Wood County,West Virginia,33.9,0.3352
+20139,Urban,Osage County,Kansas,34,0.2627
+20169,Urban,Saline County,Kansas,34,0.5177
+39095,Urban,Lucas County,Ohio,34,0.6565
+40047,Urban,Garfield County,Oklahoma,34,0.5587
+45033,Rural,Dillon County,South Carolina,34,0.9869
+54055,Urban,Mercer County,West Virginia,34,0.709
+54067,Rural,Nicholas County,West Virginia,34,0.4429
+12133,Rural,Washington County,Florida,34.1,0.7736
+16027,Urban,Canyon County,Idaho,34.1,0.7889
+21121,Urban,Knox County,Kentucky,34.1,0.8997
+24019,Urban,Dorchester County,Maryland,34.1,0.7284
+39101,Urban,Marion County,Ohio,34.1,0.6301
+12013,Rural,Calhoun County,Florida,34.2,0.9468
+20155,Urban,Reno County,Kansas,34.2,0.397
+24011,Rural,Caroline County,Maryland,34.2,0.6227
+37191,Urban,Wayne County,North Carolina,34.2,0.9481
+38105,Urban,Williams County,North Dakota,34.2,0.1226
+45067,Rural,Marion County,South Carolina,34.2,0.9118
+54099,Urban,Wayne County,West Virginia,34.2,0.5479
+34011,Urban,Cumberland County,New Jersey,34.3,0.9567
+40037,Urban,Creek County,Oklahoma,34.3,0.5689
+45001,Urban,Abbeville County,South Carolina,34.3,0.8765
+54097,Rural,Upshur County,West Virginia,34.3,0.4804
+18065,Urban,Henry County,Indiana,34.4,0.5132
+24045,Urban,Wicomico County,Maryland,34.4,0.7001
+45069,Urban,Marlboro County,South Carolina,34.4,0.9819
+53001,Urban,Adams County,Washington,34.4,0.9366
+01091,Rural,Marengo County,Alabama,34.5,0.8437
+13063,Urban,Clayton County,Georgia,34.5,0.9175
+28005,Urban,Amite County,Mississippi,34.5,0.7093
+31043,Urban,Dakota County,Nebraska,34.5,0.845
+37107,Urban,Lenoir County,North Carolina,34.5,0.979
+38061,Rural,Mountrail County,North Dakota,34.5,0.311
+21071,Rural,Floyd County,Kentucky,34.6,0.7762
+28133,Urban,Sunflower County,Mississippi,34.6,0.9452
+05017,Rural,Chicot County,Arkansas,34.7,0.999
+22105,Urban,Tangipahoa Parish,Louisiana,34.7,0.9007
+26067,Urban,Ionia County,Michigan,34.7,0.5737
+28085,Urban,Lincoln County,Mississippi,34.7,0.7746
+30003,Rural,Big Horn County,Montana,34.7,0.8335
+42063,Urban,Indiana County,Pennsylvania,34.7,0.4161
+42097,Urban,Northumberland County,Pennsylvania,34.7,0.4311
+45087,Urban,Union County,South Carolina,34.7,0.844
+53027,Urban,Grays Harbor County,Washington,34.7,0.8653
+20209,Urban,Wyandotte County,Kansas,34.8,0.9242
+54043,Urban,Lincoln County,West Virginia,34.8,0.6039
+05003,Rural,Ashley County,Arkansas,34.9,0.8052
+24017,Urban,Charles County,Maryland,34.9,0.149
+40101,Urban,Muskogee County,Oklahoma,34.9,0.9
+30085,Rural,Roosevelt County,Montana,35,0.6928
+35025,Urban,Lea County,New Mexico,35,0.8354
+54109,Rural,Wyoming County,West Virginia,35,0.5654
+21135,Rural,Lewis County,Kentucky,35.1,0.7663
+31147,Rural,Richardson County,Nebraska,35.1,0.1347
+39145,Urban,Scioto County,Ohio,35.1,0.7794
+42037,Urban,Columbia County,Pennsylvania,35.1,0.2448
+51650,Urban,Hampton City,Virginia,35.1,0.6568
+05123,Urban,St. Francis County,Arkansas,35.2,0.9889
+06107,Urban,Tulare County,California,35.2,0.9363
+45039,Urban,Fairfield County,South Carolina,35.2,0.8545
+48183,Urban,Gregg County,Texas,35.2,0.8395
+01131,Rural,Wilcox County,Alabama,35.3,0.9236
+12077,Rural,Liberty County,Florida,35.3,0.9067
+01109,Urban,Pike County,Alabama,35.4,0.8618
+22051,Urban,Jefferson Parish,Louisiana,35.4,0.5686
+27115,Rural,Pine County,Minnesota,35.4,0.6014
+39087,Urban,Lawrence County,Ohio,35.4,0.4664
+01097,Urban,Mobile County,Alabama,35.5,0.7975
+21125,Urban,Laurel County,Kentucky,35.5,0.8103
+39051,Urban,Fulton County,Ohio,35.5,0.1251
+39073,Urban,Hocking County,Ohio,35.5,0.4871
+48355,Urban,Nueces County,Texas,35.5,0.836
+51730,Urban,Petersburg City,Virginia,35.5,0.9516
+19105,Urban,Jones County,Iowa,35.6,0.1417
+20175,Urban,Seward County,Kansas,35.6,0.8844
+42111,Urban,Somerset County,Pennsylvania,35.6,0.3613
+55078,Urban,Menominee County,Wisconsin,35.6,0.8214
+51740,Urban,Portsmouth City,Virginia,35.7,0.7851
+28151,Urban,Washington County,Mississippi,35.8,0.9758
+46121,Rural,Todd County,South Dakota,35.8,0.9752
+45031,Urban,Darlington County,South Carolina,35.9,0.9089
+22097,Urban,St. Landry Parish,Louisiana,36,0.8564
+45029,Rural,Colleton County,South Carolina,36,0.9303
+46137,Rural,Ziebach County,South Dakota,36,0.8883
+28067,Urban,Jones County,Mississippi,36.1,0.9245
+21089,Urban,Greenup County,Kentucky,36.2,0.5161
+22109,Urban,Terrebonne Parish,Louisiana,36.2,0.8017
+40153,Urban,Woodward County,Oklahoma,36.3,0.4046
+21127,Rural,Lawrence County,Kentucky,36.4,0.5285
+01047,Urban,Dallas County,Alabama,36.7,0.9659
+28083,Urban,Leflore County,Mississippi,36.7,0.9672
+01105,Rural,Perry County,Alabama,36.8,1
+39081,Urban,Jefferson County,Ohio,36.8,0.4747
+42033,Urban,Clearfield County,Pennsylvania,36.8,0.4782
+42051,Urban,Fayette County,Pennsylvania,36.8,0.6348
+54059,Rural,Mingo County,West Virginia,36.8,0.6721
+21195,Rural,Pike County,Kentucky,36.9,0.723
+22057,Urban,Lafourche Parish,Louisiana,36.9,0.7475
+48005,Urban,Angelina County,Texas,36.9,0.9484
+21131,Rural,Leslie County,Kentucky,37.3,0.6479
+48215,Urban,Hidalgo County,Texas,37.3,0.9701
+18053,Urban,Grant County,Indiana,37.4,0.7507
+01005,Rural,Barbour County,Alabama,37.5,0.9742
+38079,Rural,Rolette County,North Dakota,37.7,0.8032
+21043,Rural,Carter County,Kentucky,37.8,0.6094
+26145,Urban,Saginaw County,Michigan,37.9,0.68
+37155,Urban,Robeson County,North Carolina,37.9,0.9984
+01023,Rural,Choctaw County,Alabama,38.1,0.8309
+05069,Urban,Jefferson County,Arkansas,38.1,0.8854
+48061,Urban,Cameron County,Texas,38.1,0.9774
+54045,Urban,Logan County,West Virginia,38.2,0.5568
+31173,Rural,Thurston County,Nebraska,38.3,0.8806
+45059,Urban,Laurens County,South Carolina,38.3,0.9093
+46041,Rural,Dewey County,South Dakota,38.3,0.9134
+24039,Urban,Somerset County,Maryland,38.5,0.8676
+46031,Rural,Corson County,South Dakota,38.5,0.8303
+01121,Urban,Talladega County,Alabama,38.6,0.9226
+45075,Urban,Orangeburg County,South Carolina,39.2,0.9599
+54047,Rural,Mcdowell County,West Virginia,39.2,0.8819
+05107,Urban,Phillips County,Arkansas,39.4,0.9755
+46102,Rural,Oglala Lakota County,South Dakota,39.5,No Data
+45027,Rural,Clarendon County,South Carolina,39.6,0.9825
+45089,Rural,Williamsburg County,South Carolina,39.6,0.9704
+45061,Rural,Lee County,South Carolina,39.7,0.9876
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,,,,,
