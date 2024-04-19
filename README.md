@@ -11,6 +11,8 @@ STUDY OF THE SPATIAL RELATIONSHIP BETWEEN FOOD SOURCES AND HEALTH OUTCOMES IN TH
 
 **County Boundaries** - https://www.arcgis.com/home/item.html?id=f16090f6d3da48ec8f144a0771c8fec4
 
+**NB: You might need to download the County boundary from the link above. File was to big to push into the repository**
+
 ## Dependencies
 
 To run this notebook effectively, ensure the following Python libraries are installed:
